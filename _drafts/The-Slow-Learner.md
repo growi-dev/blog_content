@@ -13,7 +13,7 @@ In this post I'd like to tell the story of my personal learning experience and h
 I've been writing code since I was 12 years old. 
 
 First I was just tinkering with computers to make the latest games run on my dad's PC. That was the era of the Intel  80386 and MS DOS. It was the prehistoric time before the Web was readily available and knowledge of computers was something that made you stand out. 
-The time when games were traded in the school yard and we just added LH 
+The time when games were traded in the school yard and we tried adding LH in front of  
 
 In school I met a friend who owned his own Commodore 64
 
@@ -47,5 +47,6 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4MTA2MTgzLC0xODEwMTM0NDQ0XX0=
+eyJoaXN0b3J5IjpbMTQwODkwNjQ2MSw4NDgxMDYxODMsLTE4MT
+AxMzQ0NDRdfQ==
 -->
