@@ -3,6 +3,7 @@ title: The Slow Learner
 tags:
 - personal
 - architecture
+- programming
 ---
 # The Slow Learner
 #### Or discovering why shit is complicated
