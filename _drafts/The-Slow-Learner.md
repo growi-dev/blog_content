@@ -15,9 +15,9 @@ I've been writing code since I was 12 years old.
 First I was just tinkering with computers to make the latest games run on my dad's PC. That was the era of the Intel  80386 and MS DOS. It was the prehistoric time before the Web was readily available and knowledge of computers was something that still made you stand out. 
 The time when games were traded in the school yard and we tried adding `LH` in front of  every driver definitions in the `autoexec.bat` to make them run.
 
-In school I met a friend who owned his very own Commodore 64 and he was awsome. He could make his computer do stuff because he knew BASIC. Thanks to him I discovered programming and not only that I found out that MS DOS came with `QBASIC.EXE`. Yes my first IDE was blue.
+In school I met a friend who owned his very own Commodore 64 and he was awsome. He could make his computer do stuff because he knew BASIC. Thanks to him I discovered programming and not only that I found out that MS DOS came with `QBASIC.EXE`. 
 
-QBASIC was my first programming language  
+QBASIC was my first programming language. It taught me about Subs and Functions
 
 i love to code
 i love reading code
@@ -49,7 +49,7 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDMyNzczMSwxMTcwMDg2MDI5LC0xND
-M1MzgzNDAyLDE3ODU3MTI2NzksODQ4MTA2MTgzLC0xODEwMTM0
-NDQ0XX0=
+eyJoaXN0b3J5IjpbOTk4OTY4MjQ5LC04ODQzMjc3MzEsMTE3MD
+A4NjAyOSwtMTQzNTM4MzQwMiwxNzg1NzEyNjc5LDg0ODEwNjE4
+MywtMTgxMDEzNDQ0NF19
 -->
