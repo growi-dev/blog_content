@@ -21,7 +21,7 @@ QBASIC was my first programming language. It taught me about `if` and `while`, S
 
 Later we took a computer course in school where they taught Turbo Pascal but at that point there was nothing new besides syntax. It was the mid 90s and while the Web took off we starting messing around with HTML and later JavaScript, Websites where really shiny then.
 
-My friend moved on to become PHP dev while I messed around with ViualBasic, VBScript (in an infrastructure job), Java (they had Applets!) then C# (because it is beautiful) and finally Java again. So yeah, somewhere on the way I got infected with the OO paradigm.
+My friend moved on to become PHP dev while I messed around with ViualBasic, VBScript (in an infrastructure job), Java (they had Applets!) then C# (because it is beautiful), then LotusScipt (because I needed the money) and finally Java again. So yeah, somewhere on the way I got infected with the OO paradigm.
 
 
 i love to code
@@ -54,7 +54,8 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0NTM2NDExLDEyMDIzNTQ5OCwtNjc0MT
-A1NTYyLC04ODQzMjc3MzEsMTE3MDA4NjAyOSwtMTQzNTM4MzQw
-MiwxNzg1NzEyNjc5LDg0ODEwNjE4MywtMTgxMDEzNDQ0NF19
+eyJoaXN0b3J5IjpbLTk4NTU0ODcyOCwxMjAyMzU0OTgsLTY3ND
+EwNTU2MiwtODg0MzI3NzMxLDExNzAwODYwMjksLTE0MzUzODM0
+MDIsMTc4NTcxMjY3OSw4NDgxMDYxODMsLTE4MTAxMzQ0NDRdfQ
+==
 -->
