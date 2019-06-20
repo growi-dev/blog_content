@@ -1,0 +1,41 @@
+---
+title: The Slow Learner
+tags:
+- personal
+- architecture
+---
+# The Slow Learner
+#### Or discovering why shit is complicated
+In this post I'd like to tell the story of my personal learning experience and how it got me started on my journey to become a software architect.
+## How it all started
+I've been writing code since I was 12 years old. First I was just tinkering with computers to make the latest games run on my dad's PC. That was the era of the Intel  80386 and MS DOS. In school I met a friend who owned his own Commodore 64
+
+i love to code
+i love reading code
+i love to see how it all fits together
+
+i tend to stare at code for hours while coming up with a design that fits all my use cases at once 
+
+## Missing Skills
+memorize stuff
+just use what other have given you
+
+## Frustrations
+reading docs
+asking why
+asking how
+## Counterpoint
+learning concepts
+asking the why
+learning patterns
+## Comprehension
+I've newer wrote the same code twice (don't tell my employer)
+## Control
+puzzle solving
+code is a jigsaw puzzle
+## Design
+Uncle Bob
+SOLID 
+## TL;DR
+I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
+
