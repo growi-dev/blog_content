@@ -5,7 +5,8 @@ tags:
 - architecture
 - programming
 ---
-# The Slow Learner <span style="">or discovering why shit is complicated
+<h1>The Slow Learner
+ <span style="font-size: 8px;">or discovering why shit is complicated
 </span>
 #### or discovering why shit is complicated
 
@@ -53,8 +54,8 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTAzNTAxOTIsMTIzNTA1MTYzMCwtOD
-M0Nzc4MzYsMTkxODE1NDQyNiwxMjAyMzU0OTgsLTY3NDEwNTU2
-MiwtODg0MzI3NzMxLDExNzAwODYwMjksLTE0MzUzODM0MDIsMT
-c4NTcxMjY3OSw4NDgxMDYxODMsLTE4MTAxMzQ0NDRdfQ==
+eyJoaXN0b3J5IjpbMTE5MDcwODc1MiwxMjM1MDUxNjMwLC04Mz
+Q3NzgzNiwxOTE4MTU0NDI2LDEyMDIzNTQ5OCwtNjc0MTA1NTYy
+LC04ODQzMjc3MzEsMTE3MDA4NjAyOSwtMTQzNTM4MzQwMiwxNz
+g1NzEyNjc5LDg0ODEwNjE4MywtMTgxMDEzNDQ0NF19
 -->
