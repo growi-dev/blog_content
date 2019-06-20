@@ -40,8 +40,8 @@ Math can bee like that when it's being taught wrong (at least up to a point). Co
 People who are able to utilize mechanical skills are getting to solutions quickly. They are able to show proficiancy in a newly aquired skill quickly. They get the work done. And maybe when they did it long enough, applied the skill often enough, they grasp the core concepts in the end. Or maybe not. They are still getting stuff done. 
 I'm not one of those people. 
 
-I need to understand stuff. How? and Why? are my standard questions and they are being applied to everything. And if they aren't being answered sufficiently I get frustrated but I dont learn anything. If you can't explain it I don't care.
-I'm shure you can see how this mindset can be an obstacle. But what can I say? I am just wired that way.
+I need to understand stuff. How? and Why? are my standard questions and they are being applied to everything. And if they aren't being answered sufficiently I get frustrated but I dont learn anything. If you can't explain it I don't care. I learn concepts not algorithms,
+I'm shure you can see how this mindset can be an obstacle. But what can I say? I'm just wired that way.
 
 memorize stuff
 just use what other have given you
@@ -73,7 +73,7 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyMjc4NjcwLC0xMzY3ODIyODA0LC01MT
+eyJoaXN0b3J5IjpbMzY2MzU3OTY1LC0xMzY3ODIyODA0LC01MT
 I4NTU4OTIsMTA5NTY0Mjg1MiwtMTA2Njg4NDUzNywxNjEyNjM4
 NDY3LDIxMDc3NjM4NTQsMTM0OTE2MjMwNCwxMjM1MDUxNjMwLC
 04MzQ3NzgzNiwxOTE4MTU0NDI2LDEyMDIzNTQ5OCwtNjc0MTA1
