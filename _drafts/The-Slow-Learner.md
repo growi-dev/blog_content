@@ -9,6 +9,7 @@ tags:
 #### or discovering why shit is complicated
 
 In this post I'd like to share the story of my personal learning experience and how it got me started on my journey to become a software architect.
+
 ## How it all began
 I've been writing code since I was 12 years old. And while I don't want to bore you wth my life's story, 
 i need you to untestand where I'm coming from so you migth understand where I am going and why.
@@ -34,10 +35,12 @@ just use what other have given you
 reading docs
 asking why
 asking how
+
 ## Counterpoint
 learning concepts
 asking the why
 learning patterns
+
 ## Comprehension
 I've newer wrote the same code twice (don't tell my employer)
 
@@ -46,16 +49,18 @@ i tend to stare at code for hours while coming up with a design that fits all my
 ## Control
 puzzle solving
 code is a jigsaw puzzle
+
 ## Design
 Uncle Bob
 SOLID 
+
 ## TL;DR
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjYzODQ2NywyMTA3NzYzODU0LDEzND
-kxNjIzMDQsMTIzNTA1MTYzMCwtODM0Nzc4MzYsMTkxODE1NDQy
-NiwxMjAyMzU0OTgsLTY3NDEwNTU2MiwtODg0MzI3NzMxLDExNz
-AwODYwMjksLTE0MzUzODM0MDIsMTc4NTcxMjY3OSw4NDgxMDYx
-ODMsLTE4MTAxMzQ0NDRdfQ==
+eyJoaXN0b3J5IjpbMTkxMTY0OTM2NSwxNjEyNjM4NDY3LDIxMD
+c3NjM4NTQsMTM0OTE2MjMwNCwxMjM1MDUxNjMwLC04MzQ3Nzgz
+NiwxOTE4MTU0NDI2LDEyMDIzNTQ5OCwtNjc0MTA1NTYyLC04OD
+QzMjc3MzEsMTE3MDA4NjAyOSwtMTQzNTM4MzQwMiwxNzg1NzEy
+Njc5LDg0ODEwNjE4MywtMTgxMDEzNDQ0NF19
 -->
