@@ -10,7 +10,7 @@ tags:
 
 In this post I'd like to tell the story of my personal learning experience and how it got me started on my journey to become a software architect.
 ## How it all started
-I've been writing code since I was 12 years old. First I was just tinkering with computers to make the latest games run on my dad's PC. That was the era of the Intel  80386 and MS DOS. It was the prehistoric time before the Web was readily available in my little corner of the world 
+I've been writing code since I was 12 years old. First I was just tinkering with computers to make the latest games run on my dad's PC. That was the era of the Intel  80386 and MS DOS. It was the prehistoric time before the Web was readily available in my little corner of the world and knowledge of computers was something that made you stand out. 
 
 In school I met a friend who owned his own Commodore 64
 
@@ -44,5 +44,5 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0Nzk5MjY0XX0=
+eyJoaXN0b3J5IjpbNzcwMDA2MzY4XX0=
 -->
