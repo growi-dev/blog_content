@@ -17,7 +17,8 @@ The time when games were traded in the school yard and we tried adding `LH` in f
 
 In school I met a friend who owned his very own Commodore 64 and he was awsome. He could make his computer do stuff because he knew BASIC. Thanks to him I discovered programming and not only that I found out that MS DOS came with `QBASIC.EXE`. 
 
-QBASIC was my first programming language. It taught me about Subs and Functions. Also: `GOTO`. At that time I had no resorces that could teach me programming in a structured way. My friend lived in a house where some computer magazines existed but I did not. I am pretty shure that even the local library had nothing of the sort at that time. So we mainly learned by messing around
+QBASIC was my first programming language. It taught me about Subs and Functions. Also: `GOTO`. At that time I had no resorces that could teach me programming in a structured way. My friend lived in a house where some computer magazines existed but I did not. I am pretty shure that even the local library had nothing of the sort at that time. So we mainly learned by messing around. It 
+
 
 i love to code
 i love reading code
@@ -49,7 +50,7 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODE4MDE0OCwtODg0MzI3NzMxLDExNz
+eyJoaXN0b3J5IjpbLTg1NTEwMDYzMywtODg0MzI3NzMxLDExNz
 AwODYwMjksLTE0MzUzODM0MDIsMTc4NTcxMjY3OSw4NDgxMDYx
 ODMsLTE4MTAxMzQ0NDRdfQ==
 -->
