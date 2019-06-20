@@ -10,7 +10,7 @@ tags:
 
 In this post I'd like to share the story of my personal learning experience and how it got me started on my journey to become a software architect.
 ## How it all began
-I've been writing code since I was 12 years old. 
+I've been writing code since I was 12 years old. And while I don't want to bore you wth my life'
 
 First I was just tinkering with computers to make the latest games run on my dad's PC. That was the era of the Intel 80386 and MS DOS. It was the prehistoric time before the Web was readily available and knowledge of computers was something that still made you stand out. 
 The time when games were traded in the school yard and we tried adding `LH` in front of  every driver definitions in the `autoexec.bat` to make them run.
@@ -52,9 +52,9 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzc2Mzg1NCwxMzQ5MTYyMzA0LDEyMz
-UwNTE2MzAsLTgzNDc3ODM2LDE5MTgxNTQ0MjYsMTIwMjM1NDk4
-LC02NzQxMDU1NjIsLTg4NDMyNzczMSwxMTcwMDg2MDI5LC0xND
-M1MzgzNDAyLDE3ODU3MTI2NzksODQ4MTA2MTgzLC0xODEwMTM0
-NDQ0XX0=
+eyJoaXN0b3J5IjpbLTE3NDE0ODQ4MzksMjEwNzc2Mzg1NCwxMz
+Q5MTYyMzA0LDEyMzUwNTE2MzAsLTgzNDc3ODM2LDE5MTgxNTQ0
+MjYsMTIwMjM1NDk4LC02NzQxMDU1NjIsLTg4NDMyNzczMSwxMT
+cwMDg2MDI5LC0xNDM1MzgzNDAyLDE3ODU3MTI2NzksODQ4MTA2
+MTgzLC0xODEwMTM0NDQ0XX0=
 -->
