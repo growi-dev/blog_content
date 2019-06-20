@@ -33,7 +33,7 @@ Learning being the most prominent of them. I have major difficulties learning me
 By mechanical skills I mean skills that require you to follow a given set of instructions to solve a problem. The core skill here is to select the right strategy, follow the right path thru the instruction set, to handle the problem. 
 To be able to efficiently apply the core problem solving skill you need to know the instruction set, all of it.
 Learning the instruction set without context comes down to memorizing a bunch of useless stuff. Useless because there aren't any connections to concepts you already know and understand.
-Coding can be like that. 
+Math can bee like that when it's getting taught wrong. Coding can be like that too. 
 memorize stuff
 just use what other have given you
 
@@ -64,10 +64,10 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDIzNzk5MCwxMDk1NjQyODUyLC0xMD
-Y2ODg0NTM3LDE2MTI2Mzg0NjcsMjEwNzc2Mzg1NCwxMzQ5MTYy
-MzA0LDEyMzUwNTE2MzAsLTgzNDc3ODM2LDE5MTgxNTQ0MjYsMT
-IwMjM1NDk4LC02NzQxMDU1NjIsLTg4NDMyNzczMSwxMTcwMDg2
-MDI5LC0xNDM1MzgzNDAyLDE3ODU3MTI2NzksODQ4MTA2MTgzLC
-0xODEwMTM0NDQ0XX0=
+eyJoaXN0b3J5IjpbLTIxMzMxNjY2ODUsMTA5NTY0Mjg1MiwtMT
+A2Njg4NDUzNywxNjEyNjM4NDY3LDIxMDc3NjM4NTQsMTM0OTE2
+MjMwNCwxMjM1MDUxNjMwLC04MzQ3NzgzNiwxOTE4MTU0NDI2LD
+EyMDIzNTQ5OCwtNjc0MTA1NTYyLC04ODQzMjc3MzEsMTE3MDA4
+NjAyOSwtMTQzNTM4MzQwMiwxNzg1NzEyNjc5LDg0ODEwNjE4My
+wtMTgxMDEzNDQ0NF19
 -->
