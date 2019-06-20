@@ -12,7 +12,7 @@ In this post I'd like to share the story of my personal learning experience and 
 ## How it all began
 I've been writing code since I was 12 years old. 
 
-First I was just tinkering with computers to make the latest games run on my dad's PC. That was the era of the Intel  80386 and MS DOS. It was the prehistoric time before the Web was readily available and knowledge of computers was something that still made you stand out. 
+First I was just tinkering with computers to make the latest games run on my dad's PC. That was the era of the Intel 80386 and MS DOS. It was the prehistoric time before the Web was readily available and knowledge of computers was something that still made you stand out. 
 The time when games were traded in the school yard and we tried adding `LH` in front of  every driver definitions in the `autoexec.bat` to make them run.
 
 In school I met a friend who owned his very own Commodore 64 and he was awsome. He could make his computer do stuff because he knew BASIC. Thanks to him I discovered programming and not only that I found out that MS DOS came with `QBASIC.EXE`. 
@@ -52,8 +52,8 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDc3ODM2LDE5MTgxNTQ0MjYsMTIwMj
-M1NDk4LC02NzQxMDU1NjIsLTg4NDMyNzczMSwxMTcwMDg2MDI5
-LC0xNDM1MzgzNDAyLDE3ODU3MTI2NzksODQ4MTA2MTgzLC0xOD
-EwMTM0NDQ0XX0=
+eyJoaXN0b3J5IjpbMTIzNTA1MTYzMCwtODM0Nzc4MzYsMTkxOD
+E1NDQyNiwxMjAyMzU0OTgsLTY3NDEwNTU2MiwtODg0MzI3NzMx
+LDExNzAwODYwMjksLTE0MzUzODM0MDIsMTc4NTcxMjY3OSw4ND
+gxMDYxODMsLTE4MTAxMzQ0NDRdfQ==
 -->
