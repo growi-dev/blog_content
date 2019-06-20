@@ -5,9 +5,7 @@ tags:
 - architecture
 - programming
 ---
-<h1>The Slow Learner
- <span style="font-size:11px !important">or discovering why shit is complicated</span>
-</h1>
+# The Slow Learner
 #### or discovering why shit is complicated
 
 In this post I'd like to share the story of my personal learning experience and how it got me started on my journey to become a software architect.
@@ -54,9 +52,9 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDYyMTE1ODIsMTM0OTE2MjMwNCwxMj
-M1MDUxNjMwLC04MzQ3NzgzNiwxOTE4MTU0NDI2LDEyMDIzNTQ5
-OCwtNjc0MTA1NTYyLC04ODQzMjc3MzEsMTE3MDA4NjAyOSwtMT
-QzNTM4MzQwMiwxNzg1NzEyNjc5LDg0ODEwNjE4MywtMTgxMDEz
-NDQ0NF19
+eyJoaXN0b3J5IjpbMjEwNzc2Mzg1NCwxMzQ5MTYyMzA0LDEyMz
+UwNTE2MzAsLTgzNDc3ODM2LDE5MTgxNTQ0MjYsMTIwMjM1NDk4
+LC02NzQxMDU1NjIsLTg4NDMyNzczMSwxMTcwMDg2MDI5LC0xND
+M1MzgzNDAyLDE3ODU3MTI2NzksODQ4MTA2MTgzLC0xODEwMTM0
+NDQ0XX0=
 -->
