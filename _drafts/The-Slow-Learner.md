@@ -21,7 +21,7 @@ QBASIC was my first programming language. It taught me about `if` and `while`, S
 
 Later we took a computer course in school where they taught Turbo Pascal but at that point there was nothing new besides syntax. It was the mid 90s and while the Web took off we starting messing around with HTML and later JavaScript, Websites where really shiny then.
 
-My friend moved on to become PHP dev while I messed around with VBScript (in an infrastructure job), Java ()
+My friend moved on to become PHP dev while I messed around with VBScript (in an infrastructure job), Java (they had Applets!) then C# and finally Java again.
 
 i love to code
 i love reading code
@@ -53,8 +53,8 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MTY5Mjk4MSwxMjAyMzU0OTgsLTY3ND
-EwNTU2MiwtODg0MzI3NzMxLDExNzAwODYwMjksLTE0MzUzODM0
-MDIsMTc4NTcxMjY3OSw4NDgxMDYxODMsLTE4MTAxMzQ0NDRdfQ
-==
+eyJoaXN0b3J5IjpbLTE2MTY2OTMyNTksMTIwMjM1NDk4LC02Nz
+QxMDU1NjIsLTg4NDMyNzczMSwxMTcwMDg2MDI5LC0xNDM1Mzgz
+NDAyLDE3ODU3MTI2NzksODQ4MTA2MTgzLC0xODEwMTM0NDQ0XX
+0=
 -->
