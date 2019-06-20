@@ -23,7 +23,7 @@ Later we took a computer course in school where they taught Turbo Pascal but at 
 
 My friend moved on to become PHP dev while I messed around with VisualBasic, VBScript (in an infrastructure job), Java (they had Applets!) then C# (because it is beautiful), then LotusScipt (because I needed the money) and finally Java again. Somewhere on the way I got infected with the OO paradigm.
 
-While it took me only one paragraph to give the highlights of my programming experience, for the most part it felt like years in hell. 
+While it took me only one paragraph to give the highlights of my programming experience, for the most part it felt like years in hell. Don't get me wrong, I
 
 i love to code
 i love reading code
@@ -55,8 +55,8 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTUzMzExMjYsMTIwMjM1NDk4LC02Nz
-QxMDU1NjIsLTg4NDMyNzczMSwxMTcwMDg2MDI5LC0xNDM1Mzgz
-NDAyLDE3ODU3MTI2NzksODQ4MTA2MTgzLC0xODEwMTM0NDQ0XX
-0=
+eyJoaXN0b3J5IjpbMTgyNTI1MjI0MCwxMjAyMzU0OTgsLTY3ND
+EwNTU2MiwtODg0MzI3NzMxLDExNzAwODYwMjksLTE0MzUzODM0
+MDIsMTc4NTcxMjY3OSw4NDgxMDYxODMsLTE4MTAxMzQ0NDRdfQ
+==
 -->
