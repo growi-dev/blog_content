@@ -40,3 +40,6 @@ SOLID
 ## TL;DR
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU1MzE1MDU4XX0=
+-->
