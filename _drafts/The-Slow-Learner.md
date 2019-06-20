@@ -29,11 +29,14 @@ While it took me only one paragraph to give the highlights of my programming exp
 
 ## Missing Skills
 I'm not a feature complete software engineer. I'm not a feature complete human being. I have many shortcomings and some of them impacted my carrer quite a bit. 
-Learning being the most prominent of them. I have major difficulties learning mechanical skills.
+Learning being the most prominent of them. 
+
+I have major difficulties learning mechanical skills.
 By mechanical skills I mean skills that require you to follow a given set of instructions to solve a problem. The core skill here is to select the right strategy, follow the right path thru the instruction set, to handle the problem. 
 To be able to efficiently apply the core problem solving skill you need to know the instruction set, all of it.
 Learning the instruction set without context comes down to memorizing a bunch of useless stuff. Useless because there aren't any connections to concepts you already know and understand.
-Math can bee like that when it's being taught wrong (at least up to a point).  Coding can be like that too. 
+
+Math can bee like that when it's being taught wrong (at least up to a point). Coding can be like that too. 
 People who are able to utilize mechanical skills are getting to solutions quickly. They are able to show proficiancy in a newly aquired skill quickly. They get the work done. And maybe when they did it long enough, applied the skill often enough, they grasp the core concepts in the end. Or maybe not. They are still getting stuff done. 
 I'm not one of those people. 
 
@@ -67,10 +70,10 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5MDk2ODUyLDEwOTU2NDI4NTIsLTEwNj
-Y4ODQ1MzcsMTYxMjYzODQ2NywyMTA3NzYzODU0LDEzNDkxNjIz
-MDQsMTIzNTA1MTYzMCwtODM0Nzc4MzYsMTkxODE1NDQyNiwxMj
-AyMzU0OTgsLTY3NDEwNTU2MiwtODg0MzI3NzMxLDExNzAwODYw
-MjksLTE0MzUzODM0MDIsMTc4NTcxMjY3OSw4NDgxMDYxODMsLT
-E4MTAxMzQ0NDRdfQ==
+eyJoaXN0b3J5IjpbLTUxMjg1NTg5MiwxMDk1NjQyODUyLC0xMD
+Y2ODg0NTM3LDE2MTI2Mzg0NjcsMjEwNzc2Mzg1NCwxMzQ5MTYy
+MzA0LDEyMzUwNTE2MzAsLTgzNDc3ODM2LDE5MTgxNTQ0MjYsMT
+IwMjM1NDk4LC02NzQxMDU1NjIsLTg4NDMyNzczMSwxMTcwMDg2
+MDI5LC0xNDM1MzgzNDAyLDE3ODU3MTI2NzksODQ4MTA2MTgzLC
+0xODEwMTM0NDQ0XX0=
 -->
