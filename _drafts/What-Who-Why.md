@@ -11,8 +11,8 @@ software architecture
 ## Who 
 Björn Großewinkelmann
 ## Why
-alearn to articulate my ideas and beliefes
+learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDQ3NDIzNl19
+eyJoaXN0b3J5IjpbMTkzNjc1NTQ0OSwtNTAwNDc0MjM2XX0=
 -->
