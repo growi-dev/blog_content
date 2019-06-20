@@ -15,9 +15,9 @@ I've been writing code since I was 12 years old. And while I don't want to bore 
 i need you to untestand where I'm coming from so you migth understand where I am going and why.
 
 First I was just tinkering with computers to make the latest games run on my dad's PC. That was the era of the Intel 80386 and MS DOS. It was the prehistoric time before the Web was readily available and knowledge of computers was something that still made you stand out. 
-The time when games were traded in the school yard and we tried adding `LH` in front of  every driver definitions in the `autoexec.bat` to make them run.
+The time when games were traded in the school yard and we tried adding `LH` in front of  every driver definition in the `autoexec.bat` to make them run.
 
-In school I met a friend who owned his very own Commodore 64 and he was awsome. He could make his computer do stuff because he knew BASIC. Thanks to him I discovered programming and not only that, I found out that MS DOS came with a magical tool called`QBASIC.EXE`. 
+In high school I met a friend who owned his very own Commodore 64 and he was awsome. He could make his computer do stuff because he knew BASIC. Thanks to him I discovered programming and not only that, I found out that MS DOS came with a magical tool called`QBASIC.EXE`. 
 
 QBASIC was my first programming language. It taught me about `if` and `while`, Subs and Functions. Also: `GOTO`. At that time I had no resorces that could teach me programming in a structured way. My friend lived in a household where some computer magazines existed but I did not. I am pretty shure that even the local library had nothing of the sort at the time. So we mainly learned by messing around. It was the ultimate trial and error approach.
 
@@ -61,9 +61,10 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjY4ODQ1MzcsMTYxMjYzODQ2NywyMT
-A3NzYzODU0LDEzNDkxNjIzMDQsMTIzNTA1MTYzMCwtODM0Nzc4
-MzYsMTkxODE1NDQyNiwxMjAyMzU0OTgsLTY3NDEwNTU2MiwtOD
-g0MzI3NzMxLDExNzAwODYwMjksLTE0MzUzODM0MDIsMTc4NTcx
-MjY3OSw4NDgxMDYxODMsLTE4MTAxMzQ0NDRdfQ==
+eyJoaXN0b3J5IjpbMTA5NTY0Mjg1MiwtMTA2Njg4NDUzNywxNj
+EyNjM4NDY3LDIxMDc3NjM4NTQsMTM0OTE2MjMwNCwxMjM1MDUx
+NjMwLC04MzQ3NzgzNiwxOTE4MTU0NDI2LDEyMDIzNTQ5OCwtNj
+c0MTA1NTYyLC04ODQzMjc3MzEsMTE3MDA4NjAyOSwtMTQzNTM4
+MzQwMiwxNzg1NzEyNjc5LDg0ODEwNjE4MywtMTgxMDEzNDQ0NF
+19
 -->
