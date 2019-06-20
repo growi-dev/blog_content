@@ -34,7 +34,7 @@ By mechanical skills I mean skills that require you to follow a given set of ins
 To be able to efficiently apply the core problem solving skill you need to know the instruction set, all of it.
 Learning the instruction set without context comes down to memorizing a bunch of useless stuff. Useless because there aren't any connections to concepts you already know and understand.
 Math can bee like that when it's being taught wrong (at least up to a point).  Coding can be like that too. 
-People who are able to utilize mechanical skills are getting to solutions quickly. They are able to show proficiancy in a newly aquired skill quickly. They get the work done.
+People who are able to utilize mechanical skills are getting to solutions quickly. They are able to show proficiancy in a newly aquired skill quickly. They get the work done. And maybe when they did it long enough, applied the skill often enough, they grasp the core c 
 I'm not one of those people. 
 
 memorize stuff
@@ -67,10 +67,10 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2NjY4MjY5LDEwOTU2NDI4NTIsLTEwNj
-Y4ODQ1MzcsMTYxMjYzODQ2NywyMTA3NzYzODU0LDEzNDkxNjIz
-MDQsMTIzNTA1MTYzMCwtODM0Nzc4MzYsMTkxODE1NDQyNiwxMj
-AyMzU0OTgsLTY3NDEwNTU2MiwtODg0MzI3NzMxLDExNzAwODYw
-MjksLTE0MzUzODM0MDIsMTc4NTcxMjY3OSw4NDgxMDYxODMsLT
-E4MTAxMzQ0NDRdfQ==
+eyJoaXN0b3J5IjpbLTE2ODA4NDM1NTEsMTA5NTY0Mjg1MiwtMT
+A2Njg4NDUzNywxNjEyNjM4NDY3LDIxMDc3NjM4NTQsMTM0OTE2
+MjMwNCwxMjM1MDUxNjMwLC04MzQ3NzgzNiwxOTE4MTU0NDI2LD
+EyMDIzNTQ5OCwtNjc0MTA1NTYyLC04ODQzMjc3MzEsMTE3MDA4
+NjAyOSwtMTQzNTM4MzQwMiwxNzg1NzEyNjc5LDg0ODEwNjE4My
+wtMTgxMDEzNDQ0NF19
 -->
