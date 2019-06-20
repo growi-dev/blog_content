@@ -25,8 +25,6 @@ My friend moved on to become PHP dev while I messed around with VisualBasic, VBS
 
 While it took me only one paragraph to give the highlights of my programming experience, for the most part it felt like years in hell. Don't get me wrong, I love to code. I love reading code. I love to see how it all fits together. Getting there tho, that's a different story.
 
-i tend to stare at code for hours while coming up with a design that fits all my use cases at once 
-
 ## Missing Skills
 memorize stuff
 just use what other have given you
@@ -41,6 +39,9 @@ asking the why
 learning patterns
 ## Comprehension
 I've newer wrote the same code twice (don't tell my employer)
+
+i tend to stare at code for hours while coming up with a design that fits all my use cases at once 
+
 ## Control
 puzzle solving
 code is a jigsaw puzzle
@@ -51,8 +52,8 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODE1NDQyNiwxMjAyMzU0OTgsLTY3ND
-EwNTU2MiwtODg0MzI3NzMxLDExNzAwODYwMjksLTE0MzUzODM0
-MDIsMTc4NTcxMjY3OSw4NDgxMDYxODMsLTE4MTAxMzQ0NDRdfQ
-==
+eyJoaXN0b3J5IjpbLTgzNDc3ODM2LDE5MTgxNTQ0MjYsMTIwMj
+M1NDk4LC02NzQxMDU1NjIsLTg4NDMyNzczMSwxMTcwMDg2MDI5
+LC0xNDM1MzgzNDAyLDE3ODU3MTI2NzksODQ4MTA2MTgzLC0xOD
+EwMTM0NDQ0XX0=
 -->
