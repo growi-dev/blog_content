@@ -16,7 +16,7 @@ i need you to untestand where I'm coming from so you migth understand where I am
 First I was just tinkering with computers to make the latest games run on my dad's PC. That was the era of the Intel 80386 and MS DOS. It was the prehistoric time before the Web was readily available and knowledge of computers was something that still made you stand out. 
 The time when games were traded in the school yard and we tried adding `LH` in front of  every driver definitions in the `autoexec.bat` to make them run.
 
-In school I met a friend who owned his very own Commodore 64 and he was awsome. He could make his computer do stuff because he knew BASIC. Thanks to him I discovered programming and not only that I found out that MS DOS came with `QBASIC.EXE`. 
+In school I met a friend who owned his very own Commodore 64 and he was awsome. He could make his computer do stuff because he knew BASIC. Thanks to him I discovered programming and not only that, I found out that MS DOS came with a magical tool called`QBASIC.EXE`. 
 
 QBASIC was my first programming language. It taught me about `if` and `while`, Subs and Functions. Also: `GOTO`. At that time I had no resorces that could teach me programming in a structured way. My friend lived in a household where some computer magazines existed but I did not. I am pretty shure that even the local library had nothing of the sort at that time. So we mainly learned by messing around. It was the ultimate trial and error approach.
 
@@ -53,7 +53,7 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzEyNTA1NCwyMTA3NzYzODU0LDEzND
+eyJoaXN0b3J5IjpbMTcwNTgxMTAwMCwyMTA3NzYzODU0LDEzND
 kxNjIzMDQsMTIzNTA1MTYzMCwtODM0Nzc4MzYsMTkxODE1NDQy
 NiwxMjAyMzU0OTgsLTY3NDEwNTU2MiwtODg0MzI3NzMxLDExNz
 AwODYwMjksLTE0MzUzODM0MDIsMTc4NTcxMjY3OSw4NDgxMDYx
