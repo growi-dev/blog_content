@@ -7,8 +7,12 @@ tags:
 - programming
 ---
 ## What
+software architecture
 ## Who 
+Björn Großewinkelmann
 ## Why
+alearn to articulate my ideas and beliefes
+also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MzE4NjU5Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTUwMDQ3NDIzNiw3MzA5OTgxMTZdfQ==
 -->
