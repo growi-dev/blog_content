@@ -15,7 +15,7 @@ I've been writing code since I was 12 years old.
 First I was just tinkering with computers to make the latest games run on my dad's PC. That was the era of the Intel  80386 and MS DOS. It was the prehistoric time before the Web was readily available and knowledge of computers was something that made you stand out. 
 The time when games were traded in the school yard and we tried adding ```LH``` in front of  every driver definitions in the ```autoexec.bat``` to make them run.
 
-In school I met a friend who owned his own Commodore 64
+In school I met a friend who owned his very own Commodore 64 
 
 i love to code
 i love reading code
@@ -47,6 +47,6 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyNjkzMjcsODQ4MTA2MTgzLC0xODEwMT
-M0NDQ0XX0=
+eyJoaXN0b3J5IjpbMTc4NTcxMjY3OSw4NDgxMDYxODMsLTE4MT
+AxMzQ0NDRdfQ==
 -->
