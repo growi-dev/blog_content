@@ -6,7 +6,7 @@ tags:
 - programming
 ---
 <h1>The Slow Learner
- <span style="font-size: 8px;">or discovering why shit is complicated</span>
+ <span style="font-size:11px !important">or discovering why shit is complicated</span>
 </h1>
 #### or discovering why shit is complicated
 
@@ -54,8 +54,9 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTE2MjMwNCwxMjM1MDUxNjMwLC04Mz
-Q3NzgzNiwxOTE4MTU0NDI2LDEyMDIzNTQ5OCwtNjc0MTA1NTYy
-LC04ODQzMjc3MzEsMTE3MDA4NjAyOSwtMTQzNTM4MzQwMiwxNz
-g1NzEyNjc5LDg0ODEwNjE4MywtMTgxMDEzNDQ0NF19
+eyJoaXN0b3J5IjpbLTExMDYyMTE1ODIsMTM0OTE2MjMwNCwxMj
+M1MDUxNjMwLC04MzQ3NzgzNiwxOTE4MTU0NDI2LDEyMDIzNTQ5
+OCwtNjc0MTA1NTYyLC04ODQzMjc3MzEsMTE3MDA4NjAyOSwtMT
+QzNTM4MzQwMiwxNzg1NzEyNjc5LDg0ODEwNjE4MywtMTgxMDEz
+NDQ0NF19
 -->
