@@ -29,7 +29,7 @@ While it took me only one paragraph to give the highlights of my programming exp
 
 ## Missing Skills
 I'm not a feature complete software engineer. I'm not a feature complete human being. I have many shortcomings and some of them impacted my carrer quite a bit. 
-Learning being the most prominent of them. I have 
+Learning being the most prominent of them. I have major difficulties learning mechanical skills.
 
 memorize stuff
 just use what other have given you
@@ -61,10 +61,10 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5MTk2NTAxLDEwOTU2NDI4NTIsLTEwNj
-Y4ODQ1MzcsMTYxMjYzODQ2NywyMTA3NzYzODU0LDEzNDkxNjIz
-MDQsMTIzNTA1MTYzMCwtODM0Nzc4MzYsMTkxODE1NDQyNiwxMj
-AyMzU0OTgsLTY3NDEwNTU2MiwtODg0MzI3NzMxLDExNzAwODYw
-MjksLTE0MzUzODM0MDIsMTc4NTcxMjY3OSw4NDgxMDYxODMsLT
-E4MTAxMzQ0NDRdfQ==
+eyJoaXN0b3J5IjpbMjEzNjg2MzE2MCwxMDk1NjQyODUyLC0xMD
+Y2ODg0NTM3LDE2MTI2Mzg0NjcsMjEwNzc2Mzg1NCwxMzQ5MTYy
+MzA0LDEyMzUwNTE2MzAsLTgzNDc3ODM2LDE5MTgxNTQ0MjYsMT
+IwMjM1NDk4LC02NzQxMDU1NjIsLTg4NDMyNzczMSwxMTcwMDg2
+MDI5LC0xNDM1MzgzNDAyLDE3ODU3MTI2NzksODQ4MTA2MTgzLC
+0xODEwMTM0NDQ0XX0=
 -->
