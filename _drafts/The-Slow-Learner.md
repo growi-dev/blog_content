@@ -40,7 +40,8 @@ Math can bee like that when it's being taught wrong (at least up to a point). Co
 People who are able to utilize mechanical skills are getting to solutions quickly. They are able to show proficiancy in a newly aquired skill quickly. They get the work done. And maybe when they did it long enough, applied the skill often enough, they grasp the core concepts in the end. Or maybe not. They are still getting stuff done. 
 I'm not one of those people. 
 
-I need to understand stuff. How? and Why? are my standard questions and they are be
+I need to understand stuff. How? and Why? are my standard questions and they are being applied to everything. And if they aren't being answered sufficiently I get 
+
 memorize stuff
 just use what other have given you
 
@@ -71,7 +72,7 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTYwNzM1NywtMTM2NzgyMjgwNCwtNT
+eyJoaXN0b3J5IjpbLTc4MzY0NjEzMywtMTM2NzgyMjgwNCwtNT
 EyODU1ODkyLDEwOTU2NDI4NTIsLTEwNjY4ODQ1MzcsMTYxMjYz
 ODQ2NywyMTA3NzYzODU0LDEzNDkxNjIzMDQsMTIzNTA1MTYzMC
 wtODM0Nzc4MzYsMTkxODE1NDQyNiwxMjAyMzU0OTgsLTY3NDEw
