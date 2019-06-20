@@ -19,7 +19,7 @@ In school I met a friend who owned his very own Commodore 64 and he was awsome. 
 
 QBASIC was my first programming language. It taught me about `if` and `while`, Subs and Functions. Also: `GOTO`. At that time I had no resorces that could teach me programming in a structured way. My friend lived in a household where some computer magazines existed but I did not. I am pretty shure that even the local library had nothing of the sort at that time. So we mainly learned by messing around. It was the ultimate trial and error approach.
 
-Later we took a computer course in school where they taught Turbo Pascal but at that point there was nothing new besides syntax. It was the late '90s and while the Web took off we starting messing around with HTML and 
+Later we took a computer course in school where they taught Turbo Pascal but at that point there was nothing new besides syntax. It was the late '90s and while the Web took off we starting messing around with HTML and later JavaScript,
 
 
 i love to code
@@ -52,7 +52,7 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDQ4MjIyMSwtNjc0MTA1NTYyLC04OD
-QzMjc3MzEsMTE3MDA4NjAyOSwtMTQzNTM4MzQwMiwxNzg1NzEy
-Njc5LDg0ODEwNjE4MywtMTgxMDEzNDQ0NF19
+eyJoaXN0b3J5IjpbLTk4MDkyNDAyLC02NzQxMDU1NjIsLTg4ND
+MyNzczMSwxMTcwMDg2MDI5LC0xNDM1MzgzNDAyLDE3ODU3MTI2
+NzksODQ4MTA2MTgzLC0xODEwMTM0NDQ0XX0=
 -->
