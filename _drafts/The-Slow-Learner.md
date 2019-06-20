@@ -28,7 +28,7 @@ My friend moved on to become PHP dev while I messed around with VisualBasic, VBS
 While it took me only one paragraph to give the highlights of my programming experience, for the most part it felt like years in hell. Don't get me wrong, I love to code. I love reading code. I love to see how it all fits together. Getting there tho, that's a different story.
 
 ## Missing Skills
-I'm not a feature complete software engineer. I'm not a feature complete human being. I have many shortcommings and some of them impacted my carrer quite a bit. 
+I'm not a feature complete software engineer. I'm not a feature complete human being. I have many shortcomings and some of them impacted my carrer quite a bit. 
 
 
 memorize stuff
@@ -45,7 +45,7 @@ asking the why
 learning patterns
 
 ## Comprehension
-I've newer wrote the same code twice (don't tell my employer)
+I've newer written the same code twice (don't tell my employer)
 
 i tend to stare at code for hours while coming up with a design that fits all my use cases at once 
 
@@ -61,7 +61,7 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDY1MzE4MjgsMTYxMjYzODQ2NywyMT
+eyJoaXN0b3J5IjpbLTEwNjY4ODQ1MzcsMTYxMjYzODQ2NywyMT
 A3NzYzODU0LDEzNDkxNjIzMDQsMTIzNTA1MTYzMCwtODM0Nzc4
 MzYsMTkxODE1NDQyNiwxMjAyMzU0OTgsLTY3NDEwNTU2MiwtOD
 g0MzI3NzMxLDExNzAwODYwMjksLTE0MzUzODM0MDIsMTc4NTcx
