@@ -28,7 +28,7 @@ My friend moved on to become PHP dev while I messed around with VisualBasic, VBS
 While it took me only one paragraph to give the highlights of my programming experience, for the most part it felt like years in hell. Don't get me wrong, I love to code. I love reading code. I love to see how it all fits together. Getting there tho, that's a different story.
 
 ## Missing Skills
-I'm not a feature complete software engineer. I'm not a feature complete human being. I have many shortcomings and some of them impacted my carrer quite a bit. 
+I'm not a feature complete human being. I'm not a feature complete software engineer. I have many shortcomings and some of them impacted my carrer quite a bit. 
 Learning being the most prominent of them. 
 
 I have major difficulties learning mechanical skills.
@@ -70,10 +70,10 @@ SOLID
 I am stupid and need to see the inner workings of stuff to be able to use it. That lead me to getting good at building stuff.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjg1NTg5MiwxMDk1NjQyODUyLC0xMD
-Y2ODg0NTM3LDE2MTI2Mzg0NjcsMjEwNzc2Mzg1NCwxMzQ5MTYy
-MzA0LDEyMzUwNTE2MzAsLTgzNDc3ODM2LDE5MTgxNTQ0MjYsMT
-IwMjM1NDk4LC02NzQxMDU1NjIsLTg4NDMyNzczMSwxMTcwMDg2
-MDI5LC0xNDM1MzgzNDAyLDE3ODU3MTI2NzksODQ4MTA2MTgzLC
-0xODEwMTM0NDQ0XX0=
+eyJoaXN0b3J5IjpbLTEzNjc4MjI4MDQsLTUxMjg1NTg5MiwxMD
+k1NjQyODUyLC0xMDY2ODg0NTM3LDE2MTI2Mzg0NjcsMjEwNzc2
+Mzg1NCwxMzQ5MTYyMzA0LDEyMzUwNTE2MzAsLTgzNDc3ODM2LD
+E5MTgxNTQ0MjYsMTIwMjM1NDk4LC02NzQxMDU1NjIsLTg4NDMy
+NzczMSwxMTcwMDg2MDI5LC0xNDM1MzgzNDAyLDE3ODU3MTI2Nz
+ksODQ4MTA2MTgzLC0xODEwMTM0NDQ0XX0=
 -->
