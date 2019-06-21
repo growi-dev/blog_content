@@ -8,7 +8,7 @@ tags:
 ---
 # Hello World
 Hi there. 
-This is an experiment for me. I am not one who usually 
+This is an experiment for me. I am not one who usually indulges in extrovert self expressions. 
 ## What
 software architecture
 ## Who 
@@ -17,6 +17,6 @@ Björn Großewinkelmann
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzM1NjU2NywtMTczNzcxMjc1MSwtNT
-c0NjUzNjgsMTkzNjc1NTQ0OSwtNTAwNDc0MjM2XX0=
+eyJoaXN0b3J5IjpbMjExNzgyMjI3LC0xNzM3NzEyNzUxLC01Nz
+Q2NTM2OCwxOTM2NzU1NDQ5LC01MDA0NzQyMzZdfQ==
 -->
