@@ -7,6 +7,7 @@ tags:
 - programming
 ---
 # Hello World
+Hi there. 
 This is an experiment for me. I am 
 ## What
 software architecture
@@ -16,6 +17,6 @@ Björn Großewinkelmann
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDY1MzY4LDE5MzY3NTU0NDksLTUwMD
-Q3NDIzNl19
+eyJoaXN0b3J5IjpbLTE3Mzc3MTI3NTEsLTU3NDY1MzY4LDE5Mz
+Y3NTU0NDksLTUwMDQ3NDIzNl19
 -->
