@@ -19,12 +19,12 @@ Anger comes from taking stuff to personal. In my case taking colde, especially c
 
 ## Why
 
-Creating software had always an aesthetical component for me. And by that I do not mean in regard of UI design. I find beauty in well structured source code. I am the one of your colleagues who scolds you for too many or not enough white spaces. 
+Creating software had always an aesthetical component for me. And by that I do not mean in regard of UI design. I find beauty in well structured source code. I am the one of your colleagues who scolds you for too many or not enough white spaces, commented out code blocks and 
 
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTEyOTYwMSwxMDU1OTgxNTI0LDIwMD
+eyJoaXN0b3J5IjpbLTEwMTAyMjM0MSwxMDU1OTgxNTI0LDIwMD
 c2MTAwODYsLTMzNjA5ODc4NSwxOTgzODM1NDI1LC0yMDA5Mjk3
 MDM3LC0xNTg0OTYxMTQ3LC00NDQ2OTk5MTQsMTQ4MTY4OTEwMy
 wtNjEwMzczNDc4LC0xMDk5ODQzOTIsLTU1MTI1MjAyMCwxOTYz
