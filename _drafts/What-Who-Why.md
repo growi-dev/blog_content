@@ -8,7 +8,7 @@ tags:
 ---
 # Hello World
 Hi there. 
-This is an experiment for me. I am 
+This is an experiment for me. I am not one who usually 
 ## What
 software architecture
 ## Who 
@@ -17,6 +17,6 @@ Björn Großewinkelmann
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzc3MTI3NTEsLTU3NDY1MzY4LDE5Mz
-Y3NTU0NDksLTUwMDQ3NDIzNl19
+eyJoaXN0b3J5IjpbMTgzNzM1NjU2NywtMTczNzcxMjc1MSwtNT
+c0NjUzNjgsMTkzNjc1NTQ0OSwtNTAwNDc0MjM2XX0=
 -->
