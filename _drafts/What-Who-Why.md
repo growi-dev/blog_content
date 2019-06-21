@@ -22,7 +22,7 @@ Anger comes from taking stuff too personal. In my case taking code, especially c
 Creating software had always an aesthetical component for me. And I don't mean that in regard of UI design. I find beauty in well structured source code. I am the one of your colleagues who scolds you for too many or not enough white spaces, commented out code blocks and uber classes. 
 My desire to write clean and concise code dove me to study software architecture and design patterns. Today I am not only able to write clean, concise and versatile code, but also design decoupled components and entire systems that are elegant and maintainable. The thing is I can't communicate why this is a good thing. For me it always was an inherent property: clean code is beautiful code, beautiful code is maintainable code, maintainable code has to be the goal, right? "It works." is not the end of the development process. It is the beginning. Just because you know how to do something doesn't mean you know how to do it well.
 
-In this blog I'll try to show how to do it well and why that is important. I invited you to follow me on my journey to become a true software architect
+In this blog I'll try to show how to do it well and why that is important. I invited you to follow me on my journey to become a true software architect. Someone who can design elegant systems and communicate the necessity of the design process and choices. Someone who 
 
  
 
@@ -30,11 +30,11 @@ In this blog I'll try to show how to do it well and why that is important. I inv
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTAxODAzMjYsLTQ2NTA3NDAxMiwxNj
-U3NzcwNDI5LC01MjcxMjIyNzMsLTk0NDQ2NzgyMywxNDIwMDU0
-MjQzLC0xMDEwMjIzNDEsMTA1NTk4MTUyNCwyMDA3NjEwMDg2LC
-0zMzYwOTg3ODUsMTk4MzgzNTQyNSwtMjAwOTI5NzAzNywtMTU4
-NDk2MTE0NywtNDQ0Njk5OTE0LDE0ODE2ODkxMDMsLTYxMDM3Mz
-Q3OCwtMTA5OTg0MzkyLC01NTEyNTIwMjAsMTk2MzY1MzE5NCwx
-MjUxMTQxNDY3XX0=
+eyJoaXN0b3J5IjpbMTEwODgwOTM1NiwtNDY1MDc0MDEyLDE2NT
+c3NzA0MjksLTUyNzEyMjI3MywtOTQ0NDY3ODIzLDE0MjAwNTQy
+NDMsLTEwMTAyMjM0MSwxMDU1OTgxNTI0LDIwMDc2MTAwODYsLT
+MzNjA5ODc4NSwxOTgzODM1NDI1LC0yMDA5Mjk3MDM3LC0xNTg0
+OTYxMTQ3LC00NDQ2OTk5MTQsMTQ4MTY4OTEwMywtNjEwMzczND
+c4LC0xMDk5ODQzOTIsLTU1MTI1MjAyMCwxOTYzNjUzMTk0LDEy
+NTExNDE0NjddfQ==
 -->
