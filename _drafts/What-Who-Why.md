@@ -1,6 +1,7 @@
 ---
 title: What Who Why
 tags:
+- personal
 - meta
 - blog
 ---
@@ -17,8 +18,8 @@ My name is Björn Großewinkelmann, you can call me growi. I am a software engin
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDcxMDA2NTMsLTU1MTI1MjAyMCwxOT
-YzNjUzMTk0LDEyNTExNDE0NjcsMTEwMTQ0NTEzNCwtMTY4OTU4
-NDQ5NywtMTczNzcxMjc1MSwtNTc0NjUzNjgsMTkzNjc1NTQ0OS
-wtNTAwNDc0MjM2XX0=
+eyJoaXN0b3J5IjpbLTEwOTk4NDM5MiwtNTUxMjUyMDIwLDE5Nj
+M2NTMxOTQsMTI1MTE0MTQ2NywxMTAxNDQ1MTM0LC0xNjg5NTg0
+NDk3LC0xNzM3NzEyNzUxLC01NzQ2NTM2OCwxOTM2NzU1NDQ5LC
+01MDA0NzQyMzZdfQ==
 -->
