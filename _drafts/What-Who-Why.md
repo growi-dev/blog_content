@@ -10,7 +10,8 @@ tags:
 Hi there. 
 This is an experiment for me. I am  not one for putting opinions out there to people I don't know personally. My jabs are usually directed at the deserving. Also I usually don't like to put something out there if I am not very sure about it.
 But I think that has to change. So I want to take this as an opportunity to clarify and structure my thoughts, seek feedback, provide and collect some advice. 
-I started a journey a while back. I am on my way to becoming a software architect. I still have some road ahead of me but I am at a point where I feel the need to 
+I started a journey a while back. I am on my way to becoming a software architect. I still have some road ahead of me but I am at a point where I feel the need to reach out to people who share my path.
+W
 
 ## What
 software architecture
@@ -20,6 +21,6 @@ Björn Großewinkelmann
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4MDcxMzQ1LC0xNzM3NzEyNzUxLC01Nz
-Q2NTM2OCwxOTM2NzU1NDQ5LC01MDA0NzQyMzZdfQ==
+eyJoaXN0b3J5IjpbMTMyNjQ5NDY2MywtMTczNzcxMjc1MSwtNT
+c0NjUzNjgsMTkzNjc1NTQ0OSwtNTAwNDc0MjM2XX0=
 -->
