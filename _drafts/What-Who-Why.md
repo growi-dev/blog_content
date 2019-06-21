@@ -8,7 +8,8 @@ tags:
 ---
 # Hello World
 Hi there. 
-This is an experiment for me. I am  not one for putting opinions out there to people I don't know personally. My jabs are usually directed to the deserving.
+This is an experiment for me. I am  not one for putting opinions out there to people I don't know personally. My jabs are usually directed at the deserving. Oh right also I usually don't like to put something out there if I am not very sure about it.
+But i think that has to change.
 
 ## What
 software architecture
@@ -18,6 +19,6 @@ Björn Großewinkelmann
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDg4MjcxMCwtMTczNzcxMjc1MSwtNT
-c0NjUzNjgsMTkzNjc1NTQ0OSwtNTAwNDc0MjM2XX0=
+eyJoaXN0b3J5IjpbLTE1MTMyODY1ODEsLTE3Mzc3MTI3NTEsLT
+U3NDY1MzY4LDE5MzY3NTU0NDksLTUwMDQ3NDIzNl19
 -->
