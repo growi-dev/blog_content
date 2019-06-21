@@ -20,13 +20,13 @@ Anger comes from taking stuff to personal. In my case taking colde, especially c
 ## Why
 
 Creating software had always an aesthetical component for me. And by that I do not mean in regard of UI design. I find beauty in well structured source code. I am the one of your colleagues who scolds you for too many or not enough white spaces, commented out code blocks and uber classes. 
-My desire to write clean and concise code dove me to study software architecture and design patterns. Today I am not only able to write clean, concise and versatile code, but also 
+My desire to write clean and concise code dove me to study software architecture and design patterns. Today I am not only able to write clean, concise and versatile code, but also design decoupled components and entire systems that are  
 
 
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Nzc5NTgwMSwxNjU3NzcwNDI5LC01Mj
+eyJoaXN0b3J5IjpbMjAzNDAwMTExMywxNjU3NzcwNDI5LC01Mj
 cxMjIyNzMsLTk0NDQ2NzgyMywxNDIwMDU0MjQzLC0xMDEwMjIz
 NDEsMTA1NTk4MTUyNCwyMDA3NjEwMDg2LC0zMzYwOTg3ODUsMT
 k4MzgzNTQyNSwtMjAwOTI5NzAzNywtMTU4NDk2MTE0NywtNDQ0
