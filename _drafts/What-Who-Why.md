@@ -19,12 +19,12 @@ Anger comes from taking stuff to personal. In my case taking colde, especially c
 
 ## Why
 
-Creating software 
+Creating software had always an   for me 
 
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDE4ODc3NjAsMTA1NTk4MTUyNCwyMD
+eyJoaXN0b3J5IjpbLTE2NDMxNDYyMjgsMTA1NTk4MTUyNCwyMD
 A3NjEwMDg2LC0zMzYwOTg3ODUsMTk4MzgzNTQyNSwtMjAwOTI5
 NzAzNywtMTU4NDk2MTE0NywtNDQ0Njk5OTE0LDE0ODE2ODkxMD
 MsLTYxMDM3MzQ3OCwtMTA5OTg0MzkyLC01NTEyNTIwMjAsMTk2
