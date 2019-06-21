@@ -12,14 +12,14 @@ In this post I'd like to clarify what this blog should be about and why I am wri
 This blog is about writing software. It is about structuring and maintaining software. It is about software craftsmanship. It is about the difference between a programmer and a software engineer.
 
 ## Who 
-My name is Björn Großewinkelmann, you can call me growi. I am a software engineer who works manly on enterprise applications. 
+My name is Björn Großewinkelmann, you can call me growi. I am a software engineer who works manly on enterprise applications. It is a at times a humbling, frustrating and far to often anger inspire
 
 ## Why
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjcyNDExMiwtMTA5OTg0MzkyLC01NT
-EyNTIwMjAsMTk2MzY1MzE5NCwxMjUxMTQxNDY3LDExMDE0NDUx
-MzQsLTE2ODk1ODQ0OTcsLTE3Mzc3MTI3NTEsLTU3NDY1MzY4LD
-E5MzY3NTU0NDksLTUwMDQ3NDIzNl19
+eyJoaXN0b3J5IjpbLTEzODkxNzAwNjEsLTEwOTk4NDM5MiwtNT
+UxMjUyMDIwLDE5NjM2NTMxOTQsMTI1MTE0MTQ2NywxMTAxNDQ1
+MTM0LC0xNjg5NTg0NDk3LC0xNzM3NzEyNzUxLC01NzQ2NTM2OC
+wxOTM2NzU1NDQ5LC01MDA0NzQyMzZdfQ==
 -->
