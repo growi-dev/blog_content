@@ -15,7 +15,7 @@ This blog is about writing software. It is about structuring and maintaining sof
 My name is Björn Großewinkelmann, you can call me growi. I am a software engineer who works mainly on java enterprise applications. It is at times a humbling, frustrating and far too often anger inducing experience. 
 It can be humbling to work with well designed and maintained frameworks. Frameworks that promote clean code and utilize well thought out designs.
 Frustrations arise, as it is so often the case, from the project management part of the job and there are certain steps to mitigate those. That is not what this blog is about.
-Anger comes from taking stuff too personal. In my case taking code, especially code quality and structure, to personal. Don't get me wrong, anger doesn't just happen when I read someone else's code, it also happens when I am forced to compromise my own, sometimes aspirational, standards. The fix here is to communicate the need for clean code and architecture and be able to persuade your colleagues and management. This is a skill where I find myself lacking, so naturally I choose that to make it the main focus of this blog.
+Anger comes from taking stuff too personal. In my case taking code, especially code quality and structure, to personal. Don't get me wrong, anger doesn't just happen when I read someone else's code, it also happens when I am forced to compromise my own, sometimes aspirational, standards. The fix here is to communicate the need for clean code and architecture and to be able to persuade your colleagues and management. This is a skill where I find myself lacking, so naturally I choose that to make it the main focus of this blog.
 
 ## Why
 
@@ -28,11 +28,11 @@ I am not there yet. There is much I do not know. I am still learning the trade. 
 To be able to build on what I do know and to gain the experience I need to evolve, I have to clarify my thoughts and structure my knowledge. And that is what this blog is about. It will be my personal log of that journey. 
 Also there will be cats.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODUwOTY2NTIsLTQ2NTA3NDAxMiwxNj
-U3NzcwNDI5LC01MjcxMjIyNzMsLTk0NDQ2NzgyMywxNDIwMDU0
-MjQzLC0xMDEwMjIzNDEsMTA1NTk4MTUyNCwyMDA3NjEwMDg2LC
-0zMzYwOTg3ODUsMTk4MzgzNTQyNSwtMjAwOTI5NzAzNywtMTU4
-NDk2MTE0NywtNDQ0Njk5OTE0LDE0ODE2ODkxMDMsLTYxMDM3Mz
-Q3OCwtMTA5OTg0MzkyLC01NTEyNTIwMjAsMTk2MzY1MzE5NCwx
-MjUxMTQxNDY3XX0=
+eyJoaXN0b3J5IjpbMTM2MDUwMzYyMSwtNDY1MDc0MDEyLDE2NT
+c3NzA0MjksLTUyNzEyMjI3MywtOTQ0NDY3ODIzLDE0MjAwNTQy
+NDMsLTEwMTAyMjM0MSwxMDU1OTgxNTI0LDIwMDc2MTAwODYsLT
+MzNjA5ODc4NSwxOTgzODM1NDI1LC0yMDA5Mjk3MDM3LC0xNTg0
+OTYxMTQ3LC00NDQ2OTk5MTQsMTQ4MTY4OTEwMywtNjEwMzczND
+c4LC0xMDk5ODQzOTIsLTU1MTI1MjAyMCwxOTYzNjUzMTk0LDEy
+NTExNDE0NjddfQ==
 -->
