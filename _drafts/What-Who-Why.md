@@ -7,7 +7,7 @@ tags:
 - programming
 ---
 # Hello World
-This is an experiment for me. I am not good at
+This is an experiment for me. I am 
 ## What
 software architecture
 ## Who 
@@ -16,6 +16,6 @@ Björn Großewinkelmann
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0MjAzODUzLDE5MzY3NTU0NDksLTUwMD
+eyJoaXN0b3J5IjpbLTU3NDY1MzY4LDE5MzY3NTU0NDksLTUwMD
 Q3NDIzNl19
 -->
