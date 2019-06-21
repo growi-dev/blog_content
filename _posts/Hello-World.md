@@ -3,6 +3,7 @@ title: Hello World
 tags:
   - personal
   - meta
+  - blog
 date: 2019-06-21 03:30:38
 ---
 
@@ -16,6 +17,6 @@ Please drop me a line and tell me what you think.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTI5NDYyNywtMTAwMDQ2ODUzMyw3OT
-Y2ODEyNTMsLTg2MDQ3NzQ5NV19
+eyJoaXN0b3J5IjpbLTE0NTg3OTk3NTQsLTEwMDA0Njg1MzMsNz
+k2NjgxMjUzLC04NjA0Nzc0OTVdfQ==
 -->
