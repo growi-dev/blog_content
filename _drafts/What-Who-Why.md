@@ -6,7 +6,7 @@ tags:
 - blog
 ---
 # What? Who? Why?
-In this post I'd like to clarify what this blog should be about and why I am writing it. It's a hope and dreams thing.
+In this post I'd like to clarify what this blog should be about and why I am writing it. It's a hopes and dreams thing.
 
 ## What
 This blog is about writing software. It is about structuring and maintaining software. It is about software craftsmanship. It is about the difference between a programmer and a software engineer.
@@ -21,9 +21,9 @@ Anger comes from taking stuff to personal, in my case taking code especially cod
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzUwNDA0NiwtMTU4NDk2MTE0NywtND
-Q0Njk5OTE0LDE0ODE2ODkxMDMsLTYxMDM3MzQ3OCwtMTA5OTg0
-MzkyLC01NTEyNTIwMjAsMTk2MzY1MzE5NCwxMjUxMTQxNDY3LD
-ExMDE0NDUxMzQsLTE2ODk1ODQ0OTcsLTE3Mzc3MTI3NTEsLTU3
-NDY1MzY4LDE5MzY3NTU0NDksLTUwMDQ3NDIzNl19
+eyJoaXN0b3J5IjpbLTIwMDkyOTcwMzcsLTE1ODQ5NjExNDcsLT
+Q0NDY5OTkxNCwxNDgxNjg5MTAzLC02MTAzNzM0NzgsLTEwOTk4
+NDM5MiwtNTUxMjUyMDIwLDE5NjM2NTMxOTQsMTI1MTE0MTQ2Ny
+wxMTAxNDQ1MTM0LC0xNjg5NTg0NDk3LC0xNzM3NzEyNzUxLC01
+NzQ2NTM2OCwxOTM2NzU1NDQ5LC01MDA0NzQyMzZdfQ==
 -->
