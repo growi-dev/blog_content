@@ -12,7 +12,9 @@ In this post I'd like to clarify what this blog should be about and why I am wri
 This blog is about writing software. It is about structuring and maintaining software. It is about software craftsmanship. It is about the difference between a programmer and a software engineer.
 
 ## Who 
-My name is Björn Großewinkelmann, you can call me growi. I am a software engineer who works manly on enterprise applications. It is a at times a humbling, frustrating and far to often anger inducing experience. Frustrations arise, as it is so often the case, from the project management part of the job and there are certain steps to mitigate those. Anger comes from taking stuff to personal, in my case taking code especially code quality and structure to personal. Don't get me wrong that doesn't just happen when I read someone else's code it also happens when I am forced to compromise my own, sometimes aspirational, standards. The fix here is to communicate the need for clean code and architecture and be able to persuade your colleagues and management. This is where I am lacking.
+My name is Björn Großewinkelmann, you can call me growi. I am a software engineer who works manly on enterprise applications. It is a at times a humbling, frustrating and far to often anger inducing experience. 
+It can be humbling to work with well designed and maintained frameworks
+Frustrations arise, as it is so often the case, from the project management part of the job and there are certain steps to mitigate those. Anger comes from taking stuff to personal, in my case taking code especially code quality and structure to personal. Don't get me wrong that doesn't just happen when I read someone else's code it also happens when I am forced to compromise my own, sometimes aspirational, standards. The fix here is to communicate the need for clean code and architecture and be able to persuade your colleagues and management. This is a skill where I am lacking the.
 
 The anger coming from bad design practices, unecessasary 
 
@@ -20,9 +22,9 @@ The anger coming from bad design practices, unecessasary
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzMxNTI0MzYsLTE1ODQ5NjExNDcsLT
-Q0NDY5OTkxNCwxNDgxNjg5MTAzLC02MTAzNzM0NzgsLTEwOTk4
-NDM5MiwtNTUxMjUyMDIwLDE5NjM2NTMxOTQsMTI1MTE0MTQ2Ny
-wxMTAxNDQ1MTM0LC0xNjg5NTg0NDk3LC0xNzM3NzEyNzUxLC01
-NzQ2NTM2OCwxOTM2NzU1NDQ5LC01MDA0NzQyMzZdfQ==
+eyJoaXN0b3J5IjpbNDg5ODQxNjUwLC0xNTg0OTYxMTQ3LC00ND
+Q2OTk5MTQsMTQ4MTY4OTEwMywtNjEwMzczNDc4LC0xMDk5ODQz
+OTIsLTU1MTI1MjAyMCwxOTYzNjUzMTk0LDEyNTExNDE0NjcsMT
+EwMTQ0NTEzNCwtMTY4OTU4NDQ5NywtMTczNzcxMjc1MSwtNTc0
+NjUzNjgsMTkzNjc1NTQ0OSwtNTAwNDc0MjM2XX0=
 -->
