@@ -20,14 +20,17 @@ Anger comes from taking stuff too personal. In my case taking cole, especially c
 ## Why
 
 Creating software had always an aesthetical component for me. And I don't mean that in regard of UI design. I find beauty in well structured source code. I am the one of your colleagues who scolds you for too many or not enough white spaces, commented out code blocks and uber classes. 
-My desire to write clean and concise code dove me to study software architecture and design patterns. Today I am not only able to write clean, concise and versatile code, but also design decoupled components and entire systems that are elegant and maintainable. The thing is I can't communicate why this is a good thing. For me it always was an inherent property clean code is beautiful code. Beautiful code is maintainable code. Maintainable code has to be the goal, right? It works is not the end of the development process. It is the beginning. 
+My desire to write clean and concise code dove me to study software architecture and design patterns. Today I am not only able to write clean, concise and versatile code, but also design decoupled components and entire systems that are elegant and maintainable. The thing is I can't communicate why this is a good thing. For me it always was an inherent property clean code is beautiful code. Beautiful code is maintainable code. Maintainable code has to be the goal, right? "It works." is not the end of the development process. It is the beginning. Just because you know how to do something doesn't mean you know how to do it well.
+
+In this blog I'll try to show how to do it well and
+
  
 
 
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzM1NDgwNjksLTQ2NTA3NDAxMiwxNj
+eyJoaXN0b3J5IjpbLTE4MjIwNDE0OTEsLTQ2NTA3NDAxMiwxNj
 U3NzcwNDI5LC01MjcxMjIyNzMsLTk0NDQ2NzgyMywxNDIwMDU0
 MjQzLC0xMDEwMjIzNDEsMTA1NTk4MTUyNCwyMDA3NjEwMDg2LC
 0zMzYwOTg3ODUsMTk4MzgzNTQyNSwtMjAwOTI5NzAzNywtMTU4
