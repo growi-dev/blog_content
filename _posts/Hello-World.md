@@ -1,9 +1,11 @@
 ---
 title: Hello World
 tags:
-- personal
-- meta
+  - personal
+  - meta
+date: 2019-06-21 03:30:38
 ---
+
 # Hello World
 Hi there. 
 This is an experiment for me. I am not one for putting opinions out there to people I don't know personally. My jabs are usually directed at the deserving. Also I usually don't like to put something out there if I am not very sure about it.
