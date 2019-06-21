@@ -25,7 +25,7 @@ My desire to write clean and concise code dove me to study software architecture
 In this blog I'll try to show how to do it well and why that is important. I invited you to follow me on my journey to become a true software architect. Someone who can design elegant systems and communicate the necessity of the design process and choices. Someone who can take requirements and transform them into a system that not only meets them, but one the software engineers actually want to build.
 I am not there yet. There is much I do not know. I am still learning the trade. My technical knowledge is as imperfect as is my ability to work as a smooth interface between business requirements and system design.
 
-To be able to build on what I do know and to gain the experience I need to evolve, I have to clarify my thoughts and structure my knowledge. And that is what this blog is about. It will become 
+To be able to build on what I do know and to gain the experience I need to evolve, I have to clarify my thoughts and structure my knowledge. And that is what this blog is about. It will be my personal log of my journey towards becoming a software archi
 
  
 
@@ -33,11 +33,11 @@ To be able to build on what I do know and to gain the experience I need to evolv
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyOTg3NjExLC00NjUwNzQwMTIsMTY1Nz
-c3MDQyOSwtNTI3MTIyMjczLC05NDQ0Njc4MjMsMTQyMDA1NDI0
-MywtMTAxMDIyMzQxLDEwNTU5ODE1MjQsMjAwNzYxMDA4NiwtMz
-M2MDk4Nzg1LDE5ODM4MzU0MjUsLTIwMDkyOTcwMzcsLTE1ODQ5
-NjExNDcsLTQ0NDY5OTkxNCwxNDgxNjg5MTAzLC02MTAzNzM0Nz
-gsLTEwOTk4NDM5MiwtNTUxMjUyMDIwLDE5NjM2NTMxOTQsMTI1
-MTE0MTQ2N119
+eyJoaXN0b3J5IjpbMjAzNDIwMzk5MywtNDY1MDc0MDEyLDE2NT
+c3NzA0MjksLTUyNzEyMjI3MywtOTQ0NDY3ODIzLDE0MjAwNTQy
+NDMsLTEwMTAyMjM0MSwxMDU1OTgxNTI0LDIwMDc2MTAwODYsLT
+MzNjA5ODc4NSwxOTgzODM1NDI1LC0yMDA5Mjk3MDM3LC0xNTg0
+OTYxMTQ3LC00NDQ2OTk5MTQsMTQ4MTY4OTEwMywtNjEwMzczND
+c4LC0xMDk5ODQzOTIsLTU1MTI1MjAyMCwxOTYzNjUzMTk0LDEy
+NTExNDE0NjddfQ==
 -->
