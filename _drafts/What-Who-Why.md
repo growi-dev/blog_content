@@ -14,8 +14,10 @@ This blog is about writing software. It is about structuring and maintaining sof
 ## Who 
 My name is Björn Großewinkelmann, you can call me growi. I am a software engineer who works mainly on java enterprise applications. It is at times a humbling, frustrating and far too often anger inducing experience. 
 It can be humbling to work with well designed and maintained frameworks. Frameworks that promote clean code and utilize well thought out designs.
+
 Frustrations arise, as it is so often the case, from the project management part of the job and there are certain steps to mitigate those. That is not what this blog is about.
-Anger comes from taking stuff too personal. In my case taking code, especially code quality and structure, to personal. Don't get me wrong, anger doesn't just happen when I read someone else's code, it also happens when I am forced to compromise my own, sometimes aspirational, standards. The fix here is to communicate the need for clean code and architecture and to be able to persuade your colleagues and management. This is a skill where I find myself lacking, so naturally I choose that to make it the main focus of this blog.
+
+Anger comes from taking stuff too personal. In my case taking code, especially code quality and structure, too personal. Don't get me wrong, anger doesn't just happen when I read someone else's code, it also happens when I am forced to compromise my own, sometimes aspirational, standards. The fix here is to communicate the need for clean code and architecture and to be able to persuade your colleagues and management. This is a skill where I find myself lacking, so naturally I choose that to make it the main focus of this blog.
 
 ## Why
 
@@ -29,11 +31,11 @@ To be able to build on what I do know and to gain the experience I need to evolv
 
 Also, there will be cats.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDQ1NTYyNCwxMzU3NjkxMTU2LC0xOT
-kyOTE1NTQ2LC00NjUwNzQwMTIsMTY1Nzc3MDQyOSwtNTI3MTIy
-MjczLC05NDQ0Njc4MjMsMTQyMDA1NDI0MywtMTAxMDIyMzQxLD
-EwNTU5ODE1MjQsMjAwNzYxMDA4NiwtMzM2MDk4Nzg1LDE5ODM4
-MzU0MjUsLTIwMDkyOTcwMzcsLTE1ODQ5NjExNDcsLTQ0NDY5OT
-kxNCwxNDgxNjg5MTAzLC02MTAzNzM0NzgsLTEwOTk4NDM5Miwt
-NTUxMjUyMDIwXX0=
+eyJoaXN0b3J5IjpbMzc3MTg0NDYxLDEzMzQ0NTU2MjQsMTM1Nz
+Y5MTE1NiwtMTk5MjkxNTU0NiwtNDY1MDc0MDEyLDE2NTc3NzA0
+MjksLTUyNzEyMjI3MywtOTQ0NDY3ODIzLDE0MjAwNTQyNDMsLT
+EwMTAyMjM0MSwxMDU1OTgxNTI0LDIwMDc2MTAwODYsLTMzNjA5
+ODc4NSwxOTgzODM1NDI1LC0yMDA5Mjk3MDM3LC0xNTg0OTYxMT
+Q3LC00NDQ2OTk5MTQsMTQ4MTY4OTEwMywtNjEwMzczNDc4LC0x
+MDk5ODQzOTJdfQ==
 -->
