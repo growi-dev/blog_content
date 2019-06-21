@@ -26,13 +26,14 @@ In this blog I'll try to show how to do it well and why that is important. I inv
 I am not there yet. There is much I do not know. I am still learning the trade. My technical knowledge is as imperfect as is my ability to work as a smooth interface between business requirements and system design.
 
 To be able to build on what I do know and to gain the experience I need to evolve, I have to clarify my thoughts and structure my knowledge. And that is what this blog is about. It will be my personal log of that journey. 
+
 Also there will be cats.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTI5MTU1NDYsLTQ2NTA3NDAxMiwxNj
-U3NzcwNDI5LC01MjcxMjIyNzMsLTk0NDQ2NzgyMywxNDIwMDU0
-MjQzLC0xMDEwMjIzNDEsMTA1NTk4MTUyNCwyMDA3NjEwMDg2LC
-0zMzYwOTg3ODUsMTk4MzgzNTQyNSwtMjAwOTI5NzAzNywtMTU4
-NDk2MTE0NywtNDQ0Njk5OTE0LDE0ODE2ODkxMDMsLTYxMDM3Mz
-Q3OCwtMTA5OTg0MzkyLC01NTEyNTIwMjAsMTk2MzY1MzE5NCwx
-MjUxMTQxNDY3XX0=
+eyJoaXN0b3J5IjpbMTM1NzY5MTE1NiwtMTk5MjkxNTU0NiwtND
+Y1MDc0MDEyLDE2NTc3NzA0MjksLTUyNzEyMjI3MywtOTQ0NDY3
+ODIzLDE0MjAwNTQyNDMsLTEwMTAyMjM0MSwxMDU1OTgxNTI0LD
+IwMDc2MTAwODYsLTMzNjA5ODc4NSwxOTgzODM1NDI1LC0yMDA5
+Mjk3MDM3LC0xNTg0OTYxMTQ3LC00NDQ2OTk5MTQsMTQ4MTY4OT
+EwMywtNjEwMzczNDc4LC0xMDk5ODQzOTIsLTU1MTI1MjAyMCwx
+OTYzNjUzMTk0XX0=
 -->
