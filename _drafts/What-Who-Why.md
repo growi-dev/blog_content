@@ -15,7 +15,7 @@ This blog is about writing software. It is about structuring and maintaining sof
 My name is Björn Großewinkelmann, you can call me growi. I am a software engineer who works mainly on java enterprise applications. It is at times a humbling, frustrating and far too often anger inducing experience. 
 It can be humbling to work with well designed and maintained frameworks. Frameworks that promote clean code and utilize well thought out designs.
 Frustrations arise, as it is so often the case, from the project management part of the job and there are certain steps to mitigate those. That is not what this blog is about.
-Anger comes from taking stuff too personal. In my case taking code, especially code quality and structure, to personal. Don't get me wrong, anger doesn't just happen when I read someone else's code, it also happens when I am forced to compromise my own, sometimes aspirational, standards. The fix here is to communicate the need for clean code and architecture and be able to persuade your colleagues and management. This is a skill where I find myself lacking, so naturally I choose to make that the main focus of this blog.
+Anger comes from taking stuff too personal. In my case taking code, especially code quality and structure, to personal. Don't get me wrong, anger doesn't just happen when I read someone else's code, it also happens when I am forced to compromise my own, sometimes aspirational, standards. The fix here is to communicate the need for clean code and architecture and be able to persuade your colleagues and management. This is a skill where I find myself lacking, so naturally I choose that to make it the main focus of this blog.
 
 ## Why
 
@@ -30,7 +30,7 @@ In this blog I'll try to show how to do it well and why that is important.
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODgyNTM3MiwtNDY1MDc0MDEyLDE2NT
+eyJoaXN0b3J5IjpbLTc5Njc4NjUxNywtNDY1MDc0MDEyLDE2NT
 c3NzA0MjksLTUyNzEyMjI3MywtOTQ0NDY3ODIzLDE0MjAwNTQy
 NDMsLTEwMTAyMjM0MSwxMDU1OTgxNTI0LDIwMDc2MTAwODYsLT
 MzNjA5ODc4NSwxOTgzODM1NDI1LC0yMDA5Mjk3MDM3LC0xNTg0
