@@ -27,13 +27,13 @@ I am not there yet. There is much I do not know. I am still learning the trade. 
 
 To be able to build on what I do know and to gain the experience I need to evolve, I have to clarify my thoughts and structure my knowledge. And that is what this blog is about. It will be my personal log of that journey. 
 
-Also there will be cats.
+Also, there will be cats.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzY5MTE1NiwtMTk5MjkxNTU0NiwtND
-Y1MDc0MDEyLDE2NTc3NzA0MjksLTUyNzEyMjI3MywtOTQ0NDY3
-ODIzLDE0MjAwNTQyNDMsLTEwMTAyMjM0MSwxMDU1OTgxNTI0LD
-IwMDc2MTAwODYsLTMzNjA5ODc4NSwxOTgzODM1NDI1LC0yMDA5
-Mjk3MDM3LC0xNTg0OTYxMTQ3LC00NDQ2OTk5MTQsMTQ4MTY4OT
-EwMywtNjEwMzczNDc4LC0xMDk5ODQzOTIsLTU1MTI1MjAyMCwx
-OTYzNjUzMTk0XX0=
+eyJoaXN0b3J5IjpbMTMzNDQ1NTYyNCwxMzU3NjkxMTU2LC0xOT
+kyOTE1NTQ2LC00NjUwNzQwMTIsMTY1Nzc3MDQyOSwtNTI3MTIy
+MjczLC05NDQ0Njc4MjMsMTQyMDA1NDI0MywtMTAxMDIyMzQxLD
+EwNTU5ODE1MjQsMjAwNzYxMDA4NiwtMzM2MDk4Nzg1LDE5ODM4
+MzU0MjUsLTIwMDkyOTcwMzcsLTE1ODQ5NjExNDcsLTQ0NDY5OT
+kxNCwxNDgxNjg5MTAzLC02MTAzNzM0NzgsLTEwOTk4NDM5Miwt
+NTUxMjUyMDIwXX0=
 -->
