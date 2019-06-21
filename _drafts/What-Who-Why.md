@@ -14,9 +14,7 @@ This blog is about writing software. It is about structuring and maintaining sof
 ## Who 
 My name is Björn Großewinkelmann, you can call me growi. I am a software engineer who works mainly on java enterprise applications. It is at times a humbling, frustrating and far too often anger inducing experience. 
 It can be humbling to work with well designed and maintained frameworks. Frameworks that promote clean code and utilize well thought out designs.
-
 Frustrations arise, as it is so often the case, from the project management part of the job and there are certain steps to mitigate those. That is not what this blog is about.
-
 Anger comes from taking stuff too personal. In my case taking code, especially code quality and structure, too personal. Don't get me wrong, anger doesn't just happen when I read someone else's code, it also happens when I am forced to compromise my own, sometimes aspirational, standards. The fix here is to communicate the need for clean code and architecture and to be able to persuade your colleagues and management. This is a skill where I find myself lacking, so naturally I choose that to make it the main focus of this blog.
 
 ## Why
@@ -31,7 +29,7 @@ To be able to build on what I do know and to gain the experience I need to evolv
 
 Also, there will be cats.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3MTg0NDYxLDEzMzQ0NTU2MjQsMTM1Nz
+eyJoaXN0b3J5IjpbNjAwMTExNjI5LDEzMzQ0NTU2MjQsMTM1Nz
 Y5MTE1NiwtMTk5MjkxNTU0NiwtNDY1MDc0MDEyLDE2NTc3NzA0
 MjksLTUyNzEyMjI3MywtOTQ0NDY3ODIzLDE0MjAwNTQyNDMsLT
 EwMTAyMjM0MSwxMDU1OTgxNTI0LDIwMDc2MTAwODYsLTMzNjA5
