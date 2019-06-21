@@ -2,6 +2,7 @@
 title: What Who Why
 tags:
 - meta
+- blog
 ---
 # What? Who? Why?
 In this post I'd like to clarify what this blog should be about and why I am writing it. It's a hope and dreams thing.
@@ -16,8 +17,8 @@ My name is Björn Großewinkelmann, you can call me growi. I am a software engin
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTI1MjAyMCwxOTYzNjUzMTk0LDEyNT
-ExNDE0NjcsMTEwMTQ0NTEzNCwtMTY4OTU4NDQ5NywtMTczNzcx
-Mjc1MSwtNTc0NjUzNjgsMTkzNjc1NTQ0OSwtNTAwNDc0MjM2XX
-0=
+eyJoaXN0b3J5IjpbLTE2NDcxMDA2NTMsLTU1MTI1MjAyMCwxOT
+YzNjUzMTk0LDEyNTExNDE0NjcsMTEwMTQ0NTEzNCwtMTY4OTU4
+NDQ5NywtMTczNzcxMjc1MSwtNTc0NjUzNjgsMTkzNjc1NTQ0OS
+wtNTAwNDc0MjM2XX0=
 -->
