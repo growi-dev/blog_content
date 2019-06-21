@@ -18,12 +18,14 @@ Frustrations arise, as it is so often the case, from the project management part
 Anger comes from taking stuff to personal, in my case taking code especially code quality and structure to personal. Don't get me wrong that doesn't just happen when I read someone else's code it also happens when I am forced to compromise my own, sometimes aspirational, standards. The fix here is to communicate the need for clean code and architecture and be able to persuade your colleagues and management. This is a skill where I am lacking.
 
 ## Why
+
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDkyOTcwMzcsLTE1ODQ5NjExNDcsLT
-Q0NDY5OTkxNCwxNDgxNjg5MTAzLC02MTAzNzM0NzgsLTEwOTk4
-NDM5MiwtNTUxMjUyMDIwLDE5NjM2NTMxOTQsMTI1MTE0MTQ2Ny
-wxMTAxNDQ1MTM0LC0xNjg5NTg0NDk3LC0xNzM3NzEyNzUxLC01
-NzQ2NTM2OCwxOTM2NzU1NDQ5LC01MDA0NzQyMzZdfQ==
+eyJoaXN0b3J5IjpbMTk4MzgzNTQyNSwtMjAwOTI5NzAzNywtMT
+U4NDk2MTE0NywtNDQ0Njk5OTE0LDE0ODE2ODkxMDMsLTYxMDM3
+MzQ3OCwtMTA5OTg0MzkyLC01NTEyNTIwMjAsMTk2MzY1MzE5NC
+wxMjUxMTQxNDY3LDExMDE0NDUxMzQsLTE2ODk1ODQ0OTcsLTE3
+Mzc3MTI3NTEsLTU3NDY1MzY4LDE5MzY3NTU0NDksLTUwMDQ3ND
+IzNl19
 -->
