@@ -9,7 +9,7 @@ tags:
 # Hello World
 Hi there. 
 This is an experiment for me. I am  not one for putting opinions out there to people I don't know personally. My jabs are usually directed at the deserving. Oh right also I usually don't like to put something out there if I am not very sure about it.
-But i think that has to change.
+But I think that has to change. So I want to take this as an opportunity to clarify my thoughts
 
 ## What
 software architecture
@@ -19,6 +19,6 @@ Björn Großewinkelmann
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTMyODY1ODEsLTE3Mzc3MTI3NTEsLT
-U3NDY1MzY4LDE5MzY3NTU0NDksLTUwMDQ3NDIzNl19
+eyJoaXN0b3J5IjpbMjM1NzE5OTI1LC0xNzM3NzEyNzUxLC01Nz
+Q2NTM2OCwxOTM2NzU1NDQ5LC01MDA0NzQyMzZdfQ==
 -->
