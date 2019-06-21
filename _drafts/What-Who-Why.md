@@ -10,14 +10,17 @@ tags:
 In this post I'd like to clarify what this blog should be about and why I am writing it.
 
 ## What
+This blog is about writing software. It is about structring software 
 software architecture
+
 ## Who 
 Björn Großewinkelmann
+
 ## Why
 learn to articulate my ideas and beliefes
 also: it*s needed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTQ0NTEzNCwtMTY4OTU4NDQ5NywtMT
-czNzcxMjc1MSwtNTc0NjUzNjgsMTkzNjc1NTQ0OSwtNTAwNDc0
-MjM2XX0=
+eyJoaXN0b3J5IjpbLTI2MDg1NDIyLDExMDE0NDUxMzQsLTE2OD
+k1ODQ0OTcsLTE3Mzc3MTI3NTEsLTU3NDY1MzY4LDE5MzY3NTU0
+NDksLTUwMDQ3NDIzNl19
 -->
