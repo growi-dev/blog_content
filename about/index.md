@@ -13,15 +13,15 @@ comments: false
         "Requirement Engineering",
         "Object Oriented Analysis",
         "Object Oriented Design",
-        "Design Pattern", 
-        "Enterprise Integration Pattern",
+        "Design Patterns", 
+        "Enterprise Integration Patterns",
         "Clean Code",
         "SOLID"
     ]
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0OTM5MTg0LC0xNjEzNjYzODUsNTI2Nj
-A2Mzg2LC01ODc1NDE1NDIsMTQxODk4NDcyNCwxMjM0NDM5ODY2
-LDE3NzI5Mjk2MjcsLTE5NTE4OTAyMjldfQ==
+eyJoaXN0b3J5IjpbLTQ5MjU0MjYyNiw3ODQ5MzkxODQsLTE2MT
+M2NjM4NSw1MjY2MDYzODYsLTU4NzU0MTU0MiwxNDE4OTg0NzI0
+LDEyMzQ0Mzk4NjYsMTc3MjkyOTYyNywtMTk1MTg5MDIyOV19
 -->
