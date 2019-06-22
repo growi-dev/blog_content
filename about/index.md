@@ -8,7 +8,9 @@ date: 2019-06-20 01:05:51
     "name" : "Björn Großewinkelmann".
     "occupation" : "softaware engineer",
     "skills" : [
-	    "Java"
+	    "Object Oriented Design",
+	    "Design Pattern", 
+	    ""
     ]
 }
 ```
@@ -27,6 +29,6 @@ public static void main(){
 ### Goals
 aspiring software architect
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODIyMDgzNSwxMjM0NDM5ODY2LDE3Nz
-I5Mjk2MjcsLTE5NTE4OTAyMjldfQ==
+eyJoaXN0b3J5IjpbLTE1ODYzMTA5NDIsMTIzNDQzOTg2NiwxNz
+cyOTI5NjI3LC0xOTUxODkwMjI5XX0=
 -->
