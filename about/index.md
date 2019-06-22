@@ -5,8 +5,9 @@ date: 2019-06-20 01:05:51
 ---
 ``` json
 {
-    "name" : "Björn Großewinkelmann".
+    "name" : "Björn Großewinkelmann",
     "occupation" : "softaware engineer",
+    "active_since" : 2002,
     "skills" : [
 	    "Object Oriented Design",
 	    "Design Pattern", 
@@ -17,6 +18,6 @@ date: 2019-06-20 01:05:51
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjE5MjUwMywxMjM0NDM5ODY2LDE3Nz
+eyJoaXN0b3J5IjpbMTQxODk4NDcyNCwxMjM0NDM5ODY2LDE3Nz
 I5Mjk2MjcsLTE5NTE4OTAyMjldfQ==
 -->
