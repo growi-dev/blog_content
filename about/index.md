@@ -8,7 +8,10 @@ My name is Björn Großewinkelmann. I am a software engineer with more the 10 ye
 
 ### Background
 
+
+
+### Goals
 aspiring software architect
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjI5NjIxNl19
+eyJoaXN0b3J5IjpbLTE5NTE4OTAyMjldfQ==
 -->
