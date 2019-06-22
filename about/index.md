@@ -5,7 +5,11 @@ date: 2019-06-20 01:05:51
 ---
 ``` json
 {
-    name : ""
+    "name" : "Björn Großewinkelmann".
+    "occupation" : "softaware engineer",
+    "skills" : [
+	    "Java"
+    ]
 }
 ```
 
@@ -23,6 +27,6 @@ public static void main(){
 ### Goals
 aspiring software architect
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjAyNTkzNDcsMTIzNDQzOTg2NiwxNz
-cyOTI5NjI3LC0xOTUxODkwMjI5XX0=
+eyJoaXN0b3J5IjpbMjAyODIyMDgzNSwxMjM0NDM5ODY2LDE3Nz
+I5Mjk2MjcsLTE5NTE4OTAyMjldfQ==
 -->
