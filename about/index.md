@@ -7,7 +7,7 @@ comments: false
 ``` json
 {
     "name" : "Björn Großewinkelmann",
-    "occupation" : "softaware engineer",
+    "occupation" : "software engineer",
     "active_since" : 2002,
     "skills" : [
         "Requirement Engineering",
@@ -21,7 +21,7 @@ comments: false
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTM2NjM4NSw1MjY2MDYzODYsLTU4Nz
-U0MTU0MiwxNDE4OTg0NzI0LDEyMzQ0Mzk4NjYsMTc3MjkyOTYy
-NywtMTk1MTg5MDIyOV19
+eyJoaXN0b3J5IjpbNzg0OTM5MTg0LC0xNjEzNjYzODUsNTI2Nj
+A2Mzg2LC01ODc1NDE1NDIsMTQxODk4NDcyNCwxMjM0NDM5ODY2
+LDE3NzI5Mjk2MjcsLTE5NTE4OTAyMjldfQ==
 -->
