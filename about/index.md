@@ -11,13 +11,13 @@ date: 2019-06-20 01:05:51
     "skills" : [
 	    "Object Oriented Design",
 	    "Design Pattern", 
-	    "Ensterprise Integration Pattern",
+	    "Enterprise Integration Pattern",
 	    "Clean Code",
 	    "SOLID"
     ]
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODk4NDcyNCwxMjM0NDM5ODY2LDE3Nz
-I5Mjk2MjcsLTE5NTE4OTAyMjldfQ==
+eyJoaXN0b3J5IjpbLTUwMTkyNzgwNSwxNDE4OTg0NzI0LDEyMz
+Q0Mzk4NjYsMTc3MjkyOTYyNywtMTk1MTg5MDIyOV19
 -->
