@@ -9,6 +9,8 @@ date: 2019-06-20 01:05:51
     "occupation" : "softaware engineer",
     "active_since" : 2002,
     "skills" : [
+        "Requirement Engineering",
+        "Object Oriented Analysis"
 	    "Object Oriented Design",
 	    "Design Pattern", 
 	    "Enterprise Integration Pattern",
@@ -18,6 +20,6 @@ date: 2019-06-20 01:05:51
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTkyNzgwNSwxNDE4OTg0NzI0LDEyMz
+eyJoaXN0b3J5IjpbLTk4MzE0MjQ2NCwxNDE4OTg0NzI0LDEyMz
 Q0Mzk4NjYsMTc3MjkyOTYyNywtMTk1MTg5MDIyOV19
 -->
