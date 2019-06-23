@@ -1,11 +1,13 @@
 ---
-title: What Who Why
-lang: en
+title: What? Who? Why?
 tags:
-- personal
-- meta
-- blog
+  - personal
+  - meta
+  - blog
+lang: en
+date: 2019-06-23 02:21:49
 ---
+
 In this post I'd like to clarify what this blog should be about and why I am writing it. It's a hopes and dreams thing.
 
 ## What
