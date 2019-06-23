@@ -6,7 +6,6 @@ tags:
 - meta
 - blog
 ---
-# What? Who? Why?
 In this post I'd like to clarify what this blog should be about and why I am writing it. It's a hopes and dreams thing.
 
 ## What
@@ -30,11 +29,11 @@ To be able to build on what I do know and to gain the experience I need to evolv
 
 Also, there will be cats.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTUxNzM0NjgsMTExMjc3MTE2Niw2MD
-AxMTE2MjksMTMzNDQ1NTYyNCwxMzU3NjkxMTU2LC0xOTkyOTE1
-NTQ2LC00NjUwNzQwMTIsMTY1Nzc3MDQyOSwtNTI3MTIyMjczLC
-05NDQ0Njc4MjMsMTQyMDA1NDI0MywtMTAxMDIyMzQxLDEwNTU5
-ODE1MjQsMjAwNzYxMDA4NiwtMzM2MDk4Nzg1LDE5ODM4MzU0Mj
-UsLTIwMDkyOTcwMzcsLTE1ODQ5NjExNDcsLTQ0NDY5OTkxNCwx
-NDgxNjg5MTAzXX0=
+eyJoaXN0b3J5IjpbLTExMTk4NzYwNzAsLTEyNTUxNzM0NjgsMT
+ExMjc3MTE2Niw2MDAxMTE2MjksMTMzNDQ1NTYyNCwxMzU3Njkx
+MTU2LC0xOTkyOTE1NTQ2LC00NjUwNzQwMTIsMTY1Nzc3MDQyOS
+wtNTI3MTIyMjczLC05NDQ0Njc4MjMsMTQyMDA1NDI0MywtMTAx
+MDIyMzQxLDEwNTU5ODE1MjQsMjAwNzYxMDA4NiwtMzM2MDk4Nz
+g1LDE5ODM4MzU0MjUsLTIwMDkyOTcwMzcsLTE1ODQ5NjExNDcs
+LTQ0NDY5OTkxNF19
 -->
