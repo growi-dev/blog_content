@@ -13,7 +13,7 @@ In this post I'd like to clarify what this blog should be about and why I am wri
 This blog is about writing software. It is about structuring and maintaining software. It is about software craftsmanship. It is about the difference between a programmer and a software engineer.
 
 ## Who 
-My name is Björn Großewinkelmann, you can call me growi. I am a software engineer who works mainly on java enterprise applications. It is at times a humbling, frustrating and far too often anger inducing experience. 
+My name is Björn Großewinkelmann, you can call me growi. I am a software engineer who works mainly on java enterprise applications. It is, at times, a humbling, frustrating and far too often anger inducing experience. 
 It can be humbling to work with well designed and maintained frameworks. Frameworks that promote clean code and utilize well thought out designs.
 Frustrations arise, as it is so often the case, from the project management part of the job and there are certain steps to mitigate those. That is not what this blog is about.
 Anger comes from taking stuff too personal. In my case taking code, especially code quality and structure, too personal. Don't get me wrong, anger doesn't just happen when I read someone else's code, it also happens when I am forced to compromise my own, sometimes aspirational, standards. The fix here is to communicate the need for clean code and architecture and to be able to persuade your colleagues and management. This is a skill where I find myself lacking, so naturally I choose that to make it the main focus of this blog.
@@ -30,11 +30,11 @@ To be able to build on what I do know and to gain the experience I need to evolv
 
 Also, there will be cats.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjc3MTE2Niw2MDAxMTE2MjksMTMzND
-Q1NTYyNCwxMzU3NjkxMTU2LC0xOTkyOTE1NTQ2LC00NjUwNzQw
-MTIsMTY1Nzc3MDQyOSwtNTI3MTIyMjczLC05NDQ0Njc4MjMsMT
-QyMDA1NDI0MywtMTAxMDIyMzQxLDEwNTU5ODE1MjQsMjAwNzYx
-MDA4NiwtMzM2MDk4Nzg1LDE5ODM4MzU0MjUsLTIwMDkyOTcwMz
-csLTE1ODQ5NjExNDcsLTQ0NDY5OTkxNCwxNDgxNjg5MTAzLC02
-MTAzNzM0NzhdfQ==
+eyJoaXN0b3J5IjpbLTEyNTUxNzM0NjgsMTExMjc3MTE2Niw2MD
+AxMTE2MjksMTMzNDQ1NTYyNCwxMzU3NjkxMTU2LC0xOTkyOTE1
+NTQ2LC00NjUwNzQwMTIsMTY1Nzc3MDQyOSwtNTI3MTIyMjczLC
+05NDQ0Njc4MjMsMTQyMDA1NDI0MywtMTAxMDIyMzQxLDEwNTU5
+ODE1MjQsMjAwNzYxMDA4NiwtMzM2MDk4Nzg1LDE5ODM4MzU0Mj
+UsLTIwMDkyOTcwMzcsLTE1ODQ5NjExNDcsLTQ0NDY5OTkxNCwx
+NDgxNjg5MTAzXX0=
 -->
