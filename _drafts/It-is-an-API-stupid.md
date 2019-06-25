@@ -4,8 +4,10 @@ Diablo Anecdote
 
 level:
 - independent systems
-- interdependent systems (app / db /) 
-
+- interdependent systems (app / db / auth) 
+- components 
+- packages
+- 
 
 proprties of good apis
 statelessness
@@ -24,6 +26,6 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTgxMTAxMCwyMTA5NzI4NDk5LDExND
+eyJoaXN0b3J5IjpbLTE5OTk1NTc5NCwyMTA5NzI4NDk5LDExND
 U2NjI5MDNdfQ==
 -->
