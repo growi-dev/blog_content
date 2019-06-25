@@ -7,14 +7,14 @@ level:
 - interdependent systems (app / db / auth) 
 - components 
 - packages
-- 
+- class
 
 proprties of good apis
-statelessness
-consistency
-clear parameter
-short parameter lists
-wrapper for complex operations
+- statelessness
+- consistency
+- clear parameter
+- short parameter lists
+- wrapper for complex operations
 
 
 software architecture as api design
@@ -26,6 +26,6 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTk1NTc5NCwyMTA5NzI4NDk5LDExND
-U2NjI5MDNdfQ==
+eyJoaXN0b3J5IjpbNDA3ODI2Nzk3LDIxMDk3Mjg0OTksMTE0NT
+Y2MjkwM119
 -->
