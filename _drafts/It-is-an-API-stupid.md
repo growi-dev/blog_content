@@ -6,6 +6,9 @@ Diablo Anecdote
 proprties of good apis
 statelessness
 consistency
+clear parameter
+short parameter kists
+
 
 software architecture as api design
 
@@ -16,6 +19,6 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjI2NjIwOSwyMTA5NzI4NDk5LDExND
-U2NjI5MDNdfQ==
+eyJoaXN0b3J5IjpbNDk4MjAzOTgwLDIxMDk3Mjg0OTksMTE0NT
+Y2MjkwM119
 -->
