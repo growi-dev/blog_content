@@ -3,7 +3,8 @@
 Diablo Anecdote
 
 level:
-- systems
+- independent systems
+- interdependent systems (app / db /) 
 
 
 proprties of good apis
@@ -23,6 +24,6 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2ODk5MzMyLDIxMDk3Mjg0OTksMTE0NT
-Y2MjkwM119
+eyJoaXN0b3J5IjpbMTExOTgxMTAxMCwyMTA5NzI4NDk5LDExND
+U2NjI5MDNdfQ==
 -->
