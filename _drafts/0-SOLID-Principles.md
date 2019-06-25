@@ -1,4 +1,4 @@
-<center><b> or How to Slice and Dice your Code</b></center>
+<center><b> o:r How to Slice and Dice your Code</b></center>
 
 Software Architecture 
 
@@ -13,7 +13,7 @@ Architecture happens on different levels. <strike>It is almost like a fractal im
 	- maintainability
 	- clarity
 	- structure
-	- 
+	- protection
 
 
 
@@ -46,5 +46,5 @@ class User
 > Lombok is something
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwMDE2ODFdfQ==
+eyJoaXN0b3J5IjpbMTIwNTgwNzcyMCwzNzAwMTY4MV19
 -->
