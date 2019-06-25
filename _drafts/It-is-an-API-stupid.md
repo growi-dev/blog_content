@@ -12,7 +12,8 @@ https://static.googleusercontent.com/media/research.google.com/de//pubs/archive/
 
 slice and dice
 
-what is a
+what is a system
+
 
 level:
 - independent systems ???
@@ -90,8 +91,8 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwMzAyMzksLTI0ODUwODY1NywyMTEzNT
-YzNjM5LC0xOTk5MzE4NzcyLC0yMDI5NTM1ODUzLC0xMTE3OTU4
-ODg3LDQwNzgyNjc5NywyMTA5NzI4NDk5LDExNDU2NjI5MDNdfQ
-==
+eyJoaXN0b3J5IjpbLTE2NjA1MDMzMTIsLTI0ODUwODY1NywyMT
+EzNTYzNjM5LC0xOTk5MzE4NzcyLC0yMDI5NTM1ODUzLC0xMTE3
+OTU4ODg3LDQwNzgyNjc5NywyMTA5NzI4NDk5LDExNDU2NjI5MD
+NdfQ==
 -->
