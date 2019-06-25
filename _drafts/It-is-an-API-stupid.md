@@ -12,8 +12,10 @@ https://static.googleusercontent.com/media/research.google.com/de//pubs/archive/
 
 slice and dice
 
+what is a
+
 level:
-- independent systems
+- independent systems ???
 - interdependent systems (app / db / auth) 
 - components 
 - packages
@@ -88,7 +90,8 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODUwODY1NywyMTEzNTYzNjM5LC0xOT
-k5MzE4NzcyLC0yMDI5NTM1ODUzLC0xMTE3OTU4ODg3LDQwNzgy
-Njc5NywyMTA5NzI4NDk5LDExNDU2NjI5MDNdfQ==
+eyJoaXN0b3J5IjpbNzAwMzAyMzksLTI0ODUwODY1NywyMTEzNT
+YzNjM5LC0xOTk5MzE4NzcyLC0yMDI5NTM1ODUzLC0xMTE3OTU4
+ODg3LDQwNzgyNjc5NywyMTA5NzI4NDk5LDExNDU2NjI5MDNdfQ
+==
 -->
