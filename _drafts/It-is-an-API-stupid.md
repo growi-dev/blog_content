@@ -23,7 +23,7 @@ level:
 - class
 
 proprties of good apis
-- statelessness
+- statelessness 
 - consistency
 - clear parameter
 - short parameter lists
@@ -91,8 +91,8 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjA1MDMzMTIsLTI0ODUwODY1NywyMT
-EzNTYzNjM5LC0xOTk5MzE4NzcyLC0yMDI5NTM1ODUzLC0xMTE3
-OTU4ODg3LDQwNzgyNjc5NywyMTA5NzI4NDk5LDExNDU2NjI5MD
-NdfQ==
+eyJoaXN0b3J5IjpbLTIwMDE5NjY0ODYsLTE2NjA1MDMzMTIsLT
+I0ODUwODY1NywyMTEzNTYzNjM5LC0xOTk5MzE4NzcyLC0yMDI5
+NTM1ODUzLC0xMTE3OTU4ODg3LDQwNzgyNjc5NywyMTA5NzI4ND
+k5LDExNDU2NjI5MDNdfQ==
 -->
