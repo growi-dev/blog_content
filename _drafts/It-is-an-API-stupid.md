@@ -26,6 +26,7 @@ proprties of good apis
 - statelessness / decoupled
 - consistency
 - clear parameter
+- clear names
 - short parameter lists
 - wrapper for complex operations
 
@@ -91,8 +92,8 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzkxODk0OCwtMTY2MDUwMzMxMiwtMj
-Q4NTA4NjU3LDIxMTM1NjM2MzksLTE5OTkzMTg3NzIsLTIwMjk1
-MzU4NTMsLTExMTc5NTg4ODcsNDA3ODI2Nzk3LDIxMDk3Mjg0OT
-ksMTE0NTY2MjkwM119
+eyJoaXN0b3J5IjpbMTU5MDA5NDAxMCwxNjQzOTE4OTQ4LC0xNj
+YwNTAzMzEyLC0yNDg1MDg2NTcsMjExMzU2MzYzOSwtMTk5OTMx
+ODc3MiwtMjAyOTUzNTg1MywtMTExNzk1ODg4Nyw0MDc4MjY3OT
+csMjEwOTcyODQ5OSwxMTQ1NjYyOTAzXX0=
 -->
