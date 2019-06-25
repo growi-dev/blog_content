@@ -2,12 +2,16 @@
 
 Diablo Anecdote
 
+level:
+- systems
+
 
 proprties of good apis
 statelessness
 consistency
 clear parameter
-short parameter kists
+short parameter lists
+wrapper for complex operations
 
 
 software architecture as api design
@@ -19,6 +23,6 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4MjAzOTgwLDIxMDk3Mjg0OTksMTE0NT
+eyJoaXN0b3J5IjpbMzM2ODk5MzMyLDIxMDk3Mjg0OTksMTE0NT
 Y2MjkwM119
 -->
