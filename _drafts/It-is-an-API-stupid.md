@@ -2,6 +2,7 @@
 
 Diablo Anecdote
 
+https://static.googleusercontent.com/media/research.google.com/de//pubs/archive/32713.pdf
 
 slice and dice
 
@@ -29,6 +30,6 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTc5NTg4ODcsNDA3ODI2Nzk3LDIxMD
-k3Mjg0OTksMTE0NTY2MjkwM119
+eyJoaXN0b3J5IjpbLTIwMjk1MzU4NTMsLTExMTc5NTg4ODcsND
+A3ODI2Nzk3LDIxMDk3Mjg0OTksMTE0NTY2MjkwM119
 -->
