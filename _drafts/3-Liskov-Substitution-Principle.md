@@ -2,10 +2,10 @@
 
 syntax vs semantics
 
-syntax gets enforced m 
+syntax gets enforced, semantics not so much
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg5Nzc0NDYsMTc5NzIxNTMxNCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjg2MzY2NTEyLDE3OTcyMTUzMTQsNzMwOT
+k4MTE2XX0=
 -->
