@@ -2,6 +2,9 @@
 
 Diablo Anecdote
 
+<image source="http://rosettacode.org/mw/images/d/d7/Fractal_tree.svg" />
+
+
 https://static.googleusercontent.com/media/research.google.com/de//pubs/archive/32713.pdf
 
 <canvas id="canvas" width="600" height="500"></canvas>  
@@ -63,7 +66,7 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTkzMTg3NzIsLTIwMjk1MzU4NTMsLT
-ExMTc5NTg4ODcsNDA3ODI2Nzk3LDIxMDk3Mjg0OTksMTE0NTY2
-MjkwM119
+eyJoaXN0b3J5IjpbMjExMzU2MzYzOSwtMTk5OTMxODc3MiwtMj
+AyOTUzNTg1MywtMTExNzk1ODg4Nyw0MDc4MjY3OTcsMjEwOTcy
+ODQ5OSwxMTQ1NjYyOTAzXX0=
 -->
