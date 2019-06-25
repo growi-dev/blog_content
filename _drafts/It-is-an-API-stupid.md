@@ -2,6 +2,7 @@
 
 Diablo Anecdote
 
+https://www.raphkoster.com/games/laws-of-online-world-design/the-laws-of-online-world-design/
 <image source="http://rosettacode.org/mw/images/d/d7/Fractal_tree.svg" />
 
 
@@ -66,7 +67,7 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzU2MzYzOSwtMTk5OTMxODc3MiwtMj
-AyOTUzNTg1MywtMTExNzk1ODg4Nyw0MDc4MjY3OTcsMjEwOTcy
-ODQ5OSwxMTQ1NjYyOTAzXX0=
+eyJoaXN0b3J5IjpbNzk1OTI5NTQ2LDIxMTM1NjM2MzksLTE5OT
+kzMTg3NzIsLTIwMjk1MzU4NTMsLTExMTc5NTg4ODcsNDA3ODI2
+Nzk3LDIxMDk3Mjg0OTksMTE0NTY2MjkwM119
 -->
