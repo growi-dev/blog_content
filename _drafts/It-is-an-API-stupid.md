@@ -3,6 +3,10 @@
 Diablo Anecdote
 
 
+proprties of good apis
+statelessness
+consistency
+
 
 Everything is an API
 -> a Class is the smallest API
@@ -10,5 +14,5 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTY2MjkwM119
+eyJoaXN0b3J5IjpbMjEwOTcyODQ5OSwxMTQ1NjYyOTAzXX0=
 -->
