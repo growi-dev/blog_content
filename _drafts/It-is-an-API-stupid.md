@@ -2,6 +2,9 @@
 
 Diablo Anecdote
 
+
+slice and dice
+
 level:
 - independent systems
 - interdependent systems (app / db / auth) 
@@ -26,6 +29,6 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3ODI2Nzk3LDIxMDk3Mjg0OTksMTE0NT
-Y2MjkwM119
+eyJoaXN0b3J5IjpbLTExMTc5NTg4ODcsNDA3ODI2Nzk3LDIxMD
+k3Mjg0OTksMTE0NTY2MjkwM119
 -->
