@@ -32,6 +32,14 @@ Creating a system that embodies the three core properties can be achieved in a n
 The principles identified above comunicate a clear possible solution: create independent bundles of logically interconnected, minimal funtionality that expose well define entry points. In other words: hide interrelated functionality behind a single API.
 
 # Even fewer Words on Good API Design
+proprties of good apis
+- statelessness / decoupled
+- consistency
+- clear parameter / also parameter order
+- clear names
+- short parameter lists
+- wrapper for complex operations
+
 
 # Down the Rabbit Hole 
 
@@ -70,13 +78,6 @@ level:
 - packages
 - class
 
-proprties of good apis
-- statelessness / decoupled
-- consistency
-- clear parameter / also parameter order
-- clear names
-- short parameter lists
-- wrapper for complex operations
 
 
 software architecture as api design
@@ -140,11 +141,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTI2ODExMDksLTgxOTcyODk2MCwtMT
-MwMDEwNTQxMiwxODI0MDgxODIsMzk2NjI2NDY3LDIxMDQxODQ2
-MDUsLTMzMTcxMTU2NywyMDgwNTkwODU4LDU5OTYxMzY1OSwtMj
-A2ODI0NjQ2LDM3MTg1MDIzMywtMjEyMjYxMDYyOSwtMTI4NTk0
-NzQwOCw2Njg3NjQxMDYsMjEzMDI0ODc1NSwtMjA4OTc5NjAzOC
-wtMjAwOTAwMjAwLDEzMjkzNDgwMjYsLTEyMDg0NTUyMjQsNjYx
-NjkyMDA3XX0=
+eyJoaXN0b3J5IjpbODU3NzY5NjI1LC0xODkyNjgxMTA5LC04MT
+k3Mjg5NjAsLTEzMDAxMDU0MTIsMTgyNDA4MTgyLDM5NjYyNjQ2
+NywyMTA0MTg0NjA1LC0zMzE3MTE1NjcsMjA4MDU5MDg1OCw1OT
+k2MTM2NTksLTIwNjgyNDY0NiwzNzE4NTAyMzMsLTIxMjI2MTA2
+MjksLTEyODU5NDc0MDgsNjY4NzY0MTA2LDIxMzAyNDg3NTUsLT
+IwODk3OTYwMzgsLTIwMDkwMDIwMCwxMzI5MzQ4MDI2LC0xMjA4
+NDU1MjI0XX0=
 -->
