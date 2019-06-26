@@ -17,7 +17,7 @@ Other desirable properties might be:
 - reusability
 - durability
 
-High performance and low operational or building costs can also be thrown in the mix, among others.
+High performance and low operational or building costs can also be thrown into the mix, among others.
 
 Creating a system that embodies the three core properties can be achieved in a number of ways, depending on the paradigms you are employing in building it, but they are always driven by the same principles.
 
@@ -127,11 +127,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjIzODM4ODIsMjA4MDU5MDg1OCw1OT
-k2MTM2NTksLTIwNjgyNDY0NiwzNzE4NTAyMzMsLTIxMjI2MTA2
-MjksLTEyODU5NDc0MDgsNjY4NzY0MTA2LDIxMzAyNDg3NTUsLT
-IwODk3OTYwMzgsLTIwMDkwMDIwMCwxMzI5MzQ4MDI2LC0xMjA4
-NDU1MjI0LDY2MTY5MjAwNywyNzQwMDU0OTksMzI1ODA0OTcsLT
-gyNzUwOTgyMSwtMTQ0NzczMjg2OCwtOTgwODU0MTYsMTc0MzI2
-NDcxOV19
+eyJoaXN0b3J5IjpbLTMzMTcxMTU2NywyMDgwNTkwODU4LDU5OT
+YxMzY1OSwtMjA2ODI0NjQ2LDM3MTg1MDIzMywtMjEyMjYxMDYy
+OSwtMTI4NTk0NzQwOCw2Njg3NjQxMDYsMjEzMDI0ODc1NSwtMj
+A4OTc5NjAzOCwtMjAwOTAwMjAwLDEzMjkzNDgwMjYsLTEyMDg0
+NTUyMjQsNjYxNjkyMDA3LDI3NDAwNTQ5OSwzMjU4MDQ5NywtOD
+I3NTA5ODIxLC0xNDQ3NzMyODY4LC05ODA4NTQxNiwxNzQzMjY0
+NzE5XX0=
 -->
