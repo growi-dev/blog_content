@@ -1,4 +1,5 @@
 <center><b>or: It's APIs All the Way Down</b></center>
+„Ἐν ἀρχῇ ἦν ὁ λόγος.“
 
 Is Software Architecture an emergent property?
 
@@ -97,10 +98,10 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MzI2NDcxOSwtMTI2OTIyNDY3LC0xNT
-Q4NTU1MzM1LC0yMDAwNzU4OTA5LC0xMjE2NzU3NTQxLDE1OTAw
-OTQwMTAsMTY0MzkxODk0OCwtMTY2MDUwMzMxMiwtMjQ4NTA4Nj
-U3LDIxMTM1NjM2MzksLTE5OTkzMTg3NzIsLTIwMjk1MzU4NTMs
-LTExMTc5NTg4ODcsNDA3ODI2Nzk3LDIxMDk3Mjg0OTksMTE0NT
-Y2MjkwM119
+eyJoaXN0b3J5IjpbLTk4MDg1NDE2LDE3NDMyNjQ3MTksLTEyNj
+kyMjQ2NywtMTU0ODU1NTMzNSwtMjAwMDc1ODkwOSwtMTIxNjc1
+NzU0MSwxNTkwMDk0MDEwLDE2NDM5MTg5NDgsLTE2NjA1MDMzMT
+IsLTI0ODUwODY1NywyMTEzNTYzNjM5LC0xOTk5MzE4NzcyLC0y
+MDI5NTM1ODUzLC0xMTE3OTU4ODg3LDQwNzgyNjc5NywyMTA5Nz
+I4NDk5LDExNDU2NjI5MDNdfQ==
 -->
