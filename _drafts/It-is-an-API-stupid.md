@@ -20,7 +20,7 @@ Other desirable properties might be:
 High performance and low operational or building costs can also be thrown in the mix, among others.
 
 Creating a system that embodies the three core properties can be achieved in a number of ways, depending the paradigms you are employing in building it, but they are always driven by the same principles.
-_Correctness_ is best accomplished by creating readable, independent, atomic and therefore testable code.
+_Correctness_ is best accomplished by creating readable, independent, atomic and therefore testable functions.
 _Extensibility_ is achieved by decoupling logically independent functionality and providing well defined communication channels between those.
 _Maintainability_ is heavily  driven by the other two and mainly constrains how those should be implemented.
 
@@ -125,11 +125,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTM0ODAyNiwtMTIwODQ1NTIyNCw2Nj
-E2OTIwMDcsMjc0MDA1NDk5LDMyNTgwNDk3LC04Mjc1MDk4MjEs
-LTE0NDc3MzI4NjgsLTk4MDg1NDE2LDE3NDMyNjQ3MTksLTEyNj
-kyMjQ2NywtMTU0ODU1NTMzNSwtMjAwMDc1ODkwOSwtMTIxNjc1
-NzU0MSwxNTkwMDk0MDEwLDE2NDM5MTg5NDgsLTE2NjA1MDMzMT
-IsLTI0ODUwODY1NywyMTEzNTYzNjM5LC0xOTk5MzE4NzcyLC0y
-MDI5NTM1ODUzXX0=
+eyJoaXN0b3J5IjpbLTIwMDkwMDIwMCwxMzI5MzQ4MDI2LC0xMj
+A4NDU1MjI0LDY2MTY5MjAwNywyNzQwMDU0OTksMzI1ODA0OTcs
+LTgyNzUwOTgyMSwtMTQ0NzczMjg2OCwtOTgwODU0MTYsMTc0Mz
+I2NDcxOSwtMTI2OTIyNDY3LC0xNTQ4NTU1MzM1LC0yMDAwNzU4
+OTA5LC0xMjE2NzU3NTQxLDE1OTAwOTQwMTAsMTY0MzkxODk0OC
+wtMTY2MDUwMzMxMiwtMjQ4NTA4NjU3LDIxMTM1NjM2MzksLTE5
+OTkzMTg3NzJdfQ==
 -->
