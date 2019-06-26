@@ -13,9 +13,9 @@ Other desirable properties might be:
 - security (this one should really be in the core group, but it rarely is)
 - scalability
 - reusability
-- fault tolerance
+- durability
 
-To create a 
+To create a system that embodies the core 
 
 
 
@@ -118,7 +118,7 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTg1Mzg4NjksMzI1ODA0OTcsLTgyNz
+eyJoaXN0b3J5IjpbLTE0MTE2MDU1NTksMzI1ODA0OTcsLTgyNz
 UwOTgyMSwtMTQ0NzczMjg2OCwtOTgwODU0MTYsMTc0MzI2NDcx
 OSwtMTI2OTIyNDY3LC0xNTQ4NTU1MzM1LC0yMDAwNzU4OTA5LC
 0xMjE2NzU3NTQxLDE1OTAwOTQwMTAsMTY0MzkxODk0OCwtMTY2
