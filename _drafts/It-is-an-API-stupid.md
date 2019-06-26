@@ -1,6 +1,6 @@
 <center><b>or: It's APIs All the Way Down</b></center>
 
-Syst
+Is Software Architecture an emergent property?
 
 You can look at a software system 
 
@@ -97,9 +97,9 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDc4MTA0LC0xNTQ4NTU1MzM1LC0yMD
-AwNzU4OTA5LC0xMjE2NzU3NTQxLDE1OTAwOTQwMTAsMTY0Mzkx
-ODk0OCwtMTY2MDUwMzMxMiwtMjQ4NTA4NjU3LDIxMTM1NjM2Mz
-ksLTE5OTkzMTg3NzIsLTIwMjk1MzU4NTMsLTExMTc5NTg4ODcs
-NDA3ODI2Nzk3LDIxMDk3Mjg0OTksMTE0NTY2MjkwM119
+eyJoaXN0b3J5IjpbLTEyNjkyMjQ2NywtMTU0ODU1NTMzNSwtMj
+AwMDc1ODkwOSwtMTIxNjc1NzU0MSwxNTkwMDk0MDEwLDE2NDM5
+MTg5NDgsLTE2NjA1MDMzMTIsLTI0ODUwODY1NywyMTEzNTYzNj
+M5LC0xOTk5MzE4NzcyLC0yMDI5NTM1ODUzLC0xMTE3OTU4ODg3
+LDQwNzgyNjc5NywyMTA5NzI4NDk5LDExNDU2NjI5MDNdfQ==
 -->
