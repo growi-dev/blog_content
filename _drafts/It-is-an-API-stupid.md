@@ -44,7 +44,7 @@ The principles identified above guide us to possible solution: create independen
 
 proprties of good apis
 - statelessness / decoupled / atomic / transactional
-- consistency
+- consistency 			vvv
 - clear parameter / also parameter order
 - clear names
 - short parameter lists
@@ -145,11 +145,11 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDU3OTk5MSwyMDg5Mzk5MDQwLDE1MT
-gyNzA2ODQsLTg4OTQ3NzMzNywtMTkwMTA3MTE4NCwxNjI1NDQ0
-ODI0LC0xMDA0OTYwMDE1LC03MjY2NjQ1NSwtMTg5MjY4MTEwOS
-wtODE5NzI4OTYwLC0xMzAwMTA1NDEyLDE4MjQwODE4MiwzOTY2
-MjY0NjcsMjEwNDE4NDYwNSwtMzMxNzExNTY3LDIwODA1OTA4NT
-gsNTk5NjEzNjU5LC0yMDY4MjQ2NDYsMzcxODUwMjMzLC0yMTIy
-NjEwNjI5XX0=
+eyJoaXN0b3J5IjpbLTI3NTk2MDc5NSwyMDA0NTc5OTkxLDIwOD
+kzOTkwNDAsMTUxODI3MDY4NCwtODg5NDc3MzM3LC0xOTAxMDcx
+MTg0LDE2MjU0NDQ4MjQsLTEwMDQ5NjAwMTUsLTcyNjY2NDU1LC
+0xODkyNjgxMTA5LC04MTk3Mjg5NjAsLTEzMDAxMDU0MTIsMTgy
+NDA4MTgyLDM5NjYyNjQ2NywyMTA0MTg0NjA1LC0zMzE3MTE1Nj
+csMjA4MDU5MDg1OCw1OTk2MTM2NTksLTIwNjgyNDY0NiwzNzE4
+NTAyMzNdfQ==
 -->
