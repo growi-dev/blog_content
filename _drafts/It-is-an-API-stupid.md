@@ -10,9 +10,10 @@ While the set of properties a system should exhibit differs wildly on a case to 
 - maintainability
 
 Other desirable properties might be:
-- security 
+- security (this one should really be in the core group, but it rarely is)
 - scalability
 - reusability
+- fault tolerance
 
 
 
@@ -116,7 +117,7 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDU0MDI2NCwzMjU4MDQ5NywtODI3NT
+eyJoaXN0b3J5IjpbLTQ3ODMwNzYyMSwzMjU4MDQ5NywtODI3NT
 A5ODIxLC0xNDQ3NzMyODY4LC05ODA4NTQxNiwxNzQzMjY0NzE5
 LC0xMjY5MjI0NjcsLTE1NDg1NTUzMzUsLTIwMDA3NTg5MDksLT
 EyMTY3NTc1NDEsMTU5MDA5NDAxMCwxNjQzOTE4OTQ4LC0xNjYw
