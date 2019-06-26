@@ -6,7 +6,8 @@ Architecture is an expression of the constraints that are defined by what we mea
 
 While the set of properties a system should exhibit differs wildly on a case to case basis some are widely understood as being the common denominator of all well designed systems. (The emphasis laid on single properties might differ but the following are the core)
 - correctness (duh)
-- extensability
+- extensibility
+- maintainability
 - 
 
 
@@ -111,11 +112,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjU1MDU3LC0xNDQ3NzMyODY4LC05OD
-A4NTQxNiwxNzQzMjY0NzE5LC0xMjY5MjI0NjcsLTE1NDg1NTUz
-MzUsLTIwMDA3NTg5MDksLTEyMTY3NTc1NDEsMTU5MDA5NDAxMC
-wxNjQzOTE4OTQ4LC0xNjYwNTAzMzEyLC0yNDg1MDg2NTcsMjEx
-MzU2MzYzOSwtMTk5OTMxODc3MiwtMjAyOTUzNTg1MywtMTExNz
-k1ODg4Nyw0MDc4MjY3OTcsMjEwOTcyODQ5OSwxMTQ1NjYyOTAz
-XX0=
+eyJoaXN0b3J5IjpbLTgyNzUwOTgyMSwtMTQ0NzczMjg2OCwtOT
+gwODU0MTYsMTc0MzI2NDcxOSwtMTI2OTIyNDY3LC0xNTQ4NTU1
+MzM1LC0yMDAwNzU4OTA5LC0xMjE2NzU3NTQxLDE1OTAwOTQwMT
+AsMTY0MzkxODk0OCwtMTY2MDUwMzMxMiwtMjQ4NTA4NjU3LDIx
+MTM1NjM2MzksLTE5OTkzMTg3NzIsLTIwMjk1MzU4NTMsLTExMT
+c5NTg4ODcsNDA3ODI2Nzk3LDIxMDk3Mjg0OTksMTE0NTY2Mjkw
+M119
 -->
