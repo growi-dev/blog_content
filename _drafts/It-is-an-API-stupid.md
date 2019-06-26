@@ -23,7 +23,7 @@ Creating a system that embodies the three core properties can be achieved in a n
 
 - _Correctness_ is best accomplished by creating readable, independent, atomic and therefore testable functions.
 - _Extensibility_ is achieved by decoupling logically independent functionality and providing well defined communication channels in between.
-- _Maintainability_ is heavily driven by the other two and mainly constrains how those should be implemented. Or to put it another way: _Maintainability_ is a measure on how well other relevant driving principles are enforced throughout the system.
+- _Maintainability_ is heavily driven by the other two and mainly constrains how those should be implemented. Or to put it another way: _Maintainability_ is a measure on how well the relevant driving principles are enforced throughout the system.
 
 
 
@@ -127,11 +127,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjgyNDY0NiwzNzE4NTAyMzMsLTIxMj
-I2MTA2MjksLTEyODU5NDc0MDgsNjY4NzY0MTA2LDIxMzAyNDg3
-NTUsLTIwODk3OTYwMzgsLTIwMDkwMDIwMCwxMzI5MzQ4MDI2LC
-0xMjA4NDU1MjI0LDY2MTY5MjAwNywyNzQwMDU0OTksMzI1ODA0
-OTcsLTgyNzUwOTgyMSwtMTQ0NzczMjg2OCwtOTgwODU0MTYsMT
-c0MzI2NDcxOSwtMTI2OTIyNDY3LC0xNTQ4NTU1MzM1LC0yMDAw
-NzU4OTA5XX0=
+eyJoaXN0b3J5IjpbNTk5NjEzNjU5LC0yMDY4MjQ2NDYsMzcxOD
+UwMjMzLC0yMTIyNjEwNjI5LC0xMjg1OTQ3NDA4LDY2ODc2NDEw
+NiwyMTMwMjQ4NzU1LC0yMDg5Nzk2MDM4LC0yMDA5MDAyMDAsMT
+MyOTM0ODAyNiwtMTIwODQ1NTIyNCw2NjE2OTIwMDcsMjc0MDA1
+NDk5LDMyNTgwNDk3LC04Mjc1MDk4MjEsLTE0NDc3MzI4NjgsLT
+k4MDg1NDE2LDE3NDMyNjQ3MTksLTEyNjkyMjQ2NywtMTU0ODU1
+NTMzNV19
 -->
