@@ -3,7 +3,7 @@ title: It's an API Stupid
 tags:
 - architecture
 - programming
-- Obj
+- object oriented design
 ---
 <center><b>or: It's APIs All the Way Down</b></center>
 
@@ -152,11 +152,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTgzMzM1OSwtNzI2NjY0NTUsLTE4OT
-I2ODExMDksLTgxOTcyODk2MCwtMTMwMDEwNTQxMiwxODI0MDgx
-ODIsMzk2NjI2NDY3LDIxMDQxODQ2MDUsLTMzMTcxMTU2NywyMD
-gwNTkwODU4LDU5OTYxMzY1OSwtMjA2ODI0NjQ2LDM3MTg1MDIz
-MywtMjEyMjYxMDYyOSwtMTI4NTk0NzQwOCw2Njg3NjQxMDYsMj
-EzMDI0ODc1NSwtMjA4OTc5NjAzOCwtMjAwOTAwMjAwLDEzMjkz
-NDgwMjZdfQ==
+eyJoaXN0b3J5IjpbLTEwMDQ5NjAwMTUsLTcyNjY2NDU1LC0xOD
+kyNjgxMTA5LC04MTk3Mjg5NjAsLTEzMDAxMDU0MTIsMTgyNDA4
+MTgyLDM5NjYyNjQ2NywyMTA0MTg0NjA1LC0zMzE3MTE1NjcsMj
+A4MDU5MDg1OCw1OTk2MTM2NTksLTIwNjgyNDY0NiwzNzE4NTAy
+MzMsLTIxMjI2MTA2MjksLTEyODU5NDc0MDgsNjY4NzY0MTA2LD
+IxMzAyNDg3NTUsLTIwODk3OTYwMzgsLTIwMDkwMDIwMCwxMzI5
+MzQ4MDI2XX0=
 -->
