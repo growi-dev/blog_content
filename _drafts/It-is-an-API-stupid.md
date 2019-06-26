@@ -31,7 +31,7 @@ Creating a system that embodies the three core properties can be achieved in a n
 
 The principles identified above comunicate a clear possible solution: create independent bundles of logically interconnected, minimal funtionality that expose well define entry points. In other words: hide interrelated functionality behind a single API.
 
-# Even fewer Words on Properties of Good API Design
+# Even fewer Words on Good API Design
 
 # Down the Rabbit Hole 
 
@@ -140,11 +140,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzc2MjU1MywtODE5NzI4OTYwLC0xMz
-AwMTA1NDEyLDE4MjQwODE4MiwzOTY2MjY0NjcsMjEwNDE4NDYw
-NSwtMzMxNzExNTY3LDIwODA1OTA4NTgsNTk5NjEzNjU5LC0yMD
-Y4MjQ2NDYsMzcxODUwMjMzLC0yMTIyNjEwNjI5LC0xMjg1OTQ3
-NDA4LDY2ODc2NDEwNiwyMTMwMjQ4NzU1LC0yMDg5Nzk2MDM4LC
-0yMDA5MDAyMDAsMTMyOTM0ODAyNiwtMTIwODQ1NTIyNCw2NjE2
-OTIwMDddfQ==
+eyJoaXN0b3J5IjpbLTE4OTI2ODExMDksLTgxOTcyODk2MCwtMT
+MwMDEwNTQxMiwxODI0MDgxODIsMzk2NjI2NDY3LDIxMDQxODQ2
+MDUsLTMzMTcxMTU2NywyMDgwNTkwODU4LDU5OTYxMzY1OSwtMj
+A2ODI0NjQ2LDM3MTg1MDIzMywtMjEyMjYxMDYyOSwtMTI4NTk0
+NzQwOCw2Njg3NjQxMDYsMjEzMDI0ODc1NSwtMjA4OTc5NjAzOC
+wtMjAwOTAwMjAwLDEzMjkzNDgwMjYsLTEyMDg0NTUyMjQsNjYx
+NjkyMDA3XX0=
 -->
