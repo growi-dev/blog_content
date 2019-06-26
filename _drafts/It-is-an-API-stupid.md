@@ -18,7 +18,7 @@ Other desirable properties might be:
 Creating a system that embodies the three core properties can be achieved in a number of ways, depending the paradigms you are employing in building it but they all share the same principles.
 Correctness is best accomplished by creating readable, independent and testable code.
 Extensibility is archieved by decoupling independent code.
-Maintainability 
+Maintainability is heavily  
 
 
 
@@ -121,7 +121,7 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTAwMDgzMywzMjU4MDQ5NywtODI3NT
+eyJoaXN0b3J5IjpbMTI4MzgwNzAyNywzMjU4MDQ5NywtODI3NT
 A5ODIxLC0xNDQ3NzMyODY4LC05ODA4NTQxNiwxNzQzMjY0NzE5
 LC0xMjY5MjI0NjcsLTE1NDg1NTUzMzUsLTIwMDA3NTg5MDksLT
 EyMTY3NTc1NDEsMTU5MDA5NDAxMCwxNjQzOTE4OTQ4LC0xNjYw
