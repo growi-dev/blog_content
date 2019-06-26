@@ -6,7 +6,7 @@
 Architecture isn't something that just happens. Architecture can't be an afterthought. Architecture isn't just the packaging of functionality. Architecture is an emergent property of a well designed system. You can make many decisions during the design process that influence its flavor but none of those change its substance. 
 Architecture is an expression of the constraints that are defined by what we mean by a "well designed system". While that seems tautological at first glance, it isn't. The design of a system is driven by a set of properties we want the system to exhibit, the architecture is the way those properties are realized in the system. It is the difference between the what and the how. Therefore a well designed system is a system that expresses the right properties for its use cases while a well implemented architecture fulfills those properties.
 
-While the set of properties a system should exhibit differs wildly on a case to case basis, some are widely understood as being the common denominator of all well designed systems. 
+While the set of properties a system should exhibit differs violently on a case to case basis, some are widely understood as being the common denominator of all well designed systems. 
 - correctness (duh!)
 - extensibility
 - maintainability
@@ -16,6 +16,7 @@ Other desirable properties might be:
 - scalability
 - reusability
 - durability
+Performance and costs can also be thrown in the mix.
 
 Creating a system that embodies the three core properties can be achieved in a number of ways, depending the paradigms you are employing in building it but they are always driven by the same principles.
 _Correctness_ is best accomplished by creating readable, independent, atomic and therefore testable code.
@@ -123,11 +124,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0MDA1NDk5LDMyNTgwNDk3LC04Mjc1MD
-k4MjEsLTE0NDc3MzI4NjgsLTk4MDg1NDE2LDE3NDMyNjQ3MTks
-LTEyNjkyMjQ2NywtMTU0ODU1NTMzNSwtMjAwMDc1ODkwOSwtMT
-IxNjc1NzU0MSwxNTkwMDk0MDEwLDE2NDM5MTg5NDgsLTE2NjA1
-MDMzMTIsLTI0ODUwODY1NywyMTEzNTYzNjM5LC0xOTk5MzE4Nz
-cyLC0yMDI5NTM1ODUzLC0xMTE3OTU4ODg3LDQwNzgyNjc5Nywy
-MTA5NzI4NDk5XX0=
+eyJoaXN0b3J5IjpbMTI1NjAwMjcwMSwyNzQwMDU0OTksMzI1OD
+A0OTcsLTgyNzUwOTgyMSwtMTQ0NzczMjg2OCwtOTgwODU0MTYs
+MTc0MzI2NDcxOSwtMTI2OTIyNDY3LC0xNTQ4NTU1MzM1LC0yMD
+AwNzU4OTA5LC0xMjE2NzU3NTQxLDE1OTAwOTQwMTAsMTY0Mzkx
+ODk0OCwtMTY2MDUwMzMxMiwtMjQ4NTA4NjU3LDIxMTM1NjM2Mz
+ksLTE5OTkzMTg3NzIsLTIwMjk1MzU4NTMsLTExMTc5NTg4ODcs
+NDA3ODI2Nzk3XX0=
 -->
