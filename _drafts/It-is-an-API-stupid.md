@@ -5,14 +5,13 @@ Architecture isn't something that just happens. Architecture can't be an afterth
 Architecture is an expression of the constraints that are defined by what we mean by a "well designed system". While that seems tautological at first glance, it isn't. The design of a system is driven by a set of properties we want the system to exhibit, the architecture is the way those properties are realized in the system. It is the difference between the what and the how. Therefore a well designed system is a system that expresses the right properties for its use cases while a well implemented architecture fulfills those properties.
 
 While the set of properties a system should exhibit differs wildly on a case to case basis, some are widely understood as being the common denominator of all well designed systems. 
-- correctness (duh)
+- correctness (duh!)
 - extensibility
 - maintainability
 
-other might be
-- high performance
+Other desirable properties might be:
+- security 
 - scalability
-- platform independence
 - reusability
 
 
@@ -117,11 +116,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDI0OTExNDEsMzI1ODA0OTcsLTgyNz
-UwOTgyMSwtMTQ0NzczMjg2OCwtOTgwODU0MTYsMTc0MzI2NDcx
-OSwtMTI2OTIyNDY3LC0xNTQ4NTU1MzM1LC0yMDAwNzU4OTA5LC
-0xMjE2NzU3NTQxLDE1OTAwOTQwMTAsMTY0MzkxODk0OCwtMTY2
-MDUwMzMxMiwtMjQ4NTA4NjU3LDIxMTM1NjM2MzksLTE5OTkzMT
-g3NzIsLTIwMjk1MzU4NTMsLTExMTc5NTg4ODcsNDA3ODI2Nzk3
-LDIxMDk3Mjg0OTldfQ==
+eyJoaXN0b3J5IjpbMTg3MDU0MDI2NCwzMjU4MDQ5NywtODI3NT
+A5ODIxLC0xNDQ3NzMyODY4LC05ODA4NTQxNiwxNzQzMjY0NzE5
+LC0xMjY5MjI0NjcsLTE1NDg1NTUzMzUsLTIwMDA3NTg5MDksLT
+EyMTY3NTc1NDEsMTU5MDA5NDAxMCwxNjQzOTE4OTQ4LC0xNjYw
+NTAzMzEyLC0yNDg1MDg2NTcsMjExMzU2MzYzOSwtMTk5OTMxOD
+c3MiwtMjAyOTUzNTg1MywtMTExNzk1ODg4Nyw0MDc4MjY3OTcs
+MjEwOTcyODQ5OV19
 -->
