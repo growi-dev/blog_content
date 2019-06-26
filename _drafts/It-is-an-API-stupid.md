@@ -43,7 +43,7 @@ The principles identified above guide us to possible solution: create independen
 >Never trust the client. The client is in the hands of the enemy.
 
 proprties of good apis
-- statelessness / decoupled
+- statelessness / decoupled / atomic / transactional
 - consistency
 - clear parameter / also parameter order
 - clear names
@@ -145,11 +145,11 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTM5OTA0MCwxNTE4MjcwNjg0LC04OD
-k0NzczMzcsLTE5MDEwNzExODQsMTYyNTQ0NDgyNCwtMTAwNDk2
-MDAxNSwtNzI2NjY0NTUsLTE4OTI2ODExMDksLTgxOTcyODk2MC
-wtMTMwMDEwNTQxMiwxODI0MDgxODIsMzk2NjI2NDY3LDIxMDQx
-ODQ2MDUsLTMzMTcxMTU2NywyMDgwNTkwODU4LDU5OTYxMzY1OS
-wtMjA2ODI0NjQ2LDM3MTg1MDIzMywtMjEyMjYxMDYyOSwtMTI4
-NTk0NzQwOF19
+eyJoaXN0b3J5IjpbLTk3MzYzMDU2OCwyMDg5Mzk5MDQwLDE1MT
+gyNzA2ODQsLTg4OTQ3NzMzNywtMTkwMTA3MTE4NCwxNjI1NDQ0
+ODI0LC0xMDA0OTYwMDE1LC03MjY2NjQ1NSwtMTg5MjY4MTEwOS
+wtODE5NzI4OTYwLC0xMzAwMTA1NDEyLDE4MjQwODE4MiwzOTY2
+MjY0NjcsMjEwNDE4NDYwNSwtMzMxNzExNTY3LDIwODA1OTA4NT
+gsNTk5NjEzNjU5LC0yMDY4MjQ2NDYsMzcxODUwMjMzLC0yMTIy
+NjEwNjI5XX0=
 -->
