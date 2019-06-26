@@ -40,6 +40,8 @@ proprties of good apis
 - short parameter lists
 - wrapper for complex operations
 
+-- Statelessness, Closed, The programmer is the enemy
+
 
 
 # Down the Rabbit Hole 
@@ -86,7 +88,6 @@ software architecture as api design
 
 Everything is an API
 -> a Class is the smallest API (you workl with / on)
--- Statelessness, Closed, The programmer is the enemy
 
 
 
@@ -142,7 +143,7 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODgzNDUwMywtMTg5MjY4MTEwOSwtOD
+eyJoaXN0b3J5IjpbMTcwMTE5MDU4NywtMTg5MjY4MTEwOSwtOD
 E5NzI4OTYwLC0xMzAwMTA1NDEyLDE4MjQwODE4MiwzOTY2MjY0
 NjcsMjEwNDE4NDYwNSwtMzMxNzExNTY3LDIwODA1OTA4NTgsNT
 k5NjEzNjU5LC0yMDY4MjQ2NDYsMzcxODUwMjMzLC0yMTIyNjEw
