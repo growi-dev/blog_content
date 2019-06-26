@@ -57,14 +57,16 @@ proprties of good apis
 # Down the Rabbit Hole 
 
 
+level:
+- independent systems ???
+- interdependent systems (app / db / auth)  ???
+- components 
+- packages
+- class
+- overloaded methods
 
-
-
-
-
-
-
-Is Software Architecture an emergent property?
+Everything is an API
+-> a Class is the smallest API (you workl with / on)
 
 You can look at a software system from a variety of perspectives and distances.
 
@@ -84,20 +86,10 @@ slice and dice
 what is a system
 
 
-level:
-- independent systems ???
-- interdependent systems (app / db / auth)  ???
-- components 
-- packages
-- class
-
-
 
 software architecture as api design
 
 
-Everything is an API
--> a Class is the smallest API (you workl with / on)
 
 
 
@@ -153,11 +145,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODI3MDY4NCwtODg5NDc3MzM3LC0xOT
-AxMDcxMTg0LDE2MjU0NDQ4MjQsLTEwMDQ5NjAwMTUsLTcyNjY2
-NDU1LC0xODkyNjgxMTA5LC04MTk3Mjg5NjAsLTEzMDAxMDU0MT
-IsMTgyNDA4MTgyLDM5NjYyNjQ2NywyMTA0MTg0NjA1LC0zMzE3
-MTE1NjcsMjA4MDU5MDg1OCw1OTk2MTM2NTksLTIwNjgyNDY0Ni
-wzNzE4NTAyMzMsLTIxMjI2MTA2MjksLTEyODU5NDc0MDgsNjY4
-NzY0MTA2XX0=
+eyJoaXN0b3J5IjpbMjA4OTM5OTA0MCwxNTE4MjcwNjg0LC04OD
+k0NzczMzcsLTE5MDEwNzExODQsMTYyNTQ0NDgyNCwtMTAwNDk2
+MDAxNSwtNzI2NjY0NTUsLTE4OTI2ODExMDksLTgxOTcyODk2MC
+wtMTMwMDEwNTQxMiwxODI0MDgxODIsMzk2NjI2NDY3LDIxMDQx
+ODQ2MDUsLTMzMTcxMTU2NywyMDgwNTkwODU4LDU5OTYxMzY1OS
+wtMjA2ODI0NjQ2LDM3MTg1MDIzMywtMjEyMjYxMDYyOSwtMTI4
+NTk0NzQwOF19
 -->
