@@ -25,7 +25,7 @@ Creating a system that embodies the three core properties can be achieved in a n
 - _Extensibility_ is achieved by decoupling logically independent functionality and providing well defined communication channels in between.
 - _Maintainability_ is heavily driven by the other two and mainly constrains how those should be implemented. Or to put it another way: _Maintainability_ is a measure on how well the relevant driving principles are enforced throughout the system.
 
-The principles identified above comunicate a clear possible solution: create independent bundles of logically interconnected, minimal funtionality that expose well defined cominocation channels. In other words: hide rel functionality behind an API,,
+The principles identified above comunicate a clear possible solution: create independent bundles of logically interconnected, minimal funtionality that expose well defined cominocation channels. In other words: hide interrelated functionality behind a single API.
 
 
 
@@ -134,11 +134,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY2NjUyNzUsMjEwNDE4NDYwNSwtMz
-MxNzExNTY3LDIwODA1OTA4NTgsNTk5NjEzNjU5LC0yMDY4MjQ2
-NDYsMzcxODUwMjMzLC0yMTIyNjEwNjI5LC0xMjg1OTQ3NDA4LD
-Y2ODc2NDEwNiwyMTMwMjQ4NzU1LC0yMDg5Nzk2MDM4LC0yMDA5
-MDAyMDAsMTMyOTM0ODAyNiwtMTIwODQ1NTIyNCw2NjE2OTIwMD
-csMjc0MDA1NDk5LDMyNTgwNDk3LC04Mjc1MDk4MjEsLTE0NDc3
-MzI4NjhdfQ==
+eyJoaXN0b3J5IjpbODIzNDkwNTYxLDIxMDQxODQ2MDUsLTMzMT
+cxMTU2NywyMDgwNTkwODU4LDU5OTYxMzY1OSwtMjA2ODI0NjQ2
+LDM3MTg1MDIzMywtMjEyMjYxMDYyOSwtMTI4NTk0NzQwOCw2Nj
+g3NjQxMDYsMjEzMDI0ODc1NSwtMjA4OTc5NjAzOCwtMjAwOTAw
+MjAwLDEzMjkzNDgwMjYsLTEyMDg0NTUyMjQsNjYxNjkyMDA3LD
+I3NDAwNTQ5OSwzMjU4MDQ5NywtODI3NTA5ODIxLC0xNDQ3NzMy
+ODY4XX0=
 -->
