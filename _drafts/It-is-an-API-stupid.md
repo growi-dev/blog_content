@@ -1,5 +1,8 @@
 <center><b>or: It's APIs All the Way Down</b></center>
 
+
+
+
 Diablo Anecdote
 https://medium.com/@berniedurfee/never-trust-a-client-not-even-your-own-2de342723674
 
@@ -92,9 +95,9 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDA3NTg5MDksLTEyMTY3NTc1NDEsMT
-U5MDA5NDAxMCwxNjQzOTE4OTQ4LC0xNjYwNTAzMzEyLC0yNDg1
-MDg2NTcsMjExMzU2MzYzOSwtMTk5OTMxODc3MiwtMjAyOTUzNT
-g1MywtMTExNzk1ODg4Nyw0MDc4MjY3OTcsMjEwOTcyODQ5OSwx
-MTQ1NjYyOTAzXX0=
+eyJoaXN0b3J5IjpbLTE1NDg1NTUzMzUsLTIwMDA3NTg5MDksLT
+EyMTY3NTc1NDEsMTU5MDA5NDAxMCwxNjQzOTE4OTQ4LC0xNjYw
+NTAzMzEyLC0yNDg1MDg2NTcsMjExMzU2MzYzOSwtMTk5OTMxOD
+c3MiwtMjAyOTUzNTg1MywtMTExNzk1ODg4Nyw0MDc4MjY3OTcs
+MjEwOTcyODQ5OSwxMTQ1NjYyOTAzXX0=
 -->
