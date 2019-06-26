@@ -1,7 +1,7 @@
 <center><b>or: It's APIs All the Way Down</b></center>
 „Ἐν ἀρχῇ ἦν ὁ λόγος.“
 
-Architecture isn't something that just happens. Architecture 
+Architecture isn't something that just happens. Architecture can't be an afterthought Architecture isn't just the packaging around functionality. 
 
 Is Software Architecture an emergent property?
 
@@ -100,7 +100,7 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTY3MzU3NSwtOTgwODU0MTYsMTc0Mz
+eyJoaXN0b3J5IjpbMjA3ODcyOTk1NSwtOTgwODU0MTYsMTc0Mz
 I2NDcxOSwtMTI2OTIyNDY3LC0xNTQ4NTU1MzM1LC0yMDAwNzU4
 OTA5LC0xMjE2NzU3NTQxLDE1OTAwOTQwMTAsMTY0MzkxODk0OC
 wtMTY2MDUwMzMxMiwtMjQ4NTA4NjU3LDIxMTM1NjM2MzksLTE5
