@@ -1,6 +1,6 @@
 <center><b>or: It's APIs All the Way Down</b></center>
 
-# A few Words about Software Architecture
+# A few Words on Software Architecture
 > Ἐν ἀρχῇ ἦν ὁ λόγος.
 
 Architecture isn't something that just happens. Architecture can't be an afterthought. Architecture isn't just the packaging of functionality. Architecture is an emergent property of a well designed system. You can make many decisions during the design process that influence its flavor but none of those change its substance. 
@@ -127,11 +127,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDU5MDg1OCw1OTk2MTM2NTksLTIwNj
-gyNDY0NiwzNzE4NTAyMzMsLTIxMjI2MTA2MjksLTEyODU5NDc0
-MDgsNjY4NzY0MTA2LDIxMzAyNDg3NTUsLTIwODk3OTYwMzgsLT
-IwMDkwMDIwMCwxMzI5MzQ4MDI2LC0xMjA4NDU1MjI0LDY2MTY5
-MjAwNywyNzQwMDU0OTksMzI1ODA0OTcsLTgyNzUwOTgyMSwtMT
-Q0NzczMjg2OCwtOTgwODU0MTYsMTc0MzI2NDcxOSwtMTI2OTIy
-NDY3XX0=
+eyJoaXN0b3J5IjpbLTE2NjIzODM4ODIsMjA4MDU5MDg1OCw1OT
+k2MTM2NTksLTIwNjgyNDY0NiwzNzE4NTAyMzMsLTIxMjI2MTA2
+MjksLTEyODU5NDc0MDgsNjY4NzY0MTA2LDIxMzAyNDg3NTUsLT
+IwODk3OTYwMzgsLTIwMDkwMDIwMCwxMzI5MzQ4MDI2LC0xMjA4
+NDU1MjI0LDY2MTY5MjAwNywyNzQwMDU0OTksMzI1ODA0OTcsLT
+gyNzUwOTgyMSwtMTQ0NzczMjg2OCwtOTgwODU0MTYsMTc0MzI2
+NDcxOV19
 -->
