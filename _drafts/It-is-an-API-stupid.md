@@ -35,7 +35,7 @@ software architecture as api design
 
 
 Everything is an API
--> a Class is the smallest API (you worl with / on)
+-> a Class is the smallest API (you work with / on)
 -- Statelessness, Closed, The programmer is the enemy
 
 
@@ -92,7 +92,7 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTM4NTg2NTQsLTEyMTY3NTc1NDEsMT
+eyJoaXN0b3J5IjpbLTIwMDA3NTg5MDksLTEyMTY3NTc1NDEsMT
 U5MDA5NDAxMCwxNjQzOTE4OTQ4LC0xNjYwNTAzMzEyLC0yNDg1
 MDg2NTcsMjExMzU2MzYzOSwtMTk5OTMxODc3MiwtMjAyOTUzNT
 g1MywtMTExNzk1ODg4Nyw0MDc4MjY3OTcsMjEwOTcyODQ5OSwx
