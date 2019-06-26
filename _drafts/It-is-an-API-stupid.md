@@ -1,3 +1,10 @@
+---
+title: It's an API Stupid 
+tags:
+- architecture
+- programming
+- Obj
+---
 <center><b>or: It's APIs All the Way Down</b></center>
 
 # A very few Words on Software Architecture
@@ -145,11 +152,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjY2NDU1LC0xODkyNjgxMTA5LC04MT
-k3Mjg5NjAsLTEzMDAxMDU0MTIsMTgyNDA4MTgyLDM5NjYyNjQ2
-NywyMTA0MTg0NjA1LC0zMzE3MTE1NjcsMjA4MDU5MDg1OCw1OT
-k2MTM2NTksLTIwNjgyNDY0NiwzNzE4NTAyMzMsLTIxMjI2MTA2
-MjksLTEyODU5NDc0MDgsNjY4NzY0MTA2LDIxMzAyNDg3NTUsLT
-IwODk3OTYwMzgsLTIwMDkwMDIwMCwxMzI5MzQ4MDI2LC0xMjA4
-NDU1MjI0XX0=
+eyJoaXN0b3J5IjpbMTU4MTgzMzM1OSwtNzI2NjY0NTUsLTE4OT
+I2ODExMDksLTgxOTcyODk2MCwtMTMwMDEwNTQxMiwxODI0MDgx
+ODIsMzk2NjI2NDY3LDIxMDQxODQ2MDUsLTMzMTcxMTU2NywyMD
+gwNTkwODU4LDU5OTYxMzY1OSwtMjA2ODI0NjQ2LDM3MTg1MDIz
+MywtMjEyMjYxMDYyOSwtMTI4NTk0NzQwOCw2Njg3NjQxMDYsMj
+EzMDI0ODc1NSwtMjA4OTc5NjAzOCwtMjAwOTAwMjAwLDEzMjkz
+NDgwMjZdfQ==
 -->
