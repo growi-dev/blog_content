@@ -1,6 +1,8 @@
 <center><b>or: It's APIs All the Way Down</b></center>
 
+Syst
 
+You can look at a software system 
 
 
 Diablo Anecdote
@@ -95,9 +97,9 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg1NTUzMzUsLTIwMDA3NTg5MDksLT
-EyMTY3NTc1NDEsMTU5MDA5NDAxMCwxNjQzOTE4OTQ4LC0xNjYw
-NTAzMzEyLC0yNDg1MDg2NTcsMjExMzU2MzYzOSwtMTk5OTMxOD
-c3MiwtMjAyOTUzNTg1MywtMTExNzk1ODg4Nyw0MDc4MjY3OTcs
-MjEwOTcyODQ5OSwxMTQ1NjYyOTAzXX0=
+eyJoaXN0b3J5IjpbMjA0NDc4MTA0LC0xNTQ4NTU1MzM1LC0yMD
+AwNzU4OTA5LC0xMjE2NzU3NTQxLDE1OTAwOTQwMTAsMTY0Mzkx
+ODk0OCwtMTY2MDUwMzMxMiwtMjQ4NTA4NjU3LDIxMTM1NjM2Mz
+ksLTE5OTkzMTg3NzIsLTIwMjk1MzU4NTMsLTExMTc5NTg4ODcs
+NDA3ODI2Nzk3LDIxMDk3Mjg0OTksMTE0NTY2MjkwM119
 -->
