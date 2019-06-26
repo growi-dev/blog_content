@@ -6,7 +6,7 @@
 Architecture isn't something that just happens. Architecture can't be an afterthought. Architecture isn't just the packaging of functionality. Architecture is an emergent property of a well designed system. You can make many decisions during the design process that influence its flavor but none of those change its substance. 
 Architecture is an expression of the constraints that are defined by what we mean by a "well designed system". While that seems tautological at first glance, it isn't. The design of a system is driven by a set of properties we want the system to exhibit. The architecture is the way those properties are realized in the system. It is the difference between the what and the how. Therefore a well designed system is a system that expresses the right properties for its use cases while a well implemented architecture fulfills those properties.
 
-While the set of properties a system should exhibit differs violently on a case to case basis, some are widely understood as being the lowest common denominator of all well designed systems:
+While the set of properties a system should exhibit differs violently on a case to case basis, some are widely understood as being the lowest common denominator:
 - correctness (duh!)
 - extensibility
 - maintainability
@@ -127,11 +127,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODU5NDc0MDgsNjY4NzY0MTA2LDIxMz
-AyNDg3NTUsLTIwODk3OTYwMzgsLTIwMDkwMDIwMCwxMzI5MzQ4
-MDI2LC0xMjA4NDU1MjI0LDY2MTY5MjAwNywyNzQwMDU0OTksMz
-I1ODA0OTcsLTgyNzUwOTgyMSwtMTQ0NzczMjg2OCwtOTgwODU0
-MTYsMTc0MzI2NDcxOSwtMTI2OTIyNDY3LC0xNTQ4NTU1MzM1LC
-0yMDAwNzU4OTA5LC0xMjE2NzU3NTQxLDE1OTAwOTQwMTAsMTY0
-MzkxODk0OF19
+eyJoaXN0b3J5IjpbLTIxMjI2MTA2MjksLTEyODU5NDc0MDgsNj
+Y4NzY0MTA2LDIxMzAyNDg3NTUsLTIwODk3OTYwMzgsLTIwMDkw
+MDIwMCwxMzI5MzQ4MDI2LC0xMjA4NDU1MjI0LDY2MTY5MjAwNy
+wyNzQwMDU0OTksMzI1ODA0OTcsLTgyNzUwOTgyMSwtMTQ0Nzcz
+Mjg2OCwtOTgwODU0MTYsMTc0MzI2NDcxOSwtMTI2OTIyNDY3LC
+0xNTQ4NTU1MzM1LC0yMDAwNzU4OTA5LC0xMjE2NzU3NTQxLDE1
+OTAwOTQwMTBdfQ==
 -->
