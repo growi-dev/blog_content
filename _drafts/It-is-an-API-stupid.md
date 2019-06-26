@@ -10,10 +10,10 @@ While the set of properties a system should exhibit differs wildly on a case to 
 - maintainability
 
 other might be
-- performance
+- stability
+- high performance
 - scalability
-- plattform independence
-- 
+- platform independence
 
 
 
@@ -117,11 +117,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MzY3NTQzNiwtODI3NTA5ODIxLC0xND
-Q3NzMyODY4LC05ODA4NTQxNiwxNzQzMjY0NzE5LC0xMjY5MjI0
-NjcsLTE1NDg1NTUzMzUsLTIwMDA3NTg5MDksLTEyMTY3NTc1ND
-EsMTU5MDA5NDAxMCwxNjQzOTE4OTQ4LC0xNjYwNTAzMzEyLC0y
-NDg1MDg2NTcsMjExMzU2MzYzOSwtMTk5OTMxODc3MiwtMjAyOT
-UzNTg1MywtMTExNzk1ODg4Nyw0MDc4MjY3OTcsMjEwOTcyODQ5
-OSwxMTQ1NjYyOTAzXX0=
+eyJoaXN0b3J5IjpbMzI1ODA0OTcsLTgyNzUwOTgyMSwtMTQ0Nz
+czMjg2OCwtOTgwODU0MTYsMTc0MzI2NDcxOSwtMTI2OTIyNDY3
+LC0xNTQ4NTU1MzM1LC0yMDAwNzU4OTA5LC0xMjE2NzU3NTQxLD
+E1OTAwOTQwMTAsMTY0MzkxODk0OCwtMTY2MDUwMzMxMiwtMjQ4
+NTA4NjU3LDIxMTM1NjM2MzksLTE5OTkzMTg3NzIsLTIwMjk1Mz
+U4NTMsLTExMTc5NTg4ODcsNDA3ODI2Nzk3LDIxMDk3Mjg0OTks
+MTE0NTY2MjkwM119
 -->
