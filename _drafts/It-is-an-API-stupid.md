@@ -17,7 +17,7 @@ what is a system
 
 level:
 - independent systems ???
-- interdependent systems (app / db / auth) 
+- interdependent systems (app / db / auth)  ???
 - components 
 - packages
 - class
@@ -92,8 +92,9 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDA5NDAxMCwxNjQzOTE4OTQ4LC0xNj
-YwNTAzMzEyLC0yNDg1MDg2NTcsMjExMzU2MzYzOSwtMTk5OTMx
-ODc3MiwtMjAyOTUzNTg1MywtMTExNzk1ODg4Nyw0MDc4MjY3OT
-csMjEwOTcyODQ5OSwxMTQ1NjYyOTAzXX0=
+eyJoaXN0b3J5IjpbLTEyMTY3NTc1NDEsMTU5MDA5NDAxMCwxNj
+QzOTE4OTQ4LC0xNjYwNTAzMzEyLC0yNDg1MDg2NTcsMjExMzU2
+MzYzOSwtMTk5OTMxODc3MiwtMjAyOTUzNTg1MywtMTExNzk1OD
+g4Nyw0MDc4MjY3OTcsMjEwOTcyODQ5OSwxMTQ1NjYyOTAzXX0=
+
 -->
