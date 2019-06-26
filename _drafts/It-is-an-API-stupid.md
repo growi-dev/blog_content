@@ -70,6 +70,9 @@ Everything is an API
 
 You can look at a software system from a variety of perspectives and distances.
 
+# Somethings Owed
+Process -> SOLID Principles
+Maintainablillity -> What? How
 
 Diablo Anecdote
 https://medium.com/@berniedurfee/never-trust-a-client-not-even-your-own-2de342723674
@@ -145,11 +148,11 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTk2MDc5NSwyMDA0NTc5OTkxLDIwOD
-kzOTkwNDAsMTUxODI3MDY4NCwtODg5NDc3MzM3LC0xOTAxMDcx
-MTg0LDE2MjU0NDQ4MjQsLTEwMDQ5NjAwMTUsLTcyNjY2NDU1LC
-0xODkyNjgxMTA5LC04MTk3Mjg5NjAsLTEzMDAxMDU0MTIsMTgy
-NDA4MTgyLDM5NjYyNjQ2NywyMTA0MTg0NjA1LC0zMzE3MTE1Nj
-csMjA4MDU5MDg1OCw1OTk2MTM2NTksLTIwNjgyNDY0NiwzNzE4
-NTAyMzNdfQ==
+eyJoaXN0b3J5IjpbMTM5NzkyMjExOSwtMjc1OTYwNzk1LDIwMD
+Q1Nzk5OTEsMjA4OTM5OTA0MCwxNTE4MjcwNjg0LC04ODk0Nzcz
+MzcsLTE5MDEwNzExODQsMTYyNTQ0NDgyNCwtMTAwNDk2MDAxNS
+wtNzI2NjY0NTUsLTE4OTI2ODExMDksLTgxOTcyODk2MCwtMTMw
+MDEwNTQxMiwxODI0MDgxODIsMzk2NjI2NDY3LDIxMDQxODQ2MD
+UsLTMzMTcxMTU2NywyMDgwNTkwODU4LDU5OTYxMzY1OSwtMjA2
+ODI0NjQ2XX0=
 -->
