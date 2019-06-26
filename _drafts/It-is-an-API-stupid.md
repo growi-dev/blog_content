@@ -22,7 +22,7 @@ High performance and low operational or building costs can also be thrown in the
 Creating a system that embodies the three core properties can be achieved in a number of ways, depending the paradigms you are employing in building it, but they are always driven by the same principles.
 _Correctness_ is best accomplished by creating readable, independent, atomic and therefore testable functions.
 _Extensibility_ is achieved by decoupling logically independent functionality and providing well defined communication channels in between.
-_Maintainability_ is heavily driven by the other two and mainly constrains how those should be implemented. Or to put it another way _maintainability_
+_Maintainability_ is heavily driven by the other two and mainly constrains how those should be implemented. Or to put it another way _maintainability_ is a measure on how well other relevant driving principles are enforced throughout the system.
 
 
 
@@ -125,11 +125,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0MjIwMjk3LC0yMDg5Nzk2MDM4LC0yMD
-A5MDAyMDAsMTMyOTM0ODAyNiwtMTIwODQ1NTIyNCw2NjE2OTIw
-MDcsMjc0MDA1NDk5LDMyNTgwNDk3LC04Mjc1MDk4MjEsLTE0ND
-c3MzI4NjgsLTk4MDg1NDE2LDE3NDMyNjQ3MTksLTEyNjkyMjQ2
-NywtMTU0ODU1NTMzNSwtMjAwMDc1ODkwOSwtMTIxNjc1NzU0MS
-wxNTkwMDk0MDEwLDE2NDM5MTg5NDgsLTE2NjA1MDMzMTIsLTI0
-ODUwODY1N119
+eyJoaXN0b3J5IjpbMjEzMDI0ODc1NSwtMjA4OTc5NjAzOCwtMj
+AwOTAwMjAwLDEzMjkzNDgwMjYsLTEyMDg0NTUyMjQsNjYxNjky
+MDA3LDI3NDAwNTQ5OSwzMjU4MDQ5NywtODI3NTA5ODIxLC0xND
+Q3NzMyODY4LC05ODA4NTQxNiwxNzQzMjY0NzE5LC0xMjY5MjI0
+NjcsLTE1NDg1NTUzMzUsLTIwMDA3NTg5MDksLTEyMTY3NTc1ND
+EsMTU5MDA5NDAxMCwxNjQzOTE4OTQ4LC0xNjYwNTAzMzEyLC0y
+NDg1MDg2NTddfQ==
 -->
