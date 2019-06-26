@@ -1,6 +1,7 @@
 <center><b>or: It's APIs All the Way Down</b></center>
 
-# A very few Words on Software Architecture> Ἐν ἀρχῇ ἦν ὁ λόγος.
+# A very few Words on Software Architecture
+> Ἐν ἀρχῇ ἦν ὁ λόγος.
 
 Architecture isn't something that just happens. Architecture can't be an afterthought. Architecture isn't just the packaging of functionality. Architecture is an emergent property of a well designed system. You can make many decisions during the design process that influence its flavor but none of those change its substance. 
 Architecture is an expression of the constraints that are defined by what we mean by a "well designed system". While that seems tautological at first glance, it isn't. The design of a system is driven by a set of properties we want the system to exhibit. The architecture is the way those properties are realized in the system. It is the difference between the what and the how. Therefore a well designed system is a system that expresses the right properties for its use cases while a well implemented architecture fulfills those properties.
@@ -133,11 +134,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTI3NzAxNCwxODI0MDgxODIsMzk2Nj
-I2NDY3LDIxMDQxODQ2MDUsLTMzMTcxMTU2NywyMDgwNTkwODU4
-LDU5OTYxMzY1OSwtMjA2ODI0NjQ2LDM3MTg1MDIzMywtMjEyMj
-YxMDYyOSwtMTI4NTk0NzQwOCw2Njg3NjQxMDYsMjEzMDI0ODc1
-NSwtMjA4OTc5NjAzOCwtMjAwOTAwMjAwLDEzMjkzNDgwMjYsLT
-EyMDg0NTUyMjQsNjYxNjkyMDA3LDI3NDAwNTQ5OSwzMjU4MDQ5
-N119
+eyJoaXN0b3J5IjpbLTEzMDAxMDU0MTIsMTgyNDA4MTgyLDM5Nj
+YyNjQ2NywyMTA0MTg0NjA1LC0zMzE3MTE1NjcsMjA4MDU5MDg1
+OCw1OTk2MTM2NTksLTIwNjgyNDY0NiwzNzE4NTAyMzMsLTIxMj
+I2MTA2MjksLTEyODU5NDc0MDgsNjY4NzY0MTA2LDIxMzAyNDg3
+NTUsLTIwODk3OTYwMzgsLTIwMDkwMDIwMCwxMzI5MzQ4MDI2LC
+0xMjA4NDU1MjI0LDY2MTY5MjAwNywyNzQwMDU0OTksMzI1ODA0
+OTddfQ==
 -->
