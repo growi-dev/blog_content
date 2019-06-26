@@ -8,7 +8,10 @@ While the set of properties a system should exhibit differs wildly on a case to 
 - correctness (duh)
 - extensibility
 - maintainability
-- 
+
+other might be
+- perormance
+- scalability
 
 
 
@@ -112,11 +115,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzUwOTgyMSwtMTQ0NzczMjg2OCwtOT
-gwODU0MTYsMTc0MzI2NDcxOSwtMTI2OTIyNDY3LC0xNTQ4NTU1
-MzM1LC0yMDAwNzU4OTA5LC0xMjE2NzU3NTQxLDE1OTAwOTQwMT
-AsMTY0MzkxODk0OCwtMTY2MDUwMzMxMiwtMjQ4NTA4NjU3LDIx
-MTM1NjM2MzksLTE5OTkzMTg3NzIsLTIwMjk1MzU4NTMsLTExMT
-c5NTg4ODcsNDA3ODI2Nzk3LDIxMDk3Mjg0OTksMTE0NTY2Mjkw
-M119
+eyJoaXN0b3J5IjpbNTI2ODg0MzE3LC04Mjc1MDk4MjEsLTE0ND
+c3MzI4NjgsLTk4MDg1NDE2LDE3NDMyNjQ3MTksLTEyNjkyMjQ2
+NywtMTU0ODU1NTMzNSwtMjAwMDc1ODkwOSwtMTIxNjc1NzU0MS
+wxNTkwMDk0MDEwLDE2NDM5MTg5NDgsLTE2NjA1MDMzMTIsLTI0
+ODUwODY1NywyMTEzNTYzNjM5LC0xOTk5MzE4NzcyLC0yMDI5NT
+M1ODUzLC0xMTE3OTU4ODg3LDQwNzgyNjc5NywyMTA5NzI4NDk5
+LDExNDU2NjI5MDNdfQ==
 -->
