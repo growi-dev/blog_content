@@ -25,7 +25,7 @@ Creating a system that embodies the three core properties can be achieved in a n
 - _Extensibility_ is achieved by decoupling logically independent functionality and providing well defined communication channels in between.
 - _Maintainability_ is heavily driven by the other two and mainly constrains how those should be implemented. Or to put it another way: _Maintainability_ is a measure on how well the relevant driving principles are enforced throughout the system.
 
-The principles identified above comunicate a clear possible solution: create independent c
+The principles identified above comunicate a clear possible solution: create independent bundles od  
 
 
 
@@ -127,7 +127,7 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NjQ0MjU0NiwyMTA0MTg0NjA1LC0zMz
+eyJoaXN0b3J5IjpbLTY4NzUzMzE0NSwyMTA0MTg0NjA1LC0zMz
 E3MTE1NjcsMjA4MDU5MDg1OCw1OTk2MTM2NTksLTIwNjgyNDY0
 NiwzNzE4NTAyMzMsLTIxMjI2MTA2MjksLTEyODU5NDc0MDgsNj
 Y4NzY0MTA2LDIxMzAyNDg3NTUsLTIwODk3OTYwMzgsLTIwMDkw
