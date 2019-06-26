@@ -1,7 +1,8 @@
 <center><b>or: It's APIs All the Way Down</b></center>
 „Ἐν ἀρχῇ ἦν ὁ λόγος.“
 
-Architecture isn't something that just happens. Architecture can't be an afterthought Architecture isn't just the packaging of functionality. Architecture is an emergent property of a well designed system. You can make many decisions during the design process that influence it's flavor but none of those change it's substance.
+Architecture isn't something that just happens. Architecture can't be an afterthought Architecture isn't just the packaging of functionality. Architecture is an emergent property of a well designed system. You can make many decisions during the design process that influence its flavor but none of those change its substance. 
+The reason is that all s
 
 Is Software Architecture an emergent property?
 
@@ -100,7 +101,7 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjkwNTg4NCwtMTQ0NzczMjg2OCwtOT
+eyJoaXN0b3J5IjpbMTIwMTIyODU5OCwtMTQ0NzczMjg2OCwtOT
 gwODU0MTYsMTc0MzI2NDcxOSwtMTI2OTIyNDY3LC0xNTQ4NTU1
 MzM1LC0yMDAwNzU4OTA5LC0xMjE2NzU3NTQxLDE1OTAwOTQwMT
 AsMTY0MzkxODk0OCwtMTY2MDUwMzMxMiwtMjQ4NTA4NjU3LDIx
