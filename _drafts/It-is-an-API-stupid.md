@@ -25,7 +25,7 @@ level:
 proprties of good apis
 - statelessness / decoupled
 - consistency
-- clear parameter
+- clear parameter / also parameter order
 - clear names
 - short parameter lists
 - wrapper for complex operations
@@ -92,9 +92,9 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTY3NTc1NDEsMTU5MDA5NDAxMCwxNj
-QzOTE4OTQ4LC0xNjYwNTAzMzEyLC0yNDg1MDg2NTcsMjExMzU2
-MzYzOSwtMTk5OTMxODc3MiwtMjAyOTUzNTg1MywtMTExNzk1OD
-g4Nyw0MDc4MjY3OTcsMjEwOTcyODQ5OSwxMTQ1NjYyOTAzXX0=
-
+eyJoaXN0b3J5IjpbLTIwMTM4NTg2NTQsLTEyMTY3NTc1NDEsMT
+U5MDA5NDAxMCwxNjQzOTE4OTQ4LC0xNjYwNTAzMzEyLC0yNDg1
+MDg2NTcsMjExMzU2MzYzOSwtMTk5OTMxODc3MiwtMjAyOTUzNT
+g1MywtMTExNzk1ODg4Nyw0MDc4MjY3OTcsMjEwOTcyODQ5OSwx
+MTQ1NjYyOTAzXX0=
 -->
