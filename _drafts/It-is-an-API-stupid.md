@@ -2,7 +2,7 @@
 „Ἐν ἀρχῇ ἦν ὁ λόγος.“
 
 Architecture isn't something that just happens. Architecture can't be an afterthought. Architecture isn't just the packaging of functionality. Architecture is an emergent property of a well designed system. You can make many decisions during the design process that influence its flavor but none of those change its substance. 
-
+Software Architecture is the handling of the constraints that are defined by what 
 
 Is Software Architecture an emergent property?
 
@@ -101,11 +101,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTM5NzgxNiwtMTQ0NzczMjg2OCwtOT
-gwODU0MTYsMTc0MzI2NDcxOSwtMTI2OTIyNDY3LC0xNTQ4NTU1
-MzM1LC0yMDAwNzU4OTA5LC0xMjE2NzU3NTQxLDE1OTAwOTQwMT
-AsMTY0MzkxODk0OCwtMTY2MDUwMzMxMiwtMjQ4NTA4NjU3LDIx
-MTM1NjM2MzksLTE5OTkzMTg3NzIsLTIwMjk1MzU4NTMsLTExMT
-c5NTg4ODcsNDA3ODI2Nzk3LDIxMDk3Mjg0OTksMTE0NTY2Mjkw
-M119
+eyJoaXN0b3J5IjpbLTIwODg0NTQzNTEsLTE0NDc3MzI4NjgsLT
+k4MDg1NDE2LDE3NDMyNjQ3MTksLTEyNjkyMjQ2NywtMTU0ODU1
+NTMzNSwtMjAwMDc1ODkwOSwtMTIxNjc1NzU0MSwxNTkwMDk0MD
+EwLDE2NDM5MTg5NDgsLTE2NjA1MDMzMTIsLTI0ODUwODY1Nywy
+MTEzNTYzNjM5LC0xOTk5MzE4NzcyLC0yMDI5NTM1ODUzLC0xMT
+E3OTU4ODg3LDQwNzgyNjc5NywyMTA5NzI4NDk5LDExNDU2NjI5
+MDNdfQ==
 -->
