@@ -1,6 +1,8 @@
 <center><b>or: It's APIs All the Way Down</b></center>
 „Ἐν ἀρχῇ ἦν ὁ λόγος.“
 
+Architecture needs t
+
 Is Software Architecture an emergent property?
 
 You can look at a software system from a variety of perspectives and distances.
@@ -98,10 +100,10 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDg1NDE2LDE3NDMyNjQ3MTksLTEyNj
-kyMjQ2NywtMTU0ODU1NTMzNSwtMjAwMDc1ODkwOSwtMTIxNjc1
-NzU0MSwxNTkwMDk0MDEwLDE2NDM5MTg5NDgsLTE2NjA1MDMzMT
-IsLTI0ODUwODY1NywyMTEzNTYzNjM5LC0xOTk5MzE4NzcyLC0y
-MDI5NTM1ODUzLC0xMTE3OTU4ODg3LDQwNzgyNjc5NywyMTA5Nz
-I4NDk5LDExNDU2NjI5MDNdfQ==
+eyJoaXN0b3J5IjpbLTExNTU5NjgyMDgsLTk4MDg1NDE2LDE3ND
+MyNjQ3MTksLTEyNjkyMjQ2NywtMTU0ODU1NTMzNSwtMjAwMDc1
+ODkwOSwtMTIxNjc1NzU0MSwxNTkwMDk0MDEwLDE2NDM5MTg5ND
+gsLTE2NjA1MDMzMTIsLTI0ODUwODY1NywyMTEzNTYzNjM5LC0x
+OTk5MzE4NzcyLC0yMDI5NTM1ODUzLC0xMTE3OTU4ODg3LDQwNz
+gyNjc5NywyMTA5NzI4NDk5LDExNDU2NjI5MDNdfQ==
 -->
