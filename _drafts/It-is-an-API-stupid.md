@@ -6,6 +6,8 @@
 Architecture isn't something that just happens. Architecture can't be an afterthought. Architecture isn't just the packaging of functionality. Architecture is an emergent property of a well designed system. You can make many decisions during the design process that influence its flavor but none of those change its substance. 
 Architecture is an expression of the constraints that are defined by what we mean by a "well designed system". While that seems tautological at first glance, it isn't. The design of a system is driven by a set of properties we want the system to exhibit. The architecture is the way those properties are realized in the system. It is the difference between the what and the how. Therefore a well designed system is a system that expresses the right properties for its use cases while a well implemented architecture fulfills those properties.
 
+## Extracting some core Principles
+
 While the set of properties a system should exhibit differs violently on a case to case basis, some are widely understood as being the lowest common denominator:
 - correctness (duh!)
 - extensibility
@@ -24,6 +26,8 @@ Creating a system that embodies the three core properties can be achieved in a n
 - _Correctness_ is best accomplished by creating readable, independent, atomic and therefore testable functions.
 - _Extensibility_ is achieved by decoupling logically independent functionality and providing well defined communication channels in between.
 - _Maintainability_ is heavily driven by the other two and mainly constrains how those should be implemented. Or to put it another way: _Maintainability_ is a measure on how well the relevant driving principles are enforced throughout the system.
+
+## First Conclusions
 
 The principles identified above comunicate a clear possible solution: create independent bundles of logically interconnected, minimal funtionality that expose well define entry points. In other words: hide interrelated functionality behind a single API.
 
@@ -136,11 +140,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTcyODk2MCwtMTMwMDEwNTQxMiwxOD
-I0MDgxODIsMzk2NjI2NDY3LDIxMDQxODQ2MDUsLTMzMTcxMTU2
-NywyMDgwNTkwODU4LDU5OTYxMzY1OSwtMjA2ODI0NjQ2LDM3MT
-g1MDIzMywtMjEyMjYxMDYyOSwtMTI4NTk0NzQwOCw2Njg3NjQx
-MDYsMjEzMDI0ODc1NSwtMjA4OTc5NjAzOCwtMjAwOTAwMjAwLD
-EzMjkzNDgwMjYsLTEyMDg0NTUyMjQsNjYxNjkyMDA3LDI3NDAw
-NTQ5OV19
+eyJoaXN0b3J5IjpbMTIwMDUxNDQ3MSwtODE5NzI4OTYwLC0xMz
+AwMTA1NDEyLDE4MjQwODE4MiwzOTY2MjY0NjcsMjEwNDE4NDYw
+NSwtMzMxNzExNTY3LDIwODA1OTA4NTgsNTk5NjEzNjU5LC0yMD
+Y4MjQ2NDYsMzcxODUwMjMzLC0yMTIyNjEwNjI5LC0xMjg1OTQ3
+NDA4LDY2ODc2NDEwNiwyMTMwMjQ4NzU1LC0yMDg5Nzk2MDM4LC
+0yMDA5MDAyMDAsMTMyOTM0ODAyNiwtMTIwODQ1NTIyNCw2NjE2
+OTIwMDddfQ==
 -->
