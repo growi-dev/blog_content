@@ -70,7 +70,7 @@ software architecture as api design
 
 
 Everything is an API
--> a Class is the smallest API (you work with / on)
+-> a Class is the smallest API (you workl with / on)
 -- Statelessness, Closed, The programmer is the enemy
 
 
@@ -127,11 +127,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjI2MTA2MjksLTEyODU5NDc0MDgsNj
-Y4NzY0MTA2LDIxMzAyNDg3NTUsLTIwODk3OTYwMzgsLTIwMDkw
-MDIwMCwxMzI5MzQ4MDI2LC0xMjA4NDU1MjI0LDY2MTY5MjAwNy
-wyNzQwMDU0OTksMzI1ODA0OTcsLTgyNzUwOTgyMSwtMTQ0Nzcz
-Mjg2OCwtOTgwODU0MTYsMTc0MzI2NDcxOSwtMTI2OTIyNDY3LC
-0xNTQ4NTU1MzM1LC0yMDAwNzU4OTA5LC0xMjE2NzU3NTQxLDE1
-OTAwOTQwMTBdfQ==
+eyJoaXN0b3J5IjpbMzcxODUwMjMzLC0yMTIyNjEwNjI5LC0xMj
+g1OTQ3NDA4LDY2ODc2NDEwNiwyMTMwMjQ4NzU1LC0yMDg5Nzk2
+MDM4LC0yMDA5MDAyMDAsMTMyOTM0ODAyNiwtMTIwODQ1NTIyNC
+w2NjE2OTIwMDcsMjc0MDA1NDk5LDMyNTgwNDk3LC04Mjc1MDk4
+MjEsLTE0NDc3MzI4NjgsLTk4MDg1NDE2LDE3NDMyNjQ3MTksLT
+EyNjkyMjQ2NywtMTU0ODU1NTMzNSwtMjAwMDc1ODkwOSwtMTIx
+Njc1NzU0MV19
 -->
