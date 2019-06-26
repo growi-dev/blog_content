@@ -1,8 +1,7 @@
 <center><b>or: It's APIs All the Way Down</b></center>
-„Ἐν ἀρχῇ ἦν ὁ λόγος.“
 
 # A few Words about Architecture
-
+„Ἐν ἀρχῇ ἦν ὁ λόγος.“
 Architecture isn't something that just happens. Architecture can't be an afterthought. Architecture isn't just the packaging of functionality. Architecture is an emergent property of a well designed system. You can make many decisions during the design process that influence its flavor but none of those change its substance. 
 Architecture is an expression of the constraints that are defined by what we mean by a "well designed system". While that seems tautological at first glance, it isn't. The design of a system is driven by a set of properties we want the system to exhibit, the architecture is the way those properties are realized in the system. It is the difference between the what and the how. Therefore a well designed system is a system that expresses the right properties for its use cases while a well implemented architecture fulfills those properties.
 
@@ -21,7 +20,7 @@ High performance and low operational or building costs can also be thrown in the
 
 Creating a system that embodies the three core properties can be achieved in a number of ways, depending the paradigms you are employing in building it, but they are always driven by the same principles.
 _Correctness_ is best accomplished by creating readable, independent, atomic and therefore testable code.
-_Extensibility_ is achieved by decoupling logically independent functionality and providing communication channels between thos.
+_Extensibility_ is achieved by decoupling logically independent functionality and providing well defined communication channels between those.
 _Maintainability_ is heavily  driven by the other two and mainly constrains how those should be implemented.
 
 
@@ -125,11 +124,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzI0NDg3MCwyNzQwMDU0OTksMzI1OD
-A0OTcsLTgyNzUwOTgyMSwtMTQ0NzczMjg2OCwtOTgwODU0MTYs
-MTc0MzI2NDcxOSwtMTI2OTIyNDY3LC0xNTQ4NTU1MzM1LC0yMD
-AwNzU4OTA5LC0xMjE2NzU3NTQxLDE1OTAwOTQwMTAsMTY0Mzkx
-ODk0OCwtMTY2MDUwMzMxMiwtMjQ4NTA4NjU3LDIxMTM1NjM2Mz
-ksLTE5OTkzMTg3NzIsLTIwMjk1MzU4NTMsLTExMTc5NTg4ODcs
-NDA3ODI2Nzk3XX0=
+eyJoaXN0b3J5IjpbMzQ5NDU0MjY0LDI3NDAwNTQ5OSwzMjU4MD
+Q5NywtODI3NTA5ODIxLC0xNDQ3NzMyODY4LC05ODA4NTQxNiwx
+NzQzMjY0NzE5LC0xMjY5MjI0NjcsLTE1NDg1NTUzMzUsLTIwMD
+A3NTg5MDksLTEyMTY3NTc1NDEsMTU5MDA5NDAxMCwxNjQzOTE4
+OTQ4LC0xNjYwNTAzMzEyLC0yNDg1MDg2NTcsMjExMzU2MzYzOS
+wtMTk5OTMxODc3MiwtMjAyOTUzNTg1MywtMTExNzk1ODg4Nyw0
+MDc4MjY3OTddfQ==
 -->
