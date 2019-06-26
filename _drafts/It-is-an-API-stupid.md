@@ -27,7 +27,7 @@ Creating a system that embodies the three core properties can be achieved in a n
 
 The principles identified above comunicate a clear possible solution: create independent bundles of logically interconnected, minimal funtionality that expose well defined communication channels. In other words: hide interrelated functionality behind a single API.
 
-
+# 
 
 
 
@@ -134,7 +134,7 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyODQ0NzQyLDIxMDQxODQ2MDUsLTMzMT
+eyJoaXN0b3J5IjpbMzk2NjI2NDY3LDIxMDQxODQ2MDUsLTMzMT
 cxMTU2NywyMDgwNTkwODU4LDU5OTYxMzY1OSwtMjA2ODI0NjQ2
 LDM3MTg1MDIzMywtMjEyMjYxMDYyOSwtMTI4NTk0NzQwOCw2Nj
 g3NjQxMDYsMjEzMDI0ODc1NSwtMjA4OTc5NjAzOCwtMjAwOTAw
