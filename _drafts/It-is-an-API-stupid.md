@@ -15,7 +15,7 @@ Other desirable properties might be:
 - reusability
 - durability
 
-To create a system that embodies the three core properties 
+Create a system that embodies the three core properties can be achieved in a number of ways, depending on your 
 
 
 
@@ -118,11 +118,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzNjg4NDQyLDMyNTgwNDk3LC04Mjc1MD
-k4MjEsLTE0NDc3MzI4NjgsLTk4MDg1NDE2LDE3NDMyNjQ3MTks
-LTEyNjkyMjQ2NywtMTU0ODU1NTMzNSwtMjAwMDc1ODkwOSwtMT
-IxNjc1NzU0MSwxNTkwMDk0MDEwLDE2NDM5MTg5NDgsLTE2NjA1
-MDMzMTIsLTI0ODUwODY1NywyMTEzNTYzNjM5LC0xOTk5MzE4Nz
-cyLC0yMDI5NTM1ODUzLC0xMTE3OTU4ODg3LDQwNzgyNjc5Nywy
-MTA5NzI4NDk5XX0=
+eyJoaXN0b3J5IjpbMTM2MTQ2OTc4NSwzMjU4MDQ5NywtODI3NT
+A5ODIxLC0xNDQ3NzMyODY4LC05ODA4NTQxNiwxNzQzMjY0NzE5
+LC0xMjY5MjI0NjcsLTE1NDg1NTUzMzUsLTIwMDA3NTg5MDksLT
+EyMTY3NTc1NDEsMTU5MDA5NDAxMCwxNjQzOTE4OTQ4LC0xNjYw
+NTAzMzEyLC0yNDg1MDg2NTcsMjExMzU2MzYzOSwtMTk5OTMxOD
+c3MiwtMjAyOTUzNTg1MywtMTExNzk1ODg4Nyw0MDc4MjY3OTcs
+MjEwOTcyODQ5OV19
 -->
