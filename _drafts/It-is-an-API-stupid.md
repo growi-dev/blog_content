@@ -2,7 +2,7 @@
 „Ἐν ἀρχῇ ἦν ὁ λόγος.“
 
 Architecture isn't something that just happens. Architecture can't be an afterthought. Architecture isn't just the packaging of functionality. Architecture is an emergent property of a well designed system. You can make many decisions during the design process that influence its flavor but none of those change its substance. 
-Architecture is an expression of the constraints that are defined by what we mean by a "well designed system". While that seems tautological at first glance, it isn't. The design of a system is driven by a set of properties we want the system to exhibit, the architecture of a system is the way those properties acomplished.
+Architecture is an expression of the constraints that are defined by what we mean by a "well designed system". While that seems tautological at first glance, it isn't. The design of a system is driven by a set of properties we want the system to exhibit, the architecture is the way those properties are .
 
 
 
@@ -105,7 +105,7 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzI4NDE0OCwtMTQ0NzczMjg2OCwtOT
+eyJoaXN0b3J5IjpbLTM4NDg0MTU5NCwtMTQ0NzczMjg2OCwtOT
 gwODU0MTYsMTc0MzI2NDcxOSwtMTI2OTIyNDY3LC0xNTQ4NTU1
 MzM1LC0yMDAwNzU4OTA5LC0xMjE2NzU3NTQxLDE1OTAwOTQwMT
 AsMTY0MzkxODk0OCwtMTY2MDUwMzMxMiwtMjQ4NTA4NjU3LDIx
