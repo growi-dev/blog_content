@@ -2,7 +2,7 @@
 
 Is Software Architecture an emergent property?
 
-You can look at a software system 
+You can look at a software system from a variety of perspectives and distances.
 
 
 Diablo Anecdote
@@ -97,9 +97,10 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjkyMjQ2NywtMTU0ODU1NTMzNSwtMj
-AwMDc1ODkwOSwtMTIxNjc1NzU0MSwxNTkwMDk0MDEwLDE2NDM5
-MTg5NDgsLTE2NjA1MDMzMTIsLTI0ODUwODY1NywyMTEzNTYzNj
-M5LC0xOTk5MzE4NzcyLC0yMDI5NTM1ODUzLC0xMTE3OTU4ODg3
-LDQwNzgyNjc5NywyMTA5NzI4NDk5LDExNDU2NjI5MDNdfQ==
+eyJoaXN0b3J5IjpbMTc0MzI2NDcxOSwtMTI2OTIyNDY3LC0xNT
+Q4NTU1MzM1LC0yMDAwNzU4OTA5LC0xMjE2NzU3NTQxLDE1OTAw
+OTQwMTAsMTY0MzkxODk0OCwtMTY2MDUwMzMxMiwtMjQ4NTA4Nj
+U3LDIxMTM1NjM2MzksLTE5OTkzMTg3NzIsLTIwMjk1MzU4NTMs
+LTExMTc5NTg4ODcsNDA3ODI2Nzk3LDIxMDk3Mjg0OTksMTE0NT
+Y2MjkwM119
 -->
