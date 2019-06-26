@@ -72,7 +72,7 @@ You can look at a software system from a variety of perspectives and distances.
 
 # Somethings Owed
 Process -> SOLID Principles
-Maintainablillity -> What? How
+Maintainablillity -> What? How?
 
 Diablo Anecdote
 https://medium.com/@berniedurfee/never-trust-a-client-not-even-your-own-2de342723674
@@ -148,11 +148,11 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzkyMjExOSwtMjc1OTYwNzk1LDIwMD
-Q1Nzk5OTEsMjA4OTM5OTA0MCwxNTE4MjcwNjg0LC04ODk0Nzcz
-MzcsLTE5MDEwNzExODQsMTYyNTQ0NDgyNCwtMTAwNDk2MDAxNS
-wtNzI2NjY0NTUsLTE4OTI2ODExMDksLTgxOTcyODk2MCwtMTMw
-MDEwNTQxMiwxODI0MDgxODIsMzk2NjI2NDY3LDIxMDQxODQ2MD
-UsLTMzMTcxMTU2NywyMDgwNTkwODU4LDU5OTYxMzY1OSwtMjA2
-ODI0NjQ2XX0=
+eyJoaXN0b3J5IjpbNDY2MTUwMTA4LC0yNzU5NjA3OTUsMjAwND
+U3OTk5MSwyMDg5Mzk5MDQwLDE1MTgyNzA2ODQsLTg4OTQ3NzMz
+NywtMTkwMTA3MTE4NCwxNjI1NDQ0ODI0LC0xMDA0OTYwMDE1LC
+03MjY2NjQ1NSwtMTg5MjY4MTEwOSwtODE5NzI4OTYwLC0xMzAw
+MTA1NDEyLDE4MjQwODE4MiwzOTY2MjY0NjcsMjEwNDE4NDYwNS
+wtMzMxNzExNTY3LDIwODA1OTA4NTgsNTk5NjEzNjU5LC0yMDY4
+MjQ2NDZdfQ==
 -->
