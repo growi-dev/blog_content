@@ -3,7 +3,8 @@
 
 Architecture isn't something that just happens. Architecture can't be an afterthought. Architecture isn't just the packaging of functionality. Architecture is an emergent property of a well designed system. You can make many decisions during the design process that influence its flavor but none of those change its substance. 
 Architecture is an expression of the constraints that are defined by what we mean by a "well designed system". While that seems tautological at first glance, it isn't. The design of a system is driven by a set of properties we want the system to exhibit, the architecture is the way those properties are realized in the system. It is the difference between the what and the how. Therefore a well designed system is a system that expresses the right properties for its use cases while a well implemented architecture fulfills those properties.
-You can't have a good architecture without a good design.
+
+While the set of properties a system should exhibit differs wildly on a case to case basis
 
 
 
@@ -107,11 +108,11 @@ Everything is an API
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MzkwNjc2MywtMTQ0NzczMjg2OCwtOT
-gwODU0MTYsMTc0MzI2NDcxOSwtMTI2OTIyNDY3LC0xNTQ4NTU1
-MzM1LC0yMDAwNzU4OTA5LC0xMjE2NzU3NTQxLDE1OTAwOTQwMT
-AsMTY0MzkxODk0OCwtMTY2MDUwMzMxMiwtMjQ4NTA4NjU3LDIx
-MTM1NjM2MzksLTE5OTkzMTg3NzIsLTIwMjk1MzU4NTMsLTExMT
-c5NTg4ODcsNDA3ODI2Nzk3LDIxMDk3Mjg0OTksMTE0NTY2Mjkw
-M119
+eyJoaXN0b3J5IjpbLTEzMjQ5NzkxNDcsLTE0NDc3MzI4NjgsLT
+k4MDg1NDE2LDE3NDMyNjQ3MTksLTEyNjkyMjQ2NywtMTU0ODU1
+NTMzNSwtMjAwMDc1ODkwOSwtMTIxNjc1NzU0MSwxNTkwMDk0MD
+EwLDE2NDM5MTg5NDgsLTE2NjA1MDMzMTIsLTI0ODUwODY1Nywy
+MTEzNTYzNjM5LC0xOTk5MzE4NzcyLC0yMDI5NTM1ODUzLC0xMT
+E3OTU4ODg3LDQwNzgyNjc5NywyMTA5NzI4NDk5LDExNDU2NjI5
+MDNdfQ==
 -->
