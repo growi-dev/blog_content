@@ -8,6 +8,8 @@ tags:
 ---
 <center><b>or: It's APIs All the Way Down</b></center>
 
+The following is a
+
 # A very few Words on Software Architecture
 > Ἐν ἀρχῇ ἦν ὁ λόγος.
 
@@ -145,11 +147,11 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTQxNTIwNSwtMjA1OTI4Njc3NCw0Nj
-YxNTAxMDgsLTI3NTk2MDc5NSwyMDA0NTc5OTkxLDIwODkzOTkw
-NDAsMTUxODI3MDY4NCwtODg5NDc3MzM3LC0xOTAxMDcxMTg0LD
-E2MjU0NDQ4MjQsLTEwMDQ5NjAwMTUsLTcyNjY2NDU1LC0xODky
-NjgxMTA5LC04MTk3Mjg5NjAsLTEzMDAxMDU0MTIsMTgyNDA4MT
-gyLDM5NjYyNjQ2NywyMTA0MTg0NjA1LC0zMzE3MTE1NjcsMjA4
-MDU5MDg1OF19
+eyJoaXN0b3J5IjpbMTc1NDc5NjU2OCwxNzUxNDE1MjA1LC0yMD
+U5Mjg2Nzc0LDQ2NjE1MDEwOCwtMjc1OTYwNzk1LDIwMDQ1Nzk5
+OTEsMjA4OTM5OTA0MCwxNTE4MjcwNjg0LC04ODk0NzczMzcsLT
+E5MDEwNzExODQsMTYyNTQ0NDgyNCwtMTAwNDk2MDAxNSwtNzI2
+NjY0NTUsLTE4OTI2ODExMDksLTgxOTcyODk2MCwtMTMwMDEwNT
+QxMiwxODI0MDgxODIsMzk2NjI2NDY3LDIxMDQxODQ2MDUsLTMz
+MTcxMTU2N119
 -->
