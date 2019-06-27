@@ -8,7 +8,7 @@ tags:
 ---
 <center><b>or: It's APIs All the Way Down</b></center>
 
-The following is a brief summery on my views on software architecture. Those views are of course heavily influenced by others who have far more experience at this. 
+The following is a brief summery on my views on software architecture. Those views are of course heavily influenced by others who have far more experience at this.  Nevertheless, I hope that I can 
 
 # A very few Words on Software Architecture
 > Ἐν ἀρχῇ ἦν ὁ λόγος.
@@ -147,11 +147,11 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjAxMTcwMTcsMTc1MTQxNTIwNSwtMj
-A1OTI4Njc3NCw0NjYxNTAxMDgsLTI3NTk2MDc5NSwyMDA0NTc5
-OTkxLDIwODkzOTkwNDAsMTUxODI3MDY4NCwtODg5NDc3MzM3LC
-0xOTAxMDcxMTg0LDE2MjU0NDQ4MjQsLTEwMDQ5NjAwMTUsLTcy
-NjY2NDU1LC0xODkyNjgxMTA5LC04MTk3Mjg5NjAsLTEzMDAxMD
-U0MTIsMTgyNDA4MTgyLDM5NjYyNjQ2NywyMTA0MTg0NjA1LC0z
-MzE3MTE1NjddfQ==
+eyJoaXN0b3J5IjpbOTc4ODcwNzIsMTc1MTQxNTIwNSwtMjA1OT
+I4Njc3NCw0NjYxNTAxMDgsLTI3NTk2MDc5NSwyMDA0NTc5OTkx
+LDIwODkzOTkwNDAsMTUxODI3MDY4NCwtODg5NDc3MzM3LC0xOT
+AxMDcxMTg0LDE2MjU0NDQ4MjQsLTEwMDQ5NjAwMTUsLTcyNjY2
+NDU1LC0xODkyNjgxMTA5LC04MTk3Mjg5NjAsLTEzMDAxMDU0MT
+IsMTgyNDA4MTgyLDM5NjYyNjQ2NywyMTA0MTg0NjA1LC0zMzE3
+MTE1NjddfQ==
 -->
