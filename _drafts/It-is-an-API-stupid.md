@@ -44,7 +44,7 @@ The principles identified above guide us to possible solution: create independen
 # Even fewer Words on Good API Design
 >Never trust the client. The client is in the hands of the enemy.
 
-Good API design 
+Good API design is not easy. 
 
 proprties of good apis
 - statelessness / decoupled / atomic / transactional
@@ -149,7 +149,7 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0ODcxMDEwMiwtMTc5NDAxMTY5OSwxNz
+eyJoaXN0b3J5IjpbMTY2MjE2MDAxMSwtMTc5NDAxMTY5OSwxNz
 UxNDE1MjA1LC0yMDU5Mjg2Nzc0LDQ2NjE1MDEwOCwtMjc1OTYw
 Nzk1LDIwMDQ1Nzk5OTEsMjA4OTM5OTA0MCwxNTE4MjcwNjg0LC
 04ODk0NzczMzcsLTE5MDEwNzExODQsMTYyNTQ0NDgyNCwtMTAw
