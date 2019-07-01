@@ -97,6 +97,8 @@ software architecture as api design
 
 # Footnotes
 [1] https://static.googleusercontent.com/media/research.google.com/de//pubs/archive/32713.pdf
+# Further Reading
+
 
 
 <svg xmlns="http://www.w3.org/2000/svg"   
@@ -151,11 +153,11 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQzNjU2MDMsMTY0MTgxNzAyNCwtMT
-c5NDAxMTY5OSwxNzUxNDE1MjA1LC0yMDU5Mjg2Nzc0LDQ2NjE1
-MDEwOCwtMjc1OTYwNzk1LDIwMDQ1Nzk5OTEsMjA4OTM5OTA0MC
-wxNTE4MjcwNjg0LC04ODk0NzczMzcsLTE5MDEwNzExODQsMTYy
-NTQ0NDgyNCwtMTAwNDk2MDAxNSwtNzI2NjY0NTUsLTE4OTI2OD
-ExMDksLTgxOTcyODk2MCwtMTMwMDEwNTQxMiwxODI0MDgxODIs
-Mzk2NjI2NDY3XX0=
+eyJoaXN0b3J5IjpbLTI3MTk4NDAyOCwxNjQxODE3MDI0LC0xNz
+k0MDExNjk5LDE3NTE0MTUyMDUsLTIwNTkyODY3NzQsNDY2MTUw
+MTA4LC0yNzU5NjA3OTUsMjAwNDU3OTk5MSwyMDg5Mzk5MDQwLD
+E1MTgyNzA2ODQsLTg4OTQ3NzMzNywtMTkwMTA3MTE4NCwxNjI1
+NDQ0ODI0LC0xMDA0OTYwMDE1LC03MjY2NjQ1NSwtMTg5MjY4MT
+EwOSwtODE5NzI4OTYwLC0xMzAwMTA1NDEyLDE4MjQwODE4Miwz
+OTY2MjY0NjddfQ==
 -->
