@@ -44,6 +44,8 @@ The principles identified above guide us to possible solution: create independen
 # Even fewer Words on Good API Design
 >Never trust the client. The client is in the hands of the enemy.
 
+Good API design 
+
 proprties of good apis
 - statelessness / decoupled / atomic / transactional
 - consistency 			vvv
@@ -147,11 +149,11 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQwMTE2OTksMTc1MTQxNTIwNSwtMj
-A1OTI4Njc3NCw0NjYxNTAxMDgsLTI3NTk2MDc5NSwyMDA0NTc5
-OTkxLDIwODkzOTkwNDAsMTUxODI3MDY4NCwtODg5NDc3MzM3LC
-0xOTAxMDcxMTg0LDE2MjU0NDQ4MjQsLTEwMDQ5NjAwMTUsLTcy
-NjY2NDU1LC0xODkyNjgxMTA5LC04MTk3Mjg5NjAsLTEzMDAxMD
-U0MTIsMTgyNDA4MTgyLDM5NjYyNjQ2NywyMTA0MTg0NjA1LC0z
-MzE3MTE1NjddfQ==
+eyJoaXN0b3J5IjpbLTU0ODcxMDEwMiwtMTc5NDAxMTY5OSwxNz
+UxNDE1MjA1LC0yMDU5Mjg2Nzc0LDQ2NjE1MDEwOCwtMjc1OTYw
+Nzk1LDIwMDQ1Nzk5OTEsMjA4OTM5OTA0MCwxNTE4MjcwNjg0LC
+04ODk0NzczMzcsLTE5MDEwNzExODQsMTYyNTQ0NDgyNCwtMTAw
+NDk2MDAxNSwtNzI2NjY0NTUsLTE4OTI2ODExMDksLTgxOTcyOD
+k2MCwtMTMwMDEwNTQxMiwxODI0MDgxODIsMzk2NjI2NDY3LDIx
+MDQxODQ2MDVdfQ==
 -->
