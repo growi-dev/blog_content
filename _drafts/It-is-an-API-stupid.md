@@ -44,7 +44,7 @@ The principles identified above guide us to possible solution: create independen
 # Even fewer Words on Good API Design
 >Never trust the client. The client is in the hands of the enemy.
 
-Good API design is not easy. API design is not more complicated than implementing a good architecture but while the architecture structures your code and is therefore mostly hidden from the outside observer, an API by it's very nature is completely exposed to the outside. The consequence is, that you can't refactor an API  
+Good API design is not easy. API design is not more complicated than implementing a good architecture but while the architecture structures your code and is therefore mostly hidden from the outside observer, an API by it's very nature is completely exposed to the outside. The consequence is, that you can't refactor an API once it has been published because people might actually use it. After all that is the whole point. So 
 
 proprties of good apis
 - statelessness / decoupled / atomic / transactional
@@ -149,11 +149,11 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4MjM4NjUsLTE3OTQwMTE2OTksMTc1MT
-QxNTIwNSwtMjA1OTI4Njc3NCw0NjYxNTAxMDgsLTI3NTk2MDc5
-NSwyMDA0NTc5OTkxLDIwODkzOTkwNDAsMTUxODI3MDY4NCwtOD
-g5NDc3MzM3LC0xOTAxMDcxMTg0LDE2MjU0NDQ4MjQsLTEwMDQ5
-NjAwMTUsLTcyNjY2NDU1LC0xODkyNjgxMTA5LC04MTk3Mjg5Nj
-AsLTEzMDAxMDU0MTIsMTgyNDA4MTgyLDM5NjYyNjQ2NywyMTA0
-MTg0NjA1XX0=
+eyJoaXN0b3J5IjpbMTE0ODMzOTMyMCwtMTc5NDAxMTY5OSwxNz
+UxNDE1MjA1LC0yMDU5Mjg2Nzc0LDQ2NjE1MDEwOCwtMjc1OTYw
+Nzk1LDIwMDQ1Nzk5OTEsMjA4OTM5OTA0MCwxNTE4MjcwNjg0LC
+04ODk0NzczMzcsLTE5MDEwNzExODQsMTYyNTQ0NDgyNCwtMTAw
+NDk2MDAxNSwtNzI2NjY0NTUsLTE4OTI2ODExMDksLTgxOTcyOD
+k2MCwtMTMwMDEwNTQxMiwxODI0MDgxODIsMzk2NjI2NDY3LDIx
+MDQxODQ2MDVdfQ==
 -->
