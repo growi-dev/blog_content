@@ -83,7 +83,7 @@ https://www.raphkoster.com/games/laws-of-online-world-design/the-laws-of-online-
 <image source="http://rosettacode.org/mw/images/d/d7/Fractal_tree.svg" />
 
 
-https://static.googleusercontent.com/media/research.google.com/de//pubs/archive/32713.pdf
+
 
 
 slice and dice
@@ -95,7 +95,8 @@ what is a system
 software architecture as api design
 
 
-
+# Footnotes
+[1] https://static.googleusercontent.com/media/research.google.com/de//pubs/archive/32713.pdf
 
 
 <svg xmlns="http://www.w3.org/2000/svg"   
@@ -150,11 +151,11 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTgxNzAyNCwtMTc5NDAxMTY5OSwxNz
-UxNDE1MjA1LC0yMDU5Mjg2Nzc0LDQ2NjE1MDEwOCwtMjc1OTYw
-Nzk1LDIwMDQ1Nzk5OTEsMjA4OTM5OTA0MCwxNTE4MjcwNjg0LC
-04ODk0NzczMzcsLTE5MDEwNzExODQsMTYyNTQ0NDgyNCwtMTAw
-NDk2MDAxNSwtNzI2NjY0NTUsLTE4OTI2ODExMDksLTgxOTcyOD
-k2MCwtMTMwMDEwNTQxMiwxODI0MDgxODIsMzk2NjI2NDY3LDIx
-MDQxODQ2MDVdfQ==
+eyJoaXN0b3J5IjpbLTE1OTQzNjU2MDMsMTY0MTgxNzAyNCwtMT
+c5NDAxMTY5OSwxNzUxNDE1MjA1LC0yMDU5Mjg2Nzc0LDQ2NjE1
+MDEwOCwtMjc1OTYwNzk1LDIwMDQ1Nzk5OTEsMjA4OTM5OTA0MC
+wxNTE4MjcwNjg0LC04ODk0NzczMzcsLTE5MDEwNzExODQsMTYy
+NTQ0NDgyNCwtMTAwNDk2MDAxNSwtNzI2NjY0NTUsLTE4OTI2OD
+ExMDksLTgxOTcyODk2MCwtMTMwMDEwNTQxMiwxODI0MDgxODIs
+Mzk2NjI2NDY3XX0=
 -->
