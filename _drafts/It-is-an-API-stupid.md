@@ -29,7 +29,7 @@ Other desirable properties might be:
 - reusability
 - durability
 
-High performance and low operational or building costs can also be thrown into the mix, among others.
+Performance, fault tolerance, and low operational or building costs can also be thrown into the mix, among others.
 
 Creating a system that embodies the three core properties can be achieved in a number of ways, depending on the paradigms you are employing in building it, but they are always driven by the same principles.
 
@@ -154,11 +154,11 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzE4MDMxNCwtMTAzMzE1NjAyMCwtMj
-cxOTg0MDI4LDE2NDE4MTcwMjQsLTE3OTQwMTE2OTksMTc1MTQx
-NTIwNSwtMjA1OTI4Njc3NCw0NjYxNTAxMDgsLTI3NTk2MDc5NS
-wyMDA0NTc5OTkxLDIwODkzOTkwNDAsMTUxODI3MDY4NCwtODg5
-NDc3MzM3LC0xOTAxMDcxMTg0LDE2MjU0NDQ4MjQsLTEwMDQ5Nj
-AwMTUsLTcyNjY2NDU1LC0xODkyNjgxMTA5LC04MTk3Mjg5NjAs
-LTEzMDAxMDU0MTJdfQ==
+eyJoaXN0b3J5IjpbMTM1ODE0MjIxLC0xMDMzMTU2MDIwLC0yNz
+E5ODQwMjgsMTY0MTgxNzAyNCwtMTc5NDAxMTY5OSwxNzUxNDE1
+MjA1LC0yMDU5Mjg2Nzc0LDQ2NjE1MDEwOCwtMjc1OTYwNzk1LD
+IwMDQ1Nzk5OTEsMjA4OTM5OTA0MCwxNTE4MjcwNjg0LC04ODk0
+NzczMzcsLTE5MDEwNzExODQsMTYyNTQ0NDgyNCwtMTAwNDk2MD
+AxNSwtNzI2NjY0NTUsLTE4OTI2ODExMDksLTgxOTcyODk2MCwt
+MTMwMDEwNTQxMl19
 -->
