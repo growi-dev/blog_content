@@ -51,6 +51,7 @@ Some of the guidelines derived from this are:
 - clear and consistent names
 - short parameter lists
 - consistent parameter order
+- simple, fault tolerant return values
 - 
 
 
@@ -160,11 +161,11 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY0Mzc2MDg1LC0xODc4NDExNzEyLDM0Nz
-YxOTgyNCwyMDI5MDEzMDk4LC0xMDMzMTU2MDIwLC0yNzE5ODQw
-MjgsMTY0MTgxNzAyNCwtMTc5NDAxMTY5OSwxNzUxNDE1MjA1LC
-0yMDU5Mjg2Nzc0LDQ2NjE1MDEwOCwtMjc1OTYwNzk1LDIwMDQ1
-Nzk5OTEsMjA4OTM5OTA0MCwxNTE4MjcwNjg0LC04ODk0NzczMz
-csLTE5MDEwNzExODQsMTYyNTQ0NDgyNCwtMTAwNDk2MDAxNSwt
-NzI2NjY0NTVdfQ==
+eyJoaXN0b3J5IjpbMTQzMzQ0Nzk5MywtMTg3ODQxMTcxMiwzND
+c2MTk4MjQsMjAyOTAxMzA5OCwtMTAzMzE1NjAyMCwtMjcxOTg0
+MDI4LDE2NDE4MTcwMjQsLTE3OTQwMTE2OTksMTc1MTQxNTIwNS
+wtMjA1OTI4Njc3NCw0NjYxNTAxMDgsLTI3NTk2MDc5NSwyMDA0
+NTc5OTkxLDIwODkzOTkwNDAsMTUxODI3MDY4NCwtODg5NDc3Mz
+M3LC0xOTAxMDcxMTg0LDE2MjU0NDQ4MjQsLTEwMDQ5NjAwMTUs
+LTcyNjY2NDU1XX0=
 -->
