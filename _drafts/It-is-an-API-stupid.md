@@ -33,7 +33,7 @@ Performance, fault tolerance, and low operational or building costs can also be 
 
 Creating a system that embodies the three core properties can be achieved in a number of ways, depending on the paradigms you are employing in building it, but they are always driven by the same principles.
 
-- _Correctness_ is best accomplished by creating readable, independent, atomic and therefore testable functions.
+- _Correctness_ is best accomplished by creating readable, independent, atomic and therefore testable functionality.
 - _Extensibility_ is achieved by decoupling logically independent functionality and providing well defined communication channels in between.
 - _Maintainability_ is heavily driven by the other two and mainly constrains how those should be implemented. Or to put it another way: _Maintainability_ is a measure on how well the relevant driving principles are enforced throughout the system.
 
@@ -154,11 +154,11 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODE0MjIxLC0xMDMzMTU2MDIwLC0yNz
-E5ODQwMjgsMTY0MTgxNzAyNCwtMTc5NDAxMTY5OSwxNzUxNDE1
-MjA1LC0yMDU5Mjg2Nzc0LDQ2NjE1MDEwOCwtMjc1OTYwNzk1LD
-IwMDQ1Nzk5OTEsMjA4OTM5OTA0MCwxNTE4MjcwNjg0LC04ODk0
-NzczMzcsLTE5MDEwNzExODQsMTYyNTQ0NDgyNCwtMTAwNDk2MD
-AxNSwtNzI2NjY0NTUsLTE4OTI2ODExMDksLTgxOTcyODk2MCwt
-MTMwMDEwNTQxMl19
+eyJoaXN0b3J5IjpbLTk2NzY2NzA0MywtMTAzMzE1NjAyMCwtMj
+cxOTg0MDI4LDE2NDE4MTcwMjQsLTE3OTQwMTE2OTksMTc1MTQx
+NTIwNSwtMjA1OTI4Njc3NCw0NjYxNTAxMDgsLTI3NTk2MDc5NS
+wyMDA0NTc5OTkxLDIwODkzOTkwNDAsMTUxODI3MDY4NCwtODg5
+NDc3MzM3LC0xOTAxMDcxMTg0LDE2MjU0NDQ4MjQsLTEwMDQ5Nj
+AwMTUsLTcyNjY2NDU1LC0xODkyNjgxMTA5LC04MTk3Mjg5NjAs
+LTEzMDAxMDU0MTJdfQ==
 -->
