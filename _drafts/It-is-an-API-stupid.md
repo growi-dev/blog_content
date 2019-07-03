@@ -98,7 +98,7 @@ software architecture as api design
 
 # Footnotes
 [1] How to Design a Good API and Why it Matters 
-	<a href = https://static.googleusercontent.com/media/research.google.com/de//pubs/archive/32713.pdf
+	<a href="">Video</a> <a href="https://static.googleusercontent.com/media/research.google.com/de//pubs/archive/32713.pdf"> Slides</a>
 # Further Reading
 
 
@@ -155,7 +155,7 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzkyMzYyNywtMjcxOTg0MDI4LDE2ND
+eyJoaXN0b3J5IjpbLTkxMjQxNzIzNywtMjcxOTg0MDI4LDE2ND
 E4MTcwMjQsLTE3OTQwMTE2OTksMTc1MTQxNTIwNSwtMjA1OTI4
 Njc3NCw0NjYxNTAxMDgsLTI3NTk2MDc5NSwyMDA0NTc5OTkxLD
 IwODkzOTkwNDAsMTUxODI3MDY4NCwtODg5NDc3MzM3LC0xOTAx
