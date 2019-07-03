@@ -50,7 +50,8 @@ The Reader's Digest version is: an API should make sense, be easy to use and har
 Some of the guidelines derived from this are:
 - clear and consistent names
 - short parameter lists
-- clear parameter / also parameter order
+- consistent parameter order
+- 
 
 
 
@@ -159,11 +160,11 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzg0MTE3MTIsMzQ3NjE5ODI0LDIwMj
-kwMTMwOTgsLTEwMzMxNTYwMjAsLTI3MTk4NDAyOCwxNjQxODE3
-MDI0LC0xNzk0MDExNjk5LDE3NTE0MTUyMDUsLTIwNTkyODY3Nz
-QsNDY2MTUwMTA4LC0yNzU5NjA3OTUsMjAwNDU3OTk5MSwyMDg5
-Mzk5MDQwLDE1MTgyNzA2ODQsLTg4OTQ3NzMzNywtMTkwMTA3MT
-E4NCwxNjI1NDQ0ODI0LC0xMDA0OTYwMDE1LC03MjY2NjQ1NSwt
-MTg5MjY4MTEwOV19
+eyJoaXN0b3J5IjpbNjY0Mzc2MDg1LC0xODc4NDExNzEyLDM0Nz
+YxOTgyNCwyMDI5MDEzMDk4LC0xMDMzMTU2MDIwLC0yNzE5ODQw
+MjgsMTY0MTgxNzAyNCwtMTc5NDAxMTY5OSwxNzUxNDE1MjA1LC
+0yMDU5Mjg2Nzc0LDQ2NjE1MDEwOCwtMjc1OTYwNzk1LDIwMDQ1
+Nzk5OTEsMjA4OTM5OTA0MCwxNTE4MjcwNjg0LC04ODk0NzczMz
+csLTE5MDEwNzExODQsMTYyNTQ0NDgyNCwtMTAwNDk2MDAxNSwt
+NzI2NjY0NTVdfQ==
 -->
