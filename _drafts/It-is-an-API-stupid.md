@@ -97,7 +97,7 @@ software architecture as api design
 
 
 # Footnotes
-<a id="f1"></a>[1] Bloch, Joshua, _How to Design a Good API and Why it Matters._ Google Tech Talks.  2007<a href="https://www.youtube.com/watch?v=aAb7hSCtvGw">[Video]</a> <a href="https://static.googleusercontent.com/media/research.google.com/de//pubs/archive/32713.pdf">[Slides]</a>
+<a id="f1"></a>[1] Bloch, Joshua, _How to Design a Good API and Why it Matters._ Google Tech Talks., 2007.<a href="https://www.youtube.com/watch?v=aAb7hSCtvGw">[Video]</a> <a href="https://static.googleusercontent.com/media/research.google.com/de//pubs/archive/32713.pdf">[Slides]</a>
 # Further Reading
 
 
@@ -154,11 +154,11 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDU2Mjk0NiwtMjcxOTg0MDI4LDE2ND
-E4MTcwMjQsLTE3OTQwMTE2OTksMTc1MTQxNTIwNSwtMjA1OTI4
-Njc3NCw0NjYxNTAxMDgsLTI3NTk2MDc5NSwyMDA0NTc5OTkxLD
-IwODkzOTkwNDAsMTUxODI3MDY4NCwtODg5NDc3MzM3LC0xOTAx
-MDcxMTg0LDE2MjU0NDQ4MjQsLTEwMDQ5NjAwMTUsLTcyNjY2ND
-U1LC0xODkyNjgxMTA5LC04MTk3Mjg5NjAsLTEzMDAxMDU0MTIs
-MTgyNDA4MTgyXX0=
+eyJoaXN0b3J5IjpbMTUwNzkxMTc4LC0yNzE5ODQwMjgsMTY0MT
+gxNzAyNCwtMTc5NDAxMTY5OSwxNzUxNDE1MjA1LC0yMDU5Mjg2
+Nzc0LDQ2NjE1MDEwOCwtMjc1OTYwNzk1LDIwMDQ1Nzk5OTEsMj
+A4OTM5OTA0MCwxNTE4MjcwNjg0LC04ODk0NzczMzcsLTE5MDEw
+NzExODQsMTYyNTQ0NDgyNCwtMTAwNDk2MDAxNSwtNzI2NjY0NT
+UsLTE4OTI2ODExMDksLTgxOTcyODk2MCwtMTMwMDEwNTQxMiwx
+ODI0MDgxODJdfQ==
 -->
