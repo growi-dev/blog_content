@@ -45,7 +45,7 @@ The principles identified above guide us to possible solution: create independen
 >Never trust the client. The client is in the hands of the enemy.
 
 Good API design is not easy. API design in itself is not more complicated than implementing a good architecture but while the architecture structures your code and is therefore mostly hidden from the outside observer, an API by it's very nature is completely exposed to the outside. The consequence is, that you can't refactor an API once it has been published because people might actually use it. After all that is the whole point. So you need to get it right the first time and getting something right the first time is hard.
-There is a very informative talk by Joshua Bloch on the topic of good API design <a href="#f1">[1]</a> and I urge you to check it out. On an abstract level his advice boils down 
+There is a very informative talk by Joshua Bloch on the topic of good API design <a href="#f1">[1]</a> and I urge you to check it out. an API should be easy to use and hard to misuse.
 Some of the properties of good API design mentioned in the talk are
 
 - consistency 			vvv
@@ -153,11 +153,11 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjEyOTcyMSwyMDI5MDEzMDk4LC0xMD
-MzMTU2MDIwLC0yNzE5ODQwMjgsMTY0MTgxNzAyNCwtMTc5NDAx
-MTY5OSwxNzUxNDE1MjA1LC0yMDU5Mjg2Nzc0LDQ2NjE1MDEwOC
-wtMjc1OTYwNzk1LDIwMDQ1Nzk5OTEsMjA4OTM5OTA0MCwxNTE4
-MjcwNjg0LC04ODk0NzczMzcsLTE5MDEwNzExODQsMTYyNTQ0ND
-gyNCwtMTAwNDk2MDAxNSwtNzI2NjY0NTUsLTE4OTI2ODExMDks
-LTgxOTcyODk2MF19
+eyJoaXN0b3J5IjpbLTEwNTY5MTI3NzgsMjAyOTAxMzA5OCwtMT
+AzMzE1NjAyMCwtMjcxOTg0MDI4LDE2NDE4MTcwMjQsLTE3OTQw
+MTE2OTksMTc1MTQxNTIwNSwtMjA1OTI4Njc3NCw0NjYxNTAxMD
+gsLTI3NTk2MDc5NSwyMDA0NTc5OTkxLDIwODkzOTkwNDAsMTUx
+ODI3MDY4NCwtODg5NDc3MzM3LC0xOTAxMDcxMTg0LDE2MjU0ND
+Q4MjQsLTEwMDQ5NjAwMTUsLTcyNjY2NDU1LC0xODkyNjgxMTA5
+LC04MTk3Mjg5NjBdfQ==
 -->
