@@ -52,6 +52,7 @@ Some of the guidelines derived from this are:
 - short parameter lists
 - consistent parameter order
 - simple, fault tolerant return values
+- consistent and transparent error handling
 - 
 
 
@@ -161,7 +162,7 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzQ0Nzk5MywtMTg3ODQxMTcxMiwzND
+eyJoaXN0b3J5IjpbMTEwODI0OTA0NiwtMTg3ODQxMTcxMiwzND
 c2MTk4MjQsMjAyOTAxMzA5OCwtMTAzMzE1NjAyMCwtMjcxOTg0
 MDI4LDE2NDE4MTcwMjQsLTE3OTQwMTE2OTksMTc1MTQxNTIwNS
 wtMjA1OTI4Njc3NCw0NjYxNTAxMDgsLTI3NTk2MDc5NSwyMDA0
