@@ -46,15 +46,16 @@ The principles identified above guide us to possible solution: create independen
 
 Good API design is not easy. API design in itself is not more complicated than implementing a good architecture but while the architecture structures your code and is therefore mostly hidden from the outside observer, an API by it's very nature is completely exposed to the outside. The consequence is, that you can't refactor an API once it has been published because people might actually use it. After all that is the whole point. So you need to get it right the first time and getting something right the first time is hard.
 There is a very informative talk by Joshua Bloch on the topic of good API design [1] and I urge you to check it out.
-
+Some of
 properties of good apis
-- statelessness / decoupled / atomic / transactional
+
 - consistency 			vvv
 - clear parameter / also parameter order
 - clear names
 - short parameter lists
 - wrapper for complex operations
 
+- statelessness / decoupled / atomic / transactional
 -- Statelessness, Closed, The programmer is the enemy
 
 # Down the Rabbit Hole 
@@ -96,7 +97,8 @@ software architecture as api design
 
 
 # Footnotes
-[1] https://static.googleusercontent.com/media/research.google.com/de//pubs/archive/32713.pdf
+[1] How to Design a Good API and Why it Matters 
+	<a href = https://static.googleusercontent.com/media/research.google.com/de//pubs/archive/32713.pdf
 # Further Reading
 
 
@@ -153,11 +155,11 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTk4NDAyOCwxNjQxODE3MDI0LC0xNz
-k0MDExNjk5LDE3NTE0MTUyMDUsLTIwNTkyODY3NzQsNDY2MTUw
-MTA4LC0yNzU5NjA3OTUsMjAwNDU3OTk5MSwyMDg5Mzk5MDQwLD
-E1MTgyNzA2ODQsLTg4OTQ3NzMzNywtMTkwMTA3MTE4NCwxNjI1
-NDQ0ODI0LC0xMDA0OTYwMDE1LC03MjY2NjQ1NSwtMTg5MjY4MT
-EwOSwtODE5NzI4OTYwLC0xMzAwMTA1NDEyLDE4MjQwODE4Miwz
-OTY2MjY0NjddfQ==
+eyJoaXN0b3J5IjpbMTQzMzkyMzYyNywtMjcxOTg0MDI4LDE2ND
+E4MTcwMjQsLTE3OTQwMTE2OTksMTc1MTQxNTIwNSwtMjA1OTI4
+Njc3NCw0NjYxNTAxMDgsLTI3NTk2MDc5NSwyMDA0NTc5OTkxLD
+IwODkzOTkwNDAsMTUxODI3MDY4NCwtODg5NDc3MzM3LC0xOTAx
+MDcxMTg0LDE2MjU0NDQ4MjQsLTEwMDQ5NjAwMTUsLTcyNjY2ND
+U1LC0xODkyNjgxMTA5LC04MTk3Mjg5NjAsLTEzMDAxMDU0MTIs
+MTgyNDA4MTgyXX0=
 -->
