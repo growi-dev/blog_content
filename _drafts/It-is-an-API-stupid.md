@@ -48,10 +48,13 @@ Good API design is not easy. API design in itself is not more complicated than i
 There is a very informative talk by Joshua Bloch on the topic of good API design <a href="#f1">[1]</a> and I urge you to check it out. 
 The Reader's Digest version is: an API should make sense, be easy to use and hard to misuse. 
 Some of the properties derived from this are:
-- consistency
+
 - clear parameter / also parameter order
 - clear names
 - short parameter lists
+
+
+- consistency: 
 - wrapper for complex operations
 
 s
@@ -155,11 +158,11 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5NDMyMDQzLDIwMjkwMTMwOTgsLTEwMz
-MxNTYwMjAsLTI3MTk4NDAyOCwxNjQxODE3MDI0LC0xNzk0MDEx
-Njk5LDE3NTE0MTUyMDUsLTIwNTkyODY3NzQsNDY2MTUwMTA4LC
-0yNzU5NjA3OTUsMjAwNDU3OTk5MSwyMDg5Mzk5MDQwLDE1MTgy
-NzA2ODQsLTg4OTQ3NzMzNywtMTkwMTA3MTE4NCwxNjI1NDQ0OD
-I0LC0xMDA0OTYwMDE1LC03MjY2NjQ1NSwtMTg5MjY4MTEwOSwt
-ODE5NzI4OTYwXX0=
+eyJoaXN0b3J5IjpbLTk4NzU1NTAzOSwyMDI5MDEzMDk4LC0xMD
+MzMTU2MDIwLC0yNzE5ODQwMjgsMTY0MTgxNzAyNCwtMTc5NDAx
+MTY5OSwxNzUxNDE1MjA1LC0yMDU5Mjg2Nzc0LDQ2NjE1MDEwOC
+wtMjc1OTYwNzk1LDIwMDQ1Nzk5OTEsMjA4OTM5OTA0MCwxNTE4
+MjcwNjg0LC04ODk0NzczMzcsLTE5MDEwNzExODQsMTYyNTQ0ND
+gyNCwtMTAwNDk2MDAxNSwtNzI2NjY0NTUsLTE4OTI2ODExMDks
+LTgxOTcyODk2MF19
 -->
