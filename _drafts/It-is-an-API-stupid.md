@@ -47,7 +47,7 @@ The principles identified above guide us to possible solution: create independen
 Good API design is not easy. API design in itself is not more complicated than implementing a good architecture but while the architecture structures your code and is therefore mostly hidden from the outside observer, an API by it's very nature is completely exposed to the outside. The consequence is, that you can't refactor an API once it has been published because people might actually use it. After all that is the whole point. So you need to get it right the first time and getting something right the first time is hard.
 There is a very informative talk by Joshua Bloch on the topic of good API design <a href="#f1">[1]</a> and I urge you to check it out. 
 The Reader's Digest version is: an API should make sense, be easy to use and hard to misuse. 
-Some of the guidelines derived from this are:
+Some of the implementation guidelines derived from this are:
 - minimal functionality
 - clear and consistent names
 - short parameter lists
@@ -55,6 +55,8 @@ Some of the guidelines derived from this are:
 - simple, fault tolerant return values
 - consistent and transparent error handling
 - hide implementation details
+
+SUMMERY
 
 I would like to extend that list:
 - consistency: 
@@ -159,11 +161,11 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA2ODI1NjQsLTE4Nzg0MTE3MTIsMz
-Q3NjE5ODI0LDIwMjkwMTMwOTgsLTEwMzMxNTYwMjAsLTI3MTk4
-NDAyOCwxNjQxODE3MDI0LC0xNzk0MDExNjk5LDE3NTE0MTUyMD
-UsLTIwNTkyODY3NzQsNDY2MTUwMTA4LC0yNzU5NjA3OTUsMjAw
-NDU3OTk5MSwyMDg5Mzk5MDQwLDE1MTgyNzA2ODQsLTg4OTQ3Nz
-MzNywtMTkwMTA3MTE4NCwxNjI1NDQ0ODI0LC0xMDA0OTYwMDE1
-LC03MjY2NjQ1NV19
+eyJoaXN0b3J5IjpbLTExNDY1MTQxNTQsLTE4MDA2ODI1NjQsLT
+E4Nzg0MTE3MTIsMzQ3NjE5ODI0LDIwMjkwMTMwOTgsLTEwMzMx
+NTYwMjAsLTI3MTk4NDAyOCwxNjQxODE3MDI0LC0xNzk0MDExNj
+k5LDE3NTE0MTUyMDUsLTIwNTkyODY3NzQsNDY2MTUwMTA4LC0y
+NzU5NjA3OTUsMjAwNDU3OTk5MSwyMDg5Mzk5MDQwLDE1MTgyNz
+A2ODQsLTg4OTQ3NzMzNywtMTkwMTA3MTE4NCwxNjI1NDQ0ODI0
+LC0xMDA0OTYwMDE1XX0=
 -->
