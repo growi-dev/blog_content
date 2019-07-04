@@ -59,7 +59,7 @@ Some of the implementation guidelines derived from this are:
 SUMMERY
 
 I would like to extend that list:
-- consistency: 
+- consistency: <- already there
 - wrapper for complex operations
 - statelessness / decoupled / atomic / transactional
 - Statelessness, Closed, The programmer is the enemy
@@ -76,7 +76,7 @@ level:
 - overloaded methods???
 
 Everything is an API
--> a Class is the smallest API (you workl with / on)
+-> a Class is the smallest API (you work with / on)
 
 You can look at a software system from a variety of perspectives and distances.
 
@@ -161,7 +161,7 @@ software architecture as api design
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDY1MTQxNTQsLTE4MDA2ODI1NjQsLT
+eyJoaXN0b3J5IjpbLTIxMzMwNzU2MzcsLTE4MDA2ODI1NjQsLT
 E4Nzg0MTE3MTIsMzQ3NjE5ODI0LDIwMjkwMTMwOTgsLTEwMzMx
 NTYwMjAsLTI3MTk4NDAyOCwxNjQxODE3MDI0LC0xNzk0MDExNj
 k5LDE3NTE0MTUyMDUsLTIwNTkyODY3NzQsNDY2MTUwMTA4LC0y
